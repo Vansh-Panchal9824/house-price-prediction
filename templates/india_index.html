@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>India House Price Predictor</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #ff9933 0%, #138808 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        h1 {
+            text-align: center;
+            color: #333;
+            font-size: 2em;
+        }
+        
+        .flag {
+            text-align: center;
+            font-size: 3em;
+            margin: 10px 0;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #ff9933;
+            margin-bottom: 30px;
+            font-weight: bold;
+        }
+        
+        .status {
+            background: #28a745;
+            color: white;
+            padding: 10px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: bold;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555;
+            font-weight: 600;
+        }
+        
+        input, select {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+        
+        input:focus, select:focus {
+            outline: none;
+            border-color: #ff9933;
+        }
+        
+        .button-group {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        
+        button {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        
+        .predict-btn {
+            background: linear-gradient(135deg, #ff9933 0%, #ff6b6b 100%);
+            color: white;
+        }
+        
+        .sample-btn {
+            background: #138808;
+            color: white;
+        }
+        
+        .clear-btn {
+            background: #dc3545;
+            color: white;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        
+        .result {
+            margin-top: 30px;
+            padding: 25px;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            border-radius: 15px;
+            display: none;
+        }
+        
+        .result.show {
+            display: block;
+            animation: slideIn 0.5s;
+        }
+        
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .price {
+            font-size: 42px;
+            color: #138808;
+            font-weight: bold;
+            text-align: center;
+            margin: 20px 0;
+        }
+        
+        .confidence {
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+        }
+        
+        .loading {
+            text-align: center;
+            margin: 20px 0;
+            display: none;
+        }
+        
+        .loading.show {
+            display: block;
+        }
+        
+        .spinner {
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #ff9933;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 15px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            display: none;
+        }
+        
+        .error.show {
+            display: block;
+        }
+        
+        .feature-list {
+            margin-top: 20px;
+        }
+        
+        .feature-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .feature-name {
+            font-weight: bold;
+            color: #555;
+        }
+        
+        .feature-value {
+            color: #ff9933;
+            font-weight: bold;
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #999;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>India House Price Predictor</h1>
+        <p class="subtitle">Powered by Indian Real Estate Data</p>
+        
+        <div class="status">
+            System Ready - India Model Active
+        </div>
+        
+        <form id="predictionForm">
+            <div class="form-group">
+                <label>📍 State</label>
+                <select id="state">
+                    <option value="Maharashtra">Maharashtra (Mumbai, Pune)</option>
+                    <option value="Delhi">Delhi NCR</option>
+                    <option value="Karnataka">Karnataka (Bangalore)</option>
+                    <option value="Tamil Nadu">Tamil Nadu (Chennai)</option>
+                    <option value="West Bengal">West Bengal (Kolkata)</option>
+                    <option value="Telangana">Telangana (Hyderabad)</option>
+                    <option value="Gujarat">Gujarat (Ahmedabad)</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label>🏘️ Area Type</label>
+                <select id="area_type">
+                    <option value="Rich">Rich / Premium Locality</option>
+                    <option value="Medium" selected>Medium / Middle Class</option>
+                    <option value="Poor">Poor / Developing Area</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label>📐 Square Feet (sq ft)</label>
+                <input type="number" id="sqft" value="1200" min="300" max="5000">
+            </div>
+            
+            <div class="form-group">
+                <label>🚪 BHK (Bedrooms Hall Kitchen)</label>
+                <select id="bhk">
+                    <option value="1">1 BHK</option>
+                    <option value="2" selected>2 BHK</option>
+                    <option value="3">3 BHK</option>
+                    <option value="4">4 BHK</option>
+                    <option value="5">5 BHK</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label>👥 Population Density (people/sq km)</label>
+                <input type="number" id="population" value="15000" min="1000" max="50000">
+            </div>
+            
+            <div class="form-group">
+                <label>📅 Property Age (years)</label>
+                <input type="number" id="age" value="10" min="0" max="50">
+            </div>
+            
+            <div class="button-group">
+                <button type="button" class="predict-btn" onclick="makePrediction()">🏠 Predict Price</button>
+                <button type="button" class="sample-btn" onclick="loadSampleData()">📋 Sample</button>
+                <button type="button" class="clear-btn" onclick="clearForm()">🗑️ Clear</button>
+            </div>
+        </form>
+        
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Calculating with Indian real estate data...</p>
+        </div>
+        
+        <div class="result" id="result">
+            <h3>🏠 Estimated Property Value</h3>
+            <div class="price" id="price">₹0.00</div>
+            <div class="confidence" id="confidence"></div>
+            
+            <h4>📊 Your Input:</h4>
+            <div id="featuresUsed" class="feature-list"></div>
+            
+            <h4>🎯 Key Factors:</h4>
+            <div id="importanceList" class="feature-list"></div>
+        </div>
+        
+        <div class="error" id="error"></div>
+        
+        <div class="footer">
+            <p>🇮🇳 Made for Indian Real Estate Market | AI-Powered Estimates</p>
+        </div>
+    </div>
+    
+    <script>
+        function loadSampleData() {
+            document.getElementById('state').value = 'Maharashtra';
+            document.getElementById('area_type').value = 'Medium';
+            document.getElementById('sqft').value = '1200';
+            document.getElementById('bhk').value = '3';
+            document.getElementById('population').value = '15000';
+            document.getElementById('age').value = '10';
+        }
+        
+        function clearForm() {
+            document.getElementById('state').value = 'Maharashtra';
+            document.getElementById('area_type').value = 'Medium';
+            document.getElementById('sqft').value = '';
+            document.getElementById('bhk').value = '2';
+            document.getElementById('population').value = '';
+            document.getElementById('age').value = '';
+            document.getElementById('result').classList.remove('show');
+        }
+        
+        async function makePrediction() {
+            document.getElementById('loading').classList.add('show');
+            document.getElementById('result').classList.remove('show');
+            document.getElementById('error').classList.remove('show');
+            
+            const formData = {
+                state: document.getElementById('state').value,
+                sqft: parseFloat(document.getElementById('sqft').value),
+                bhk: parseInt(document.getElementById('bhk').value),
+                area_type: document.getElementById('area_type').value,
+                population: parseFloat(document.getElementById('population').value),
+                age: parseInt(document.getElementById('age').value)
+            };
+            
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify(formData)
+                });
+                
+                const data = await response.json();
+                document.getElementById('loading').classList.remove('show');
+                
+                if (data.success) {
+                    document.getElementById('price').textContent = data.formatted_price;
+                    document.getElementById('confidence').innerHTML = `
+                        85% Confidence: ₹${Math.round(data.confidence.min).toLocaleString()} - ₹${Math.round(data.confidence.max).toLocaleString()}
+                    `;
+                    
+                    const featuresDiv = document.getElementById('featuresUsed');
+                    featuresDiv.innerHTML = '';
+                    for (let [key, value] of Object.entries(data.features_used)) {
+                        const div = document.createElement('div');
+                        div.className = 'feature-item';
+                        let displayKey = key.replace('_', ' ').toUpperCase();
+                        if (key === 'sqft') displayKey = 'Square Feet';
+                        if (key === 'bhk') displayKey = 'BHK';
+                        if (key === 'area_type') displayKey = 'Area Type';
+                        div.innerHTML = `
+                            <span class="feature-name">${displayKey}</span>
+                            <span class="feature-value">${value}</span>
+                        `;
+                        featuresDiv.appendChild(div);
+                    }
+                    
+                    const importanceDiv = document.getElementById('importanceList');
+                    importanceDiv.innerHTML = '';
+                    data.feature_importance.forEach(item => {
+                        const div = document.createElement('div');
+                        div.className = 'feature-item';
+                        div.innerHTML = `
+                            <span class="feature-name">${item.name}</span>
+                            <span class="feature-value">${(item.importance * 100).toFixed(1)}%</span>
+                        `;
+                        importanceDiv.appendChild(div);
+                    });
+                    
+                    document.getElementById('result').classList.add('show');
+                } else {
+                    document.getElementById('error').textContent = data.error;
+                    document.getElementById('error').classList.add('show');
+                }
+            } catch (error) {
+                document.getElementById('loading').classList.remove('show');
+                document.getElementById('error').textContent = 'Error connecting to server';
+                document.getElementById('error').classList.add('show');
+            }
+        }
+        
+        window.addEventListener('load', loadSampleData);
+    </script>
+</body>
+</html>

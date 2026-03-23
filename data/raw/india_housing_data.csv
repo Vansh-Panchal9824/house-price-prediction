@@ -1,0 +1,3001 @@
+country,state,sqft,bhk,area_type,population,age,price
+India,Gujarat,4072,5,Rich,7265,18,94934284
+India,Punjab,3471,3,Rich,2685,1,60973662
+India,Telangana,1484,4,Medium,20769,21,28265201
+India,Rajasthan,774,3,Rich,19942,27,11593594
+India,Karnataka,1567,1,Poor,12394,36,14104911
+India,West Bengal,2735,1,Rich,44323,13,43122275
+India,Rajasthan,2912,2,Medium,24483,6,30991595
+India,Uttar Pradesh,334,1,Poor,27531,39,1263610
+India,Telangana,4143,5,Medium,46758,17,145486656
+India,Delhi,2281,4,Medium,33606,14,108065828
+India,Gujarat,637,5,Rich,22271,25,18101629
+India,Haryana,2362,5,Rich,49984,6,108784199
+India,Maharashtra,691,3,Poor,13666,4,26850541
+India,Kerala,3399,1,Rich,31535,11,50799294
+India,Gujarat,3945,5,Poor,31818,39,43799421
+India,Karnataka,2990,1,Rich,18412,25,63382448
+India,Gujarat,4788,2,Poor,24419,12,39702751
+India,Gujarat,863,5,Rich,46151,3,38672078
+India,Gujarat,1978,3,Poor,34827,12,19224839
+India,Punjab,3457,4,Poor,44585,5,41662384
+India,Haryana,2281,3,Medium,19047,27,32044634
+India,Maharashtra,1606,1,Rich,28251,12,86952254
+India,Gujarat,4713,5,Medium,32968,23,96700510
+India,Telangana,4063,1,Rich,47576,11,96928926
+India,Delhi,1936,1,Poor,28728,1,47211109
+India,Telangana,3774,2,Poor,22556,25,46611456
+India,Gujarat,502,3,Poor,13688,37,3500419
+India,Tamil Nadu,497,3,Medium,45542,15,9879699
+India,Haryana,3697,5,Poor,27370,19,60129841
+India,Tamil Nadu,1669,3,Poor,31206,18,19026999
+India,Gujarat,3276,2,Rich,12111,0,69287982
+India,Rajasthan,4361,2,Rich,31306,6,74153588
+India,Kerala,3943,1,Rich,3049,0,52673876
+India,Haryana,3408,3,Rich,8158,8,78474992
+India,Karnataka,4799,1,Poor,13183,10,57867978
+India,Tamil Nadu,4499,4,Medium,49354,24,95927008
+India,Delhi,4733,2,Medium,3869,34,117439287
+India,Rajasthan,4793,5,Rich,22295,19,101236255
+India,Uttar Pradesh,1518,1,Poor,5735,32,4568656
+India,Punjab,4865,5,Poor,9754,7,53753543
+India,Delhi,1259,1,Rich,30124,18,56187266
+India,Maharashtra,1543,5,Rich,18453,5,154215613
+India,Rajasthan,2627,5,Rich,32216,30,53879127
+India,Maharashtra,2600,5,Poor,36743,22,112147035
+India,Karnataka,2116,2,Medium,24093,2,57512188
+India,Uttar Pradesh,4314,2,Medium,17538,1,38029576
+India,Uttar Pradesh,4641,5,Rich,6801,25,71633303
+India,Rajasthan,3250,1,Rich,46091,19,43389736
+India,Haryana,1466,4,Poor,33097,1,26225230
+India,Telangana,4036,2,Poor,23677,21,43559687
+India,Kerala,4154,3,Medium,3491,36,38690543
+India,West Bengal,1176,4,Rich,33093,34,22694833
+India,Tamil Nadu,4765,4,Rich,47185,29,132080710
+India,Uttar Pradesh,3975,2,Poor,48030,25,21741257
+India,West Bengal,3138,1,Medium,35699,0,32763333
+India,Maharashtra,3149,1,Poor,46543,0,111009553
+India,Gujarat,880,5,Poor,9130,11,10727630
+India,Karnataka,3044,5,Rich,10435,4,155674595
+India,Tamil Nadu,3259,2,Rich,36247,20,68689002
+India,Maharashtra,2057,5,Medium,27646,9,165253972
+India,Tamil Nadu,3551,2,Medium,24289,18,50875439
+India,Maharashtra,4911,2,Rich,30168,27,296257190
+India,Punjab,4046,4,Medium,27144,32,47737246
+India,Punjab,4213,3,Rich,25107,28,59174381
+India,Delhi,2846,2,Rich,35850,22,138288424
+India,Uttar Pradesh,1925,2,Rich,42576,6,27104133
+India,West Bengal,1816,3,Medium,1412,35,14201525
+India,Rajasthan,2804,3,Medium,49816,34,27901391
+India,Delhi,2443,5,Rich,45811,12,252430973
+India,Karnataka,4252,4,Rich,47959,24,196499367
+India,Punjab,695,5,Poor,8400,18,6169443
+India,Gujarat,3082,4,Medium,6486,15,43848799
+India,Karnataka,3238,5,Rich,41419,22,182829770
+India,Gujarat,3282,2,Rich,10348,34,47414705
+India,Punjab,1253,4,Poor,8056,37,7590936
+India,Uttar Pradesh,3293,3,Medium,20065,1,31300065
+India,West Bengal,2686,5,Medium,27432,21,44909121
+India,Gujarat,1624,4,Rich,36909,30,35887047
+India,Haryana,2514,3,Medium,26289,25,37265496
+India,Karnataka,1543,2,Rich,31355,27,51883371
+India,Rajasthan,3372,3,Poor,43956,27,28229943
+India,Haryana,1123,1,Rich,38797,5,25772363
+India,West Bengal,3584,3,Medium,12003,36,29916489
+India,Karnataka,1556,1,Rich,39413,14,45140419
+India,West Bengal,3630,1,Medium,8114,11,29392199
+India,Uttar Pradesh,3319,4,Medium,30703,27,34723254
+India,Uttar Pradesh,839,4,Medium,38732,40,7659046
+India,Punjab,2808,4,Medium,32471,28,33876046
+India,Karnataka,4785,2,Rich,5804,24,121012514
+India,Uttar Pradesh,1315,1,Medium,28712,17,9361859
+India,Maharashtra,4458,1,Poor,21309,26,90669706
+India,Maharashtra,2452,3,Medium,9702,0,109271653
+India,Gujarat,4871,1,Medium,33606,4,67608755
+India,West Bengal,3936,5,Poor,5809,9,42922105
+India,West Bengal,2348,3,Medium,18100,3,30840528
+India,Maharashtra,3719,2,Medium,44125,2,217955774
+India,Haryana,1377,4,Rich,42348,29,46097369
+India,Rajasthan,3114,5,Rich,40764,13,80958071
+India,Karnataka,1629,2,Poor,9017,29,20359339
+India,Karnataka,2317,4,Poor,29920,37,40060501
+India,Haryana,3477,3,Medium,44088,4,85973414
+India,Kerala,3132,4,Rich,37932,33,71356837
+India,Delhi,4118,3,Rich,13015,10,205718146
+India,Rajasthan,3745,4,Poor,46415,3,45262467
+India,Karnataka,966,5,Poor,11161,18,22401310
+India,Delhi,4200,5,Medium,40749,0,321987864
+India,Haryana,3417,2,Medium,43928,13,57723495
+India,Punjab,2596,1,Rich,44221,29,29987519
+India,Maharashtra,2355,1,Medium,15178,14,71722662
+India,Uttar Pradesh,825,2,Medium,29699,22,6279359
+India,Delhi,4921,3,Rich,47391,6,399782930
+India,Gujarat,1831,5,Medium,41441,37,32844156
+India,Rajasthan,4880,4,Poor,26289,38,33750146
+India,Gujarat,425,4,Medium,5632,16,5870243
+India,Rajasthan,366,1,Medium,27734,35,2228658
+India,Delhi,4307,1,Poor,24275,18,82404545
+India,West Bengal,3039,2,Medium,49447,33,30407693
+India,Punjab,4112,1,Rich,28285,20,42213570
+India,Gujarat,3817,1,Medium,14046,2,41338799
+India,Uttar Pradesh,2895,2,Rich,42427,27,39081409
+India,Telangana,3228,3,Medium,39328,1,88424125
+India,Uttar Pradesh,1441,4,Medium,27386,19,15884002
+India,Maharashtra,2348,2,Poor,13941,37,51385368
+India,Punjab,2326,3,Poor,21128,5,19096638
+India,Kerala,1973,4,Rich,40809,12,58075224
+India,Tamil Nadu,1642,5,Rich,44336,16,58821807
+India,Uttar Pradesh,2338,3,Medium,29253,30,18901653
+India,Haryana,4729,5,Medium,9567,10,106514142
+India,Haryana,1870,1,Poor,6415,21,10776464
+India,Uttar Pradesh,1172,5,Poor,31523,29,10425354
+India,West Bengal,3198,3,Rich,1077,25,46253710
+India,Rajasthan,1365,1,Rich,44303,7,18990114
+India,Karnataka,4970,1,Rich,20096,16,135361065
+India,Gujarat,2297,5,Medium,37455,39,40771000
+India,Karnataka,2926,3,Medium,25519,14,79016062
+India,Maharashtra,1554,3,Medium,34187,28,65474860
+India,Maharashtra,1250,1,Rich,39141,3,83328862
+India,Kerala,2165,1,Rich,47197,37,30200309
+India,Tamil Nadu,3528,5,Rich,15382,3,137140275
+India,Delhi,394,3,Poor,40666,35,10079163
+India,Punjab,2416,4,Poor,13298,9,22291245
+India,Telangana,1114,2,Poor,11541,11,13726228
+India,Uttar Pradesh,3581,1,Medium,16328,39,18046173
+India,Haryana,3235,5,Rich,39727,27,112435771
+India,Rajasthan,4446,5,Medium,45327,40,66353791
+India,Gujarat,3161,5,Rich,37244,25,98494916
+India,Telangana,3172,1,Poor,35622,39,27908488
+India,Rajasthan,501,4,Rich,40224,25,9296585
+India,Tamil Nadu,1925,3,Rich,8973,1,48000150
+India,Punjab,3900,3,Medium,42914,23,46356911
+India,Tamil Nadu,3872,1,Medium,38148,21,40720341
+India,Delhi,3420,1,Rich,47163,40,126566255
+India,Telangana,2024,1,Medium,21806,0,32273262
+India,Gujarat,1251,3,Poor,28965,31,10099539
+India,Maharashtra,1800,3,Rich,19449,0,153128029
+India,Delhi,2461,3,Medium,13342,38,75492897
+India,Kerala,2201,2,Medium,48190,27,31600653
+India,Gujarat,3379,1,Rich,46368,2,66335683
+India,Punjab,627,1,Poor,20694,36,2525930
+India,Maharashtra,2443,3,Poor,13175,3,94834273
+India,Telangana,1122,2,Rich,7150,9,26524304
+India,Gujarat,4542,5,Rich,42874,35,126154391
+India,Delhi,2220,5,Medium,23419,10,117571821
+India,Delhi,4866,4,Poor,15596,36,119508693
+India,Rajasthan,3877,4,Medium,30975,16,55284390
+India,Uttar Pradesh,4523,1,Poor,29529,16,19712881
+India,Uttar Pradesh,536,1,Medium,24752,21,3236265
+India,Tamil Nadu,741,5,Medium,12372,33,11393645
+India,Punjab,2475,5,Medium,27665,35,32191454
+India,Delhi,4983,5,Rich,41809,21,398812477
+India,Rajasthan,945,3,Poor,5263,33,4801716
+India,Rajasthan,754,2,Rich,12664,25,8554679
+India,Kerala,4525,4,Medium,39709,0,93451065
+India,Tamil Nadu,4424,5,Poor,25063,35,57955026
+India,Gujarat,1633,2,Poor,24150,23,14061906
+India,West Bengal,2085,4,Rich,9942,19,37702646
+India,Tamil Nadu,4220,3,Poor,46420,33,45383019
+India,Delhi,2420,1,Rich,36111,16,109423920
+India,Punjab,4420,3,Medium,46186,36,42357240
+India,Karnataka,4497,2,Medium,24051,18,96690890
+India,Punjab,3304,1,Poor,37408,11,20413328
+India,Uttar Pradesh,4362,5,Poor,12344,22,32514597
+India,Telangana,4026,3,Rich,26064,25,100773107
+India,Kerala,700,2,Poor,20541,6,5938686
+India,West Bengal,4532,3,Poor,16023,7,43416231
+India,Gujarat,3594,4,Rich,26510,34,70992736
+India,Kerala,1482,3,Poor,36435,33,13658267
+India,Punjab,4578,4,Medium,41998,14,75303000
+India,Tamil Nadu,1220,5,Rich,28345,32,36270420
+India,Kerala,3821,3,Medium,1545,29,35201530
+India,Delhi,1113,4,Poor,46084,28,35919590
+India,Haryana,571,4,Rich,11616,9,15644617
+India,Gujarat,2924,1,Rich,3050,13,34148148
+India,Delhi,4688,1,Medium,26280,14,131509397
+India,Maharashtra,1263,4,Rich,44194,36,103975208
+India,Punjab,1106,3,Medium,30757,12,14447720
+India,Gujarat,1184,3,Poor,37332,9,12809035
+India,Rajasthan,1236,1,Medium,44513,2,13505457
+India,West Bengal,353,1,Rich,47600,34,4372546
+India,Maharashtra,2214,2,Rich,19850,17,139598757
+India,Uttar Pradesh,4555,3,Poor,8287,24,22789578
+India,West Bengal,1590,1,Medium,47007,2,18367846
+India,Rajasthan,1655,2,Poor,30192,14,11826564
+India,West Bengal,1254,2,Poor,26559,14,8828560
+India,Punjab,1213,5,Rich,10903,12,27736033
+India,Maharashtra,3411,5,Medium,48327,28,258494347
+India,Karnataka,4230,5,Medium,35080,5,176735937
+India,Uttar Pradesh,2004,5,Rich,34130,24,39724184
+India,Tamil Nadu,4038,4,Poor,23534,4,69263730
+India,Kerala,4821,2,Rich,3719,29,73605920
+India,Delhi,888,5,Medium,27123,38,38212358
+India,Punjab,2364,2,Rich,13987,23,31692337
+India,Telangana,3826,2,Poor,22736,31,40949029
+India,Haryana,1545,5,Poor,6084,21,21222097
+India,Tamil Nadu,1340,4,Medium,9073,0,24557901
+India,Uttar Pradesh,2653,5,Poor,22195,35,18839605
+India,Tamil Nadu,2807,5,Rich,45064,5,117313082
+India,Karnataka,4965,2,Poor,12745,33,62035836
+India,Maharashtra,338,5,Poor,11396,10,13064308
+India,Delhi,3455,3,Poor,23042,2,125352182
+India,Haryana,4416,5,Rich,29602,19,158930277
+India,Rajasthan,4965,4,Rich,20982,33,68896363
+India,Maharashtra,1091,4,Rich,27385,14,93275393
+India,Punjab,1284,1,Medium,37444,7,13035854
+India,Delhi,4744,4,Poor,42652,23,178606568
+India,Karnataka,826,1,Medium,48837,13,17549982
+India,Haryana,1316,4,Rich,6109,1,43142115
+India,Punjab,3068,5,Rich,27589,17,74504633
+India,Telangana,1028,1,Poor,21581,40,7206249
+India,Telangana,1876,1,Poor,40499,31,15125812
+India,Telangana,3020,2,Medium,10127,31,42215889
+India,Maharashtra,3148,1,Medium,46004,29,98447902
+India,Tamil Nadu,1217,2,Medium,16525,38,12287382
+India,Kerala,4538,2,Medium,1105,39,38008351
+India,Karnataka,2225,1,Poor,40685,8,30720344
+India,Rajasthan,1015,2,Medium,4389,19,7799127
+India,Punjab,2354,3,Poor,47163,15,22277107
+India,Kerala,709,3,Medium,22288,13,8898116
+India,Telangana,3895,5,Poor,2560,18,69455927
+India,Tamil Nadu,2227,5,Rich,45662,31,69731497
+India,Delhi,961,5,Medium,49479,40,51736030
+India,Haryana,1054,3,Medium,46500,28,18454757
+India,Maharashtra,4188,5,Poor,1956,23,139123035
+India,Tamil Nadu,1255,2,Medium,16282,31,13686133
+India,Kerala,4111,2,Rich,27958,33,67357348
+India,Gujarat,1694,2,Medium,43229,11,23995591
+India,Delhi,3258,1,Rich,28490,25,132880451
+India,Gujarat,1239,2,Medium,34142,36,14416528
+India,Rajasthan,1825,4,Medium,30052,13,24138094
+India,Rajasthan,4114,1,Medium,27616,27,26597038
+India,West Bengal,2346,1,Rich,22927,11,27484231
+India,Gujarat,3766,2,Poor,45738,13,37584024
+India,Kerala,3732,1,Medium,7276,19,31939454
+India,Haryana,2660,4,Rich,43267,36,71961168
+India,Haryana,2652,1,Rich,10847,27,40234564
+India,Telangana,1256,4,Poor,21337,13,18901422
+India,West Bengal,3144,1,Medium,40030,34,23930171
+India,West Bengal,1308,3,Poor,34997,11,11261186
+India,West Bengal,1539,3,Medium,49938,33,17451204
+India,Rajasthan,3549,4,Poor,14605,19,26708956
+India,Tamil Nadu,3093,4,Medium,5470,7,60298027
+India,Maharashtra,2099,5,Poor,41287,37,93608650
+India,Telangana,4173,1,Poor,48414,25,43133909
+India,Delhi,4019,1,Medium,30259,26,115352726
+India,Tamil Nadu,3372,3,Rich,14598,15,79043359
+India,West Bengal,3973,4,Rich,5033,5,78026557
+India,Maharashtra,2932,5,Rich,20614,40,205375800
+India,Delhi,3473,4,Rich,27213,18,271839748
+India,Delhi,1300,3,Rich,18772,10,72722542
+India,Telangana,1924,5,Poor,4726,0,37361577
+India,Gujarat,1216,3,Poor,36643,28,11655599
+India,Maharashtra,3638,3,Rich,12207,13,235105016
+India,Rajasthan,4165,2,Poor,44461,27,26092493
+India,Kerala,311,5,Rich,17353,36,6518474
+India,Tamil Nadu,342,2,Poor,27987,20,2983475
+India,Gujarat,3488,4,Poor,40310,24,42911354
+India,Karnataka,4719,5,Poor,38650,33,95746190
+India,Tamil Nadu,3935,3,Rich,43652,27,98443808
+India,Kerala,1981,2,Medium,45976,12,28645193
+India,Rajasthan,3830,4,Medium,49713,38,46748363
+India,Gujarat,2659,1,Poor,25489,35,14492961
+India,Telangana,2145,1,Poor,22675,12,21312375
+India,Telangana,1543,1,Rich,38384,14,37127044
+India,Kerala,1960,2,Rich,7295,15,32157266
+India,Punjab,4445,3,Rich,37451,38,68953605
+India,Delhi,3340,2,Poor,27160,34,74016372
+India,Maharashtra,961,5,Poor,17014,34,33768548
+India,Punjab,1268,5,Medium,40420,24,22407184
+India,Karnataka,4029,3,Poor,33117,38,62766070
+India,Punjab,3651,4,Poor,39467,25,33890108
+India,Gujarat,4431,5,Rich,46408,35,115054624
+India,Uttar Pradesh,2214,1,Rich,7704,1,22366583
+India,Haryana,4555,5,Poor,35503,2,98635140
+India,Kerala,641,2,Poor,20201,37,4399515
+India,Delhi,4511,4,Poor,31137,35,139822907
+India,Rajasthan,507,2,Poor,24197,15,3017714
+India,Haryana,1979,5,Poor,8446,27,27977540
+India,Telangana,4243,4,Rich,19752,29,133906734
+India,Telangana,4851,1,Medium,12023,11,65100186
+India,Delhi,4025,4,Rich,6782,1,291812782
+India,Delhi,2796,3,Poor,39067,22,85857273
+India,Delhi,561,3,Poor,25981,14,17498259
+India,West Bengal,4407,1,Medium,13329,37,29149532
+India,Karnataka,3587,2,Medium,8629,5,71615978
+India,Gujarat,372,5,Medium,25226,1,8194758
+India,Karnataka,4661,1,Medium,9984,32,62269702
+India,Maharashtra,537,5,Medium,49563,2,55180848
+India,Telangana,2829,5,Rich,40905,3,150858651
+India,Tamil Nadu,4523,4,Rich,12916,30,94251372
+India,Delhi,2794,5,Rich,13330,1,264656085
+India,Karnataka,2253,2,Poor,40256,1,47631568
+India,Delhi,2250,1,Rich,38846,18,98666507
+India,West Bengal,1479,3,Rich,7406,15,24246372
+India,Maharashtra,2448,4,Poor,42779,28,101545130
+India,Haryana,3602,2,Medium,16422,36,43912695
+India,Karnataka,2439,5,Poor,39908,21,65777822
+India,Gujarat,2593,5,Medium,24177,22,42329595
+India,Gujarat,3384,5,Rich,25817,20,85075823
+India,West Bengal,971,4,Rich,42424,34,18602077
+India,Punjab,2655,5,Poor,25345,3,38211359
+India,Haryana,4104,4,Medium,31620,37,68499221
+India,Kerala,2972,1,Rich,31911,16,47567107
+India,Rajasthan,871,5,Rich,43080,9,26419287
+India,Haryana,1014,2,Rich,29602,21,22144778
+India,Maharashtra,1155,5,Poor,32186,4,70526864
+India,Maharashtra,2448,5,Poor,29758,0,128093878
+India,Uttar Pradesh,3011,1,Poor,19052,19,13247403
+India,Kerala,665,4,Poor,10866,14,7549723
+India,Karnataka,3862,2,Poor,30956,4,78921373
+India,Uttar Pradesh,1873,4,Medium,24888,30,17081675
+India,Uttar Pradesh,2676,2,Rich,32182,2,38133636
+India,Tamil Nadu,1940,1,Medium,13504,9,22999271
+India,Haryana,1069,5,Poor,43676,31,17062459
+India,Haryana,822,2,Medium,46838,16,15920733
+India,Gujarat,4883,3,Rich,40896,21,99761990
+India,Tamil Nadu,3543,3,Rich,34453,20,78791545
+India,Gujarat,2844,4,Poor,44950,17,40016639
+India,West Bengal,601,4,Medium,43719,10,9792157
+India,Telangana,1668,4,Poor,29444,12,27411744
+India,West Bengal,582,2,Poor,45638,14,5239289
+India,Uttar Pradesh,2625,3,Rich,28044,32,29088937
+India,Telangana,322,5,Poor,30725,38,5428721
+India,Rajasthan,661,2,Rich,37495,7,10826582
+India,West Bengal,748,4,Poor,49231,34,7206335
+India,Kerala,3862,1,Medium,4081,20,29684445
+India,Gujarat,1222,2,Poor,32656,12,11578153
+India,Tamil Nadu,2581,2,Medium,11805,11,34876906
+India,Rajasthan,2934,3,Medium,25286,5,36741245
+India,West Bengal,2479,5,Medium,39019,19,49934602
+India,Telangana,2128,5,Poor,14109,39,28856748
+India,Kerala,4583,1,Medium,38804,19,48899023
+India,Gujarat,4921,3,Rich,17087,36,79029299
+India,Gujarat,2883,2,Medium,17029,17,34859087
+India,Haryana,4188,3,Poor,13693,23,39153696
+India,Kerala,3274,4,Medium,49831,18,65140945
+India,Tamil Nadu,4578,1,Medium,11720,17,44647842
+India,Maharashtra,775,3,Poor,10518,10,23534006
+India,Telangana,4556,1,Rich,46253,3,135906724
+India,Punjab,2033,4,Poor,49998,8,27950374
+India,West Bengal,799,5,Rich,9329,2,19528648
+India,Maharashtra,3057,1,Medium,25570,18,95914313
+India,Kerala,4976,5,Poor,8999,36,47443346
+India,West Bengal,1003,5,Medium,44363,5,22425910
+India,Gujarat,3278,1,Poor,3839,35,15808064
+India,Telangana,4583,1,Medium,8710,19,58271441
+India,Tamil Nadu,1731,4,Rich,38481,29,45096498
+India,Gujarat,2274,4,Poor,9461,9,24694499
+India,Telangana,1941,1,Poor,33972,5,20732370
+India,Tamil Nadu,2943,2,Poor,19681,20,25728557
+India,Maharashtra,3441,2,Poor,8927,10,96757487
+India,Gujarat,1749,2,Rich,3539,13,28772653
+India,Kerala,3952,3,Rich,35521,36,72922334
+India,Karnataka,4779,4,Poor,17376,40,68183538
+India,West Bengal,897,1,Poor,10879,33,3747420
+India,Punjab,3969,1,Rich,22008,33,33919475
+India,Telangana,3948,2,Medium,14140,4,85869185
+India,Rajasthan,397,3,Medium,13924,38,3085181
+India,Uttar Pradesh,4966,2,Poor,17994,31,20236750
+India,Tamil Nadu,1391,4,Medium,31933,14,26524698
+India,West Bengal,2049,4,Poor,15939,13,18534244
+India,Rajasthan,4167,2,Medium,30118,1,45178476
+India,Karnataka,1877,4,Rich,19658,5,86662751
+India,Gujarat,2726,2,Rich,39314,18,56997800
+India,Punjab,307,4,Medium,34243,40,3656205
+India,West Bengal,4954,2,Poor,48657,19,45994020
+India,Delhi,3224,3,Poor,1282,39,58963495
+India,Haryana,912,4,Rich,18071,36,20683294
+India,Telangana,2081,3,Medium,3591,8,40747676
+India,Gujarat,874,5,Rich,43870,20,27940084
+India,Delhi,1829,3,Medium,9438,26,60174825
+India,Karnataka,2543,1,Rich,27515,33,51315083
+India,West Bengal,3847,5,Poor,10587,37,32953179
+India,Karnataka,3290,4,Rich,27475,8,161356169
+India,Delhi,1454,4,Medium,13763,29,53770196
+India,West Bengal,489,1,Medium,26556,34,3153103
+India,Rajasthan,4733,2,Poor,34866,22,31322575
+India,Telangana,1974,3,Rich,10122,32,39100109
+India,Delhi,4878,4,Medium,2958,5,228655133
+India,Haryana,4130,3,Rich,34209,24,95270780
+India,West Bengal,1636,5,Poor,45333,13,24678201
+India,Maharashtra,692,3,Poor,30516,14,22571596
+India,Maharashtra,2754,3,Medium,18761,37,92757676
+India,West Bengal,3918,3,Medium,39429,13,53311616
+India,Maharashtra,723,2,Rich,48717,22,45339691
+India,Rajasthan,3246,2,Poor,22778,8,24922202
+India,Gujarat,3110,4,Medium,14686,18,51740604
+India,Uttar Pradesh,1760,5,Medium,32655,16,22319201
+India,Maharashtra,2062,1,Rich,33698,13,113830854
+India,Tamil Nadu,367,4,Poor,15849,40,3533063
+India,Telangana,3498,5,Rich,10277,29,116435783
+India,Punjab,1885,5,Medium,31462,20,25933730
+India,Tamil Nadu,2286,4,Rich,17288,8,73519453
+India,Tamil Nadu,1276,2,Poor,45096,7,16480183
+India,Uttar Pradesh,3959,1,Medium,46714,25,24580766
+India,Telangana,1873,4,Rich,13466,3,76989646
+India,Haryana,878,4,Medium,1193,23,13214724
+India,Gujarat,2092,1,Rich,29369,16,29026667
+India,Telangana,4678,3,Medium,20835,0,108799084
+India,Maharashtra,441,3,Poor,18839,19,12950913
+India,Telangana,1625,1,Rich,18543,19,30198021
+India,Kerala,640,5,Poor,18087,40,6499464
+India,West Bengal,4948,1,Rich,34623,20,59779271
+India,Gujarat,3412,5,Poor,23207,10,42128199
+India,Punjab,2474,5,Rich,45199,18,67425752
+India,Uttar Pradesh,1432,4,Rich,7588,32,17007981
+India,Gujarat,4915,1,Medium,14146,22,41493087
+India,Gujarat,2175,2,Rich,47737,1,60497991
+India,Maharashtra,719,2,Poor,33402,27,20596390
+India,Maharashtra,631,2,Rich,25306,14,42028434
+India,Delhi,4168,1,Poor,35610,10,90941096
+India,Delhi,3489,1,Poor,41312,38,66884463
+India,Tamil Nadu,3014,5,Medium,12777,28,50067097
+India,Uttar Pradesh,4308,4,Medium,3282,0,42296759
+India,Kerala,1536,1,Rich,10342,30,15838689
+India,Uttar Pradesh,2119,5,Rich,14749,17,36058119
+India,Gujarat,4320,2,Rich,37027,33,70257571
+India,Karnataka,3434,3,Poor,48775,35,55995251
+India,Uttar Pradesh,3661,4,Poor,12172,6,25367599
+India,Uttar Pradesh,3564,4,Rich,6906,28,44594582
+India,Delhi,3354,3,Poor,29797,10,94420568
+India,Telangana,1229,4,Rich,27039,11,46071275
+India,Tamil Nadu,2200,2,Rich,40748,29,43605687
+India,Punjab,4952,4,Poor,43138,26,45448233
+India,Delhi,1210,5,Medium,3169,36,49125431
+India,West Bengal,3458,4,Poor,1785,8,34957092
+India,Punjab,2236,5,Poor,37575,21,24894482
+India,West Bengal,2652,5,Rich,11913,21,52189447
+India,Gujarat,1677,5,Poor,5857,20,17059594
+India,Haryana,599,3,Rich,1358,3,14302730
+India,Haryana,1603,5,Poor,38772,33,23491989
+India,Karnataka,3470,4,Rich,35919,21,154931338
+India,Kerala,4560,5,Poor,19951,27,57842450
+India,West Bengal,4030,3,Medium,2140,33,33705109
+India,Haryana,4032,3,Medium,27086,27,56751083
+India,Uttar Pradesh,857,2,Rich,49651,5,12749403
+India,Karnataka,2967,4,Medium,30535,5,104060996
+India,Kerala,1910,1,Medium,14527,22,15084514
+India,Punjab,4125,1,Rich,31386,13,51329048
+India,Haryana,4122,4,Poor,42862,34,50222630
+India,Rajasthan,2684,1,Rich,16072,31,20964733
+India,Telangana,2790,5,Poor,47092,30,54562029
+India,Delhi,3720,3,Medium,37674,9,168139685
+India,West Bengal,4052,3,Medium,21536,29,39168778
+India,Karnataka,2611,2,Medium,37976,39,49745871
+India,Gujarat,1388,4,Poor,33792,36,14714386
+India,West Bengal,2067,5,Rich,8295,8,53371246
+India,Tamil Nadu,2541,1,Poor,22281,13,19127746
+India,Telangana,3726,3,Poor,42869,12,65771255
+India,Delhi,3944,3,Rich,39010,37,203353664
+India,Uttar Pradesh,2722,2,Rich,25297,15,33006738
+India,Delhi,1797,5,Medium,11350,30,68300234
+India,Gujarat,3251,3,Poor,37469,28,32202302
+India,Gujarat,736,5,Rich,35324,18,22861006
+India,Rajasthan,2684,2,Rich,16369,35,29214995
+India,Tamil Nadu,1311,5,Medium,15743,14,27477159
+India,Tamil Nadu,1335,2,Rich,38713,33,26734733
+India,Rajasthan,1564,2,Rich,32897,17,22649161
+India,Telangana,3714,2,Rich,15087,40,72396165
+India,Haryana,967,3,Rich,38496,0,30135221
+India,Rajasthan,4823,4,Poor,32331,17,48852234
+India,Karnataka,497,4,Rich,45452,16,26997679
+India,Kerala,4199,3,Rich,45760,9,104942502
+India,West Bengal,534,5,Rich,30796,32,10989733
+India,Punjab,3823,1,Rich,10821,8,41015100
+India,Karnataka,1616,2,Poor,46968,36,23933186
+India,Gujarat,1678,2,Rich,41703,13,38068189
+India,Rajasthan,4372,5,Poor,3257,36,31834055
+India,Delhi,4724,3,Rich,35773,32,262517416
+India,Gujarat,2072,2,Rich,21360,23,37332623
+India,Tamil Nadu,1239,5,Medium,17923,39,20812434
+India,Maharashtra,3623,3,Rich,15562,12,214693545
+India,Telangana,1973,5,Medium,3100,9,45822601
+India,West Bengal,2115,2,Medium,43965,16,24838095
+India,Kerala,686,1,Poor,37021,23,4851457
+India,Rajasthan,3559,2,Medium,27853,0,39963425
+India,Haryana,2812,4,Poor,3745,11,30604757
+India,West Bengal,2522,1,Medium,31116,5,24630849
+India,West Bengal,332,2,Rich,21093,11,4788396
+India,Punjab,4879,5,Rich,21936,31,98202244
+India,Maharashtra,3875,5,Poor,45245,3,268034949
+India,Rajasthan,2957,2,Rich,32131,12,46776138
+India,Gujarat,815,2,Medium,22607,8,10548527
+India,Uttar Pradesh,3702,4,Medium,17616,16,35553586
+India,Haryana,2709,1,Poor,33793,24,22792259
+India,Karnataka,760,5,Poor,14379,30,14105006
+India,Punjab,1372,4,Rich,33983,30,25089119
+India,Delhi,2076,2,Medium,6939,40,50931076
+India,Telangana,3293,3,Rich,45769,14,113244443
+India,Kerala,2800,2,Rich,32433,12,55602578
+India,Karnataka,1416,4,Medium,1492,32,25589588
+India,Punjab,1846,4,Rich,45523,5,44616610
+India,Tamil Nadu,1575,3,Poor,16449,11,15642979
+India,Rajasthan,1169,2,Medium,31873,5,12096928
+India,Karnataka,3942,5,Rich,29001,16,233234295
+India,West Bengal,1229,5,Medium,19793,7,23432855
+India,Tamil Nadu,4582,4,Poor,29247,21,61378119
+India,Haryana,2768,2,Rich,19020,27,58643704
+India,Kerala,2518,5,Poor,19601,39,28284560
+India,Uttar Pradesh,3137,5,Poor,16514,28,23122280
+India,Kerala,1761,3,Rich,3176,31,24481655
+India,Gujarat,4206,4,Rich,36219,29,113156021
+India,Maharashtra,3974,2,Poor,20149,16,119290057
+India,Tamil Nadu,2303,5,Rich,2105,3,81117340
+India,Maharashtra,453,5,Medium,31099,22,28094194
+India,Punjab,4500,5,Rich,35681,0,130919909
+India,Delhi,2260,5,Rich,13996,10,176416413
+India,West Bengal,2935,2,Poor,44410,6,31053690
+India,Gujarat,4947,5,Medium,5557,3,105072807
+India,Tamil Nadu,2975,5,Poor,21700,7,46822128
+India,Karnataka,3271,1,Poor,21954,3,44990873
+India,Karnataka,1690,3,Rich,46095,35,61550743
+India,Uttar Pradesh,3375,3,Medium,17673,22,23395268
+India,Tamil Nadu,3224,5,Poor,38726,40,40394530
+India,Rajasthan,1680,1,Medium,43633,39,10793032
+India,Telangana,3688,4,Rich,39402,21,141113063
+India,Haryana,4382,4,Medium,20624,4,108078975
+India,Kerala,3913,5,Medium,24064,26,65376780
+India,Rajasthan,4891,3,Medium,8214,35,39248514
+India,Uttar Pradesh,4608,5,Medium,19375,15,50773302
+India,Kerala,4838,2,Medium,32486,8,67784817
+India,Kerala,2852,1,Medium,29483,24,24128278
+India,West Bengal,3100,1,Medium,39078,24,24872983
+India,Maharashtra,4499,3,Rich,24749,0,350202821
+India,Kerala,808,1,Poor,37432,33,5174736
+India,Rajasthan,4977,4,Rich,43291,2,120243929
+India,Maharashtra,2456,1,Poor,13112,2,61041188
+India,Tamil Nadu,668,3,Medium,25618,34,7753028
+India,Kerala,1593,2,Rich,38564,3,40522127
+India,Karnataka,1292,1,Medium,39055,18,24798104
+India,West Bengal,3707,5,Poor,49367,34,46391929
+India,Punjab,1781,1,Poor,4731,30,6400627
+India,Gujarat,3393,3,Medium,21792,36,33999775
+India,Uttar Pradesh,4846,2,Poor,25335,18,28255713
+India,Tamil Nadu,412,4,Rich,20581,10,10739735
+India,Haryana,3249,1,Rich,11808,27,45458523
+India,Telangana,3404,2,Poor,17402,21,35478155
+India,Delhi,2906,4,Medium,40200,12,166396571
+India,Gujarat,4610,3,Poor,25703,28,37796976
+India,Uttar Pradesh,3061,1,Medium,30240,7,20190158
+India,Kerala,2669,2,Rich,31020,27,46668687
+India,West Bengal,3845,4,Medium,15256,26,47088824
+India,Gujarat,2734,2,Poor,23625,24,22595140
+India,Delhi,4417,2,Medium,33182,38,127439603
+India,Telangana,2900,4,Poor,30267,34,42347503
+India,West Bengal,2042,3,Medium,4849,8,24033968
+India,Telangana,4495,3,Rich,19689,28,109991471
+India,Karnataka,3294,5,Medium,48994,21,126775149
+India,Rajasthan,583,1,Rich,38164,3,9324412
+India,Rajasthan,2220,2,Poor,12683,8,15644310
+India,Kerala,475,1,Medium,38705,26,4587084
+India,Karnataka,1664,1,Poor,30038,14,22551059
+India,Punjab,3262,4,Rich,45816,40,59113488
+India,Tamil Nadu,4051,1,Rich,44764,22,64551711
+India,Tamil Nadu,3084,1,Poor,22869,4,26107703
+India,Delhi,360,2,Poor,28586,32,7772205
+India,Delhi,1627,2,Medium,2361,37,37709644
+India,Tamil Nadu,2666,5,Poor,48607,2,61030053
+India,Maharashtra,2211,3,Poor,45781,7,85037671
+India,Kerala,2856,3,Rich,9024,38,39913844
+India,Haryana,2017,5,Rich,22128,17,73849116
+India,West Bengal,744,2,Medium,5458,37,5456028
+India,Tamil Nadu,1658,4,Medium,8697,33,22145742
+India,Punjab,4651,5,Medium,30493,23,75534291
+India,Maharashtra,3374,2,Poor,42080,0,147428999
+India,West Bengal,944,1,Rich,36529,27,12327910
+India,Gujarat,2968,4,Poor,16954,34,27847440
+India,Maharashtra,2659,2,Poor,4606,24,57448297
+India,Kerala,2891,5,Rich,27147,38,65454028
+India,Maharashtra,436,3,Rich,19978,38,22098410
+India,Telangana,386,1,Rich,39987,22,8209087
+India,Rajasthan,3073,1,Poor,47364,36,14733466
+India,Tamil Nadu,1947,5,Poor,6520,39,22323315
+India,West Bengal,3389,1,Medium,42680,31,28611225
+India,Kerala,3367,3,Medium,44939,33,43893782
+India,Haryana,2553,3,Poor,48221,14,37543195
+India,Uttar Pradesh,436,1,Poor,20389,32,1493586
+India,Kerala,748,5,Poor,26521,33,8163623
+India,Telangana,3277,5,Rich,13207,12,131170325
+India,West Bengal,3272,2,Rich,7160,6,47090468
+India,Kerala,1116,5,Rich,1192,16,28459310
+India,Punjab,4000,3,Rich,11655,25,52159812
+India,Rajasthan,1396,1,Medium,34272,21,10663746
+India,Karnataka,4116,5,Poor,5434,18,91096037
+India,Karnataka,4064,1,Poor,43215,17,61621844
+India,Delhi,2865,4,Medium,28374,39,124334752
+India,Haryana,3420,5,Rich,37945,1,160925911
+India,Telangana,831,5,Poor,34402,28,15787320
+India,Karnataka,505,3,Medium,28197,3,15426347
+India,Tamil Nadu,3493,3,Poor,9026,29,28975870
+India,Maharashtra,970,4,Rich,18889,14,70815843
+India,Tamil Nadu,549,2,Rich,35660,38,10661191
+India,Tamil Nadu,3726,5,Rich,25255,28,110343886
+India,Haryana,3242,4,Rich,35693,28,89642097
+India,Gujarat,3246,5,Poor,16935,25,40594073
+India,West Bengal,1793,2,Rich,20275,12,29745049
+India,Uttar Pradesh,1254,2,Poor,2629,29,5682466
+India,Haryana,3578,1,Poor,19945,11,28070388
+India,Gujarat,683,1,Medium,38102,2,9696321
+India,Maharashtra,4551,5,Medium,49908,26,328498576
+India,Telangana,3346,5,Medium,34998,3,121989532
+India,Gujarat,1663,2,Medium,21324,19,19890492
+India,Haryana,4048,5,Rich,21884,31,106157258
+India,West Bengal,989,1,Medium,3103,39,5860441
+India,Gujarat,4625,2,Rich,33001,7,97606464
+India,Telangana,4139,3,Rich,28923,11,125171927
+India,Punjab,2805,3,Rich,38228,26,45169936
+India,Maharashtra,2806,3,Poor,5594,10,70213199
+India,Haryana,3150,2,Rich,18375,35,49352859
+India,Punjab,3726,3,Medium,47287,4,64295969
+India,Kerala,2884,4,Poor,10788,28,28442873
+India,Punjab,872,3,Medium,39163,18,11856524
+India,Punjab,2887,5,Medium,4262,4,50579097
+India,Haryana,2517,4,Medium,25229,24,45993162
+India,Punjab,3261,3,Rich,47646,17,60595729
+India,Punjab,1239,5,Rich,37182,40,26734479
+India,Rajasthan,2805,3,Rich,30504,6,52052079
+India,Uttar Pradesh,2049,2,Medium,24470,16,17641630
+India,Delhi,1435,1,Medium,9566,14,37835788
+India,Telangana,2990,4,Medium,4255,25,53468765
+India,Delhi,1244,2,Rich,24989,25,63757665
+India,Haryana,3521,4,Poor,24559,28,44074368
+India,Maharashtra,1241,3,Poor,19950,15,41912047
+India,Uttar Pradesh,3627,1,Poor,29850,19,15672662
+India,Maharashtra,3594,1,Poor,34998,30,75257578
+India,Tamil Nadu,4156,2,Poor,33093,28,36813144
+India,Punjab,1394,4,Medium,47881,19,20508664
+India,Uttar Pradesh,4959,5,Medium,20539,2,79322091
+India,Rajasthan,4755,3,Poor,25685,7,36705100
+India,Uttar Pradesh,4434,4,Medium,16408,35,36918001
+India,Tamil Nadu,4165,4,Rich,45254,17,135001384
+India,Uttar Pradesh,4013,3,Poor,35779,31,20458013
+India,Telangana,1747,3,Medium,20567,22,28144256
+India,Gujarat,1290,2,Poor,38688,33,10059721
+India,Rajasthan,3742,4,Medium,46991,16,59814396
+India,Gujarat,3196,1,Poor,21519,19,19335993
+India,West Bengal,1144,1,Medium,1446,11,7934539
+India,Karnataka,526,2,Poor,12151,38,5891617
+India,Rajasthan,2835,5,Medium,28500,16,45836086
+India,Telangana,2181,4,Poor,23523,38,31864223
+India,Punjab,3562,4,Medium,17436,29,44024033
+India,Karnataka,3085,5,Rich,7855,7,149761667
+India,Telangana,1867,3,Medium,28529,2,50324730
+India,Haryana,1126,5,Rich,13100,24,29408164
+India,West Bengal,3858,4,Medium,16916,19,51734995
+India,Maharashtra,3279,1,Medium,4968,14,84919961
+India,Uttar Pradesh,4504,3,Medium,12737,12,36325781
+India,Maharashtra,2024,2,Rich,11997,17,115054309
+India,Gujarat,797,5,Rich,31957,29,22252981
+India,Punjab,1947,1,Rich,28559,18,24467281
+India,Rajasthan,3735,5,Medium,48574,29,59687280
+India,Tamil Nadu,2017,1,Rich,10259,34,25125070
+India,Rajasthan,1804,5,Poor,24501,7,19563119
+India,Haryana,3603,2,Rich,17061,10,77920273
+India,Maharashtra,2763,2,Rich,42692,20,181997117
+India,Gujarat,4737,2,Medium,46669,36,59083817
+India,Karnataka,1556,1,Medium,21706,10,25412256
+India,West Bengal,1773,3,Poor,42830,27,15939120
+India,Telangana,4369,4,Poor,45993,37,75648201
+India,Karnataka,3589,1,Medium,12939,12,51189320
+India,Maharashtra,1551,4,Rich,7226,34,83380534
+India,Uttar Pradesh,2261,2,Poor,33551,32,11911844
+India,Uttar Pradesh,4305,4,Medium,44919,11,51455180
+India,Gujarat,3096,1,Medium,41446,33,25874909
+India,Uttar Pradesh,3349,1,Medium,10497,19,19597710
+India,Kerala,4547,5,Poor,22698,26,50214038
+India,Karnataka,4064,4,Rich,16641,33,146244226
+India,Delhi,4482,1,Poor,43229,24,95346561
+India,Karnataka,4544,1,Medium,30523,21,69847935
+India,Maharashtra,3514,2,Medium,1249,14,118489994
+India,West Bengal,3237,5,Rich,36440,22,84399389
+India,Delhi,4359,3,Rich,3773,39,180276058
+India,Karnataka,2485,1,Medium,8347,7,44171291
+India,West Bengal,3608,5,Medium,34078,36,49047712
+India,Telangana,3568,1,Rich,31266,1,100168229
+India,Haryana,2311,4,Poor,38707,38,27175834
+India,Punjab,1031,2,Poor,30277,8,7677144
+India,Kerala,2019,2,Rich,47326,30,32761422
+India,Haryana,577,5,Rich,11350,0,20777112
+India,Kerala,1749,5,Medium,6454,16,26721178
+India,Karnataka,4058,1,Rich,38392,25,98839636
+India,Telangana,4891,5,Rich,7509,13,174628378
+India,Telangana,568,1,Rich,3462,34,7224040
+India,West Bengal,706,1,Medium,23553,4,6910367
+India,Telangana,2918,2,Medium,23673,3,63924492
+India,Gujarat,4414,3,Poor,16086,34,29549146
+India,Karnataka,4827,4,Poor,19279,23,89001958
+India,Maharashtra,1373,1,Poor,36170,31,28857649
+India,Telangana,1451,5,Medium,40791,14,45361880
+India,Tamil Nadu,4824,2,Poor,26883,31,42482439
+India,Karnataka,4531,3,Medium,15536,38,79075947
+India,Uttar Pradesh,3875,4,Poor,36186,38,26224754
+India,Rajasthan,3145,2,Poor,28877,17,19605190
+India,West Bengal,722,4,Rich,45641,22,17805648
+India,Telangana,2841,4,Medium,4164,22,51780842
+India,Kerala,4154,2,Medium,5552,36,38197463
+India,Telangana,4842,3,Poor,4722,16,59763084
+India,Tamil Nadu,1108,3,Rich,33247,5,30810480
+India,Maharashtra,3106,3,Medium,28386,2,197304308
+India,Haryana,3641,1,Poor,48216,40,26834125
+India,Kerala,424,5,Poor,49174,22,6144589
+India,Haryana,2715,1,Medium,2609,13,27506769
+India,Kerala,4770,1,Medium,34816,13,46984740
+India,Delhi,2446,3,Medium,47602,20,111636753
+India,Gujarat,4092,2,Poor,48947,17,39315269
+India,Punjab,1853,3,Rich,9378,25,27123671
+India,Rajasthan,730,2,Poor,17459,12,4625088
+India,Telangana,2630,4,Medium,19443,12,65127207
+India,Maharashtra,4648,1,Poor,21855,35,88541811
+India,West Bengal,3151,4,Medium,30301,28,44554676
+India,West Bengal,4034,2,Medium,2094,36,30382335
+India,Tamil Nadu,4313,4,Poor,25338,12,58960391
+India,West Bengal,584,4,Poor,15616,5,5926418
+India,Delhi,4619,2,Medium,40876,35,153419482
+India,Karnataka,2381,5,Poor,42789,28,58111241
+India,Tamil Nadu,1231,1,Poor,32730,18,10551412
+India,Tamil Nadu,3706,1,Poor,42107,8,36665777
+India,Delhi,3888,4,Medium,24165,10,181330655
+India,Kerala,3671,2,Rich,32308,8,75227517
+India,Gujarat,789,3,Poor,11680,20,6702462
+India,Karnataka,587,2,Poor,21666,9,9754971
+India,Haryana,443,5,Rich,4178,23,12536724
+India,Gujarat,2351,2,Rich,45910,11,47306749
+India,Maharashtra,1671,1,Poor,38422,27,40400892
+India,Gujarat,1431,3,Medium,40321,10,24754726
+India,Punjab,311,3,Poor,3537,26,1880820
+India,Delhi,2377,4,Rich,37635,24,154220566
+India,Kerala,1144,1,Medium,42513,36,10533183
+India,Telangana,4863,2,Rich,30978,40,122515194
+India,Kerala,4983,2,Rich,46256,9,111069828
+India,Delhi,4455,2,Poor,29992,35,87867764
+India,Punjab,1994,1,Medium,6197,1,14731238
+India,Haryana,2472,5,Rich,20053,13,89852711
+India,Uttar Pradesh,2661,4,Medium,30845,5,34511936
+India,Tamil Nadu,2986,5,Medium,47435,24,68273961
+India,Tamil Nadu,494,5,Medium,10615,4,12130935
+India,Uttar Pradesh,4114,4,Poor,47416,22,33384889
+India,Gujarat,3772,1,Medium,31005,33,29999948
+India,Punjab,915,3,Poor,3253,14,6489013
+India,West Bengal,1084,4,Poor,46138,22,12476597
+India,Punjab,625,1,Poor,41542,21,3668193
+India,West Bengal,1570,1,Poor,33467,22,8297211
+India,Gujarat,4961,3,Poor,15389,25,37048847
+India,Tamil Nadu,2286,1,Medium,21350,0,29246298
+India,Tamil Nadu,4403,5,Medium,3994,32,67380640
+India,Karnataka,1944,4,Rich,36912,38,82369368
+India,Telangana,470,5,Poor,47988,21,9555643
+India,West Bengal,4225,3,Rich,11450,7,70438510
+India,Kerala,4123,3,Medium,26625,22,53525708
+India,Haryana,4606,3,Rich,5875,14,99627022
+India,Punjab,4806,3,Medium,20041,18,54487189
+India,Tamil Nadu,1543,1,Medium,49994,39,16738223
+India,Tamil Nadu,2266,3,Medium,23886,3,40445506
+India,Kerala,3934,5,Medium,22924,23,74031731
+India,Rajasthan,4513,1,Rich,44123,3,67809683
+India,Maharashtra,665,2,Poor,11762,27,17176635
+India,Gujarat,1090,2,Rich,41475,25,22409446
+India,Karnataka,3129,3,Rich,26373,27,117392015
+India,Tamil Nadu,1246,2,Rich,31254,37,22406372
+India,Rajasthan,3890,1,Medium,29369,40,22291972
+India,Rajasthan,4776,2,Poor,14029,26,25247759
+India,Maharashtra,1511,2,Rich,2539,16,80318551
+India,Telangana,1583,1,Medium,11310,29,17492929
+India,Karnataka,1219,3,Rich,48025,26,49623418
+India,Rajasthan,807,5,Medium,28151,34,9105172
+India,Punjab,4816,1,Poor,38167,25,26542985
+India,Rajasthan,1601,3,Medium,7411,29,12711218
+India,Kerala,4650,5,Rich,9448,25,117877950
+India,Telangana,2035,3,Medium,10316,17,36954454
+India,West Bengal,2380,2,Medium,27123,29,21720963
+India,Rajasthan,704,4,Medium,43742,28,8829276
+India,West Bengal,4256,4,Poor,25849,2,49622026
+India,Delhi,1509,1,Medium,33698,30,38711453
+India,Tamil Nadu,3567,1,Poor,30793,28,24060387
+India,Delhi,2481,2,Poor,28832,20,57354441
+India,Gujarat,1954,1,Poor,42913,21,12634059
+India,Gujarat,3424,3,Rich,13070,14,66969453
+India,Punjab,2695,5,Poor,16310,34,20355625
+India,Telangana,3518,3,Rich,10095,7,110551396
+India,Tamil Nadu,2014,5,Poor,30122,7,36695085
+India,Karnataka,4199,5,Rich,18400,6,211222044
+India,Telangana,3796,1,Medium,15308,0,57542969
+India,Uttar Pradesh,4356,2,Rich,48115,24,52229992
+India,Kerala,4217,1,Medium,3936,22,33954033
+India,West Bengal,3396,2,Poor,28281,27,24893500
+India,Punjab,4863,4,Poor,8235,33,29235134
+India,Kerala,3803,5,Medium,4340,4,68644495
+India,Telangana,666,2,Medium,43049,9,15422914
+India,Delhi,2154,4,Poor,40884,10,87724129
+India,Gujarat,4769,5,Rich,10643,23,109934121
+India,Karnataka,3234,3,Poor,43833,11,68128768
+India,Haryana,1612,3,Poor,14851,36,14534179
+India,Delhi,1491,5,Poor,16997,22,50221623
+India,Telangana,4839,5,Poor,3887,21,77282387
+India,Uttar Pradesh,3860,1,Rich,31341,22,33134401
+India,Gujarat,1675,5,Poor,1490,17,19025386
+India,Maharashtra,4708,3,Rich,22292,17,295953022
+India,Uttar Pradesh,981,2,Poor,47511,19,6825659
+India,Punjab,4640,5,Rich,17184,30,78067892
+India,Uttar Pradesh,3548,4,Rich,48204,27,62550609
+India,Rajasthan,4453,2,Medium,9488,5,44114261
+India,Telangana,1398,2,Medium,30863,2,29923992
+India,Karnataka,4035,3,Rich,46201,23,159959660
+India,Maharashtra,2776,1,Rich,5603,33,99558440
+India,Delhi,4923,3,Rich,28464,0,353903469
+India,Maharashtra,2171,4,Medium,48975,17,139906223
+India,Telangana,1814,2,Rich,48645,17,56414737
+India,Tamil Nadu,778,4,Rich,46246,39,21680146
+India,Rajasthan,1711,1,Medium,9334,34,8953806
+India,West Bengal,3632,4,Poor,39990,17,45085576
+India,Tamil Nadu,3560,1,Medium,30703,2,45518907
+India,Rajasthan,1440,3,Medium,39498,36,12596492
+India,Tamil Nadu,3639,5,Rich,30769,8,148021569
+India,Delhi,871,5,Medium,18558,28,40248794
+India,Karnataka,4386,1,Rich,1798,19,91765971
+India,Maharashtra,3384,2,Rich,12110,27,162719516
+India,Telangana,3045,3,Poor,30265,10,46287307
+India,West Bengal,2150,4,Poor,1893,15,19159429
+India,Rajasthan,4612,4,Poor,32670,34,37149848
+India,Maharashtra,3217,4,Poor,49669,18,160402990
+India,Telangana,3955,2,Poor,10947,15,47549519
+India,Kerala,4074,5,Rich,42932,6,161417591
+India,Delhi,4913,2,Rich,7358,5,261418428
+India,Rajasthan,2678,2,Poor,45414,33,15137343
+India,Punjab,987,5,Medium,22045,38,12895459
+India,Uttar Pradesh,2111,3,Poor,31022,8,16826200
+India,Uttar Pradesh,3406,3,Medium,21213,39,25490898
+India,Maharashtra,763,4,Poor,4158,40,21311028
+India,Kerala,989,4,Rich,35980,40,20856187
+India,Maharashtra,3803,5,Poor,43543,31,174375120
+India,Karnataka,746,5,Medium,30086,30,23386838
+India,Uttar Pradesh,1373,2,Poor,6454,14,7241705
+India,Delhi,3962,3,Poor,22181,12,104709710
+India,Uttar Pradesh,2251,4,Rich,30424,12,41669079
+India,Haryana,1188,5,Medium,24649,17,27655558
+India,Gujarat,4075,5,Poor,22029,13,60116941
+India,Telangana,3939,5,Medium,38203,20,109134792
+India,Telangana,3856,2,Poor,20065,16,45142169
+India,Gujarat,896,2,Medium,42821,5,13715282
+India,Rajasthan,4031,3,Rich,28812,39,52426812
+India,Kerala,564,3,Rich,36427,21,12434200
+India,Telangana,1762,5,Medium,10637,32,36955146
+India,Maharashtra,812,4,Poor,12523,17,26323244
+India,Punjab,2631,2,Rich,34896,35,37795605
+India,Delhi,3221,1,Poor,48116,17,74554358
+India,Maharashtra,470,5,Rich,47032,14,57393560
+India,Telangana,3109,2,Poor,42785,3,59683011
+India,Uttar Pradesh,4865,2,Medium,17576,3,48857251
+India,Tamil Nadu,2710,5,Medium,36289,13,70935317
+India,Haryana,3038,4,Medium,39871,26,55766474
+India,Maharashtra,540,1,Medium,5631,6,15439868
+India,Rajasthan,910,5,Poor,20989,10,9856433
+India,Karnataka,2901,2,Rich,7080,30,64941816
+India,Delhi,421,1,Poor,35085,13,9285366
+India,Uttar Pradesh,4334,3,Medium,15904,33,31303383
+India,Maharashtra,3848,5,Rich,7464,0,371001399
+India,West Bengal,360,2,Poor,3895,27,2190286
+India,Kerala,4260,3,Poor,34302,6,46372079
+India,Gujarat,1304,4,Poor,22709,13,14956221
+India,Karnataka,1333,2,Medium,25700,16,30180636
+India,Telangana,3220,4,Medium,9320,5,79686889
+India,Telangana,3468,2,Rich,30062,14,107595516
+India,Kerala,847,5,Rich,26142,26,24641803
+India,Delhi,4994,5,Poor,4225,34,134754210
+India,Gujarat,845,1,Rich,24110,2,15834811
+India,Delhi,2226,1,Poor,49128,13,54172008
+India,Telangana,3381,2,Poor,5321,29,34764912
+India,Haryana,3468,2,Rich,47270,11,94960193
+India,Rajasthan,4969,3,Poor,17667,16,32461888
+India,Punjab,1765,2,Medium,22118,35,14170911
+India,Rajasthan,2794,2,Poor,1992,10,13822251
+India,West Bengal,3488,1,Poor,17727,39,14850605
+India,Maharashtra,2576,1,Rich,20585,31,97531644
+India,Uttar Pradesh,3183,1,Rich,30968,29,26694948
+India,Punjab,3008,2,Rich,13982,28,38317434
+India,Maharashtra,795,4,Medium,3148,17,34696452
+India,Maharashtra,1034,4,Rich,24889,19,88615466
+India,Punjab,3576,3,Rich,41718,27,58858787
+India,Karnataka,1477,2,Medium,8853,27,26692879
+India,West Bengal,3157,3,Poor,5368,32,18003209
+India,Uttar Pradesh,942,3,Poor,24600,25,5178441
+India,Tamil Nadu,4001,4,Rich,30079,0,130978928
+India,Kerala,2811,2,Medium,8367,28,27437248
+India,Telangana,3604,3,Poor,20097,25,45026573
+India,Maharashtra,3492,5,Medium,18107,2,284112953
+India,Kerala,1837,4,Poor,12549,11,21248971
+India,Maharashtra,3961,2,Rich,27905,20,217260105
+India,Tamil Nadu,3093,1,Medium,23614,14,33117821
+India,Maharashtra,1599,3,Medium,40469,2,100920073
+India,Uttar Pradesh,1835,4,Medium,9269,15,16663599
+India,Haryana,537,5,Rich,45387,21,18359147
+India,Tamil Nadu,3422,3,Poor,35565,19,44638700
+India,Punjab,1115,3,Rich,45100,10,21086198
+India,Karnataka,834,5,Medium,37132,8,36178734
+India,Telangana,4800,5,Rich,28914,37,180465025
+India,Uttar Pradesh,846,2,Rich,21107,37,8010977
+India,Delhi,2236,1,Rich,26538,30,77026327
+India,Haryana,4911,2,Poor,47476,33,48093018
+India,Telangana,3503,2,Rich,3244,18,85781099
+India,Maharashtra,1165,5,Medium,28518,11,78444245
+India,Uttar Pradesh,1974,4,Medium,45340,35,18631078
+India,Tamil Nadu,1173,4,Rich,11492,13,32277125
+India,Delhi,1153,5,Rich,19667,29,91238998
+India,Uttar Pradesh,4530,1,Poor,14440,25,17241326
+India,Telangana,4481,4,Rich,39729,5,202957489
+India,Delhi,1219,3,Medium,49247,7,62343031
+India,Telangana,2386,1,Rich,49570,17,55543143
+India,Rajasthan,2630,2,Medium,18400,31,20768294
+India,Rajasthan,3138,2,Poor,39968,39,19955623
+India,Gujarat,4925,1,Rich,24777,19,71851681
+India,Delhi,4797,5,Rich,33427,9,466963728
+India,Maharashtra,493,2,Poor,16577,35,10898417
+India,Uttar Pradesh,3413,3,Rich,40121,36,39584280
+India,Kerala,3681,1,Poor,22271,33,18006465
+India,Uttar Pradesh,4452,5,Medium,12673,29,41537680
+India,Karnataka,2963,3,Rich,48801,11,143015646
+India,Haryana,2936,5,Medium,12221,11,57037495
+India,West Bengal,4677,2,Poor,14515,15,29993300
+India,Haryana,2891,5,Rich,10612,4,102086548
+India,Tamil Nadu,954,2,Rich,18143,6,22539359
+India,Karnataka,4123,4,Poor,28200,3,100715487
+India,Kerala,4816,5,Rich,23356,26,134489582
+India,Gujarat,1289,5,Poor,42214,3,25894838
+India,West Bengal,4752,1,Medium,27331,8,46009428
+India,Telangana,4679,3,Medium,28105,33,81588913
+India,Kerala,2715,2,Rich,3637,10,46272197
+India,Tamil Nadu,844,1,Rich,20556,9,13635979
+India,Telangana,520,3,Poor,38045,9,8604132
+India,Tamil Nadu,4285,4,Poor,41216,22,57117240
+India,Tamil Nadu,3310,1,Rich,43292,17,66816316
+India,Rajasthan,525,1,Poor,35765,3,3533820
+India,Delhi,3399,2,Poor,37175,11,89484783
+India,Delhi,3211,2,Medium,19799,26,107666438
+India,Kerala,4956,4,Medium,9624,8,81691185
+India,Gujarat,3932,3,Medium,39698,33,52964454
+India,Maharashtra,3451,1,Medium,6580,14,95459703
+India,Haryana,3791,3,Medium,32957,21,65694796
+India,Delhi,887,5,Poor,19231,3,43073142
+India,Kerala,3617,5,Poor,45115,14,61329176
+India,West Bengal,2298,1,Rich,4057,36,21093461
+India,Delhi,4457,4,Medium,34635,19,244853096
+India,Haryana,4132,4,Poor,15017,4,58297226
+India,Kerala,4344,5,Rich,45921,9,155953519
+India,Punjab,1516,4,Poor,18264,38,11261854
+India,West Bengal,1468,5,Rich,36897,30,32520452
+India,Uttar Pradesh,2494,4,Medium,49780,13,32981690
+India,Punjab,4175,2,Rich,16979,9,66125682
+India,Rajasthan,4325,3,Rich,14844,27,61498896
+India,Uttar Pradesh,1282,4,Medium,22395,37,10365605
+India,Haryana,2112,2,Rich,15254,5,53211738
+India,Karnataka,1516,5,Rich,18794,20,66607887
+India,Uttar Pradesh,1476,5,Poor,34765,19,13520094
+India,Delhi,672,5,Rich,39384,22,60357155
+India,Delhi,803,2,Poor,31761,19,22700571
+India,Punjab,557,4,Poor,47098,16,5903684
+India,Delhi,1057,3,Rich,25518,16,68984493
+India,Uttar Pradesh,3759,1,Rich,8837,11,33063542
+India,Rajasthan,1987,5,Poor,22560,18,20615520
+India,Maharashtra,643,3,Medium,29258,22,27402721
+India,Haryana,2247,4,Rich,35812,34,60232503
+India,Karnataka,1399,4,Rich,37160,20,58744240
+India,Maharashtra,1370,3,Medium,35618,31,57392189
+India,Haryana,2203,3,Medium,6851,17,32758986
+India,Maharashtra,2775,2,Rich,17198,35,120979726
+India,Telangana,2740,3,Poor,32213,7,49406992
+India,Karnataka,2736,4,Medium,10219,38,63302789
+India,Rajasthan,3065,4,Medium,14180,37,26154186
+India,Uttar Pradesh,1458,1,Rich,6470,11,12788368
+India,Haryana,3157,4,Medium,22387,38,49184111
+India,Kerala,2364,4,Poor,11566,40,20707751
+India,Haryana,4898,2,Poor,34477,37,49176258
+India,Karnataka,717,4,Medium,45814,13,26671413
+India,West Bengal,2561,2,Medium,12826,2,27945565
+India,Maharashtra,1592,2,Poor,12267,9,44493905
+India,Maharashtra,624,2,Medium,29552,26,24600150
+India,West Bengal,3887,3,Medium,47562,2,66702114
+India,West Bengal,1802,4,Medium,46528,39,22811619
+India,Punjab,2067,1,Medium,34122,16,18371472
+India,Rajasthan,4575,2,Rich,14107,27,55669364
+India,Kerala,1690,3,Medium,9418,11,21650978
+India,Tamil Nadu,3922,5,Poor,11024,11,54964994
+India,Kerala,4257,5,Rich,6666,2,122025285
+India,Kerala,2217,5,Poor,27505,33,24546556
+India,Punjab,4376,2,Rich,34861,40,53645619
+India,Tamil Nadu,3085,2,Rich,15799,24,56157749
+India,Gujarat,2673,5,Rich,4990,26,61116012
+India,Telangana,4395,4,Medium,20790,28,92872983
+India,Maharashtra,4161,2,Rich,24790,4,286069390
+India,Telangana,4126,2,Medium,31286,17,74560237
+India,Telangana,462,2,Medium,29315,1,10511658
+India,Rajasthan,3746,4,Poor,15516,38,26184558
+India,Uttar Pradesh,4233,2,Rich,34690,25,47456891
+India,Kerala,864,3,Poor,11789,4,9891839
+India,Delhi,523,2,Rich,48663,30,27428886
+India,Telangana,1317,3,Rich,24590,3,47502699
+India,Uttar Pradesh,2719,3,Rich,7240,37,26184029
+India,Punjab,2368,2,Rich,49291,10,45001828
+India,Punjab,746,3,Rich,28938,30,9989216
+India,Maharashtra,895,3,Rich,11942,1,72041517
+India,Haryana,3307,2,Rich,9772,8,71711576
+India,Haryana,4584,2,Medium,36953,11,74720143
+India,West Bengal,3866,1,Rich,34737,4,62458273
+India,West Bengal,3717,4,Rich,49153,7,104199329
+India,Punjab,4027,5,Rich,26523,30,85259122
+India,Gujarat,448,2,Poor,17821,26,3583279
+India,Kerala,4753,1,Medium,5551,7,42799246
+India,Gujarat,499,3,Medium,30685,20,6946082
+India,Tamil Nadu,3673,2,Medium,14560,28,44031873
+India,Kerala,4897,4,Medium,24916,36,59944132
+India,Gujarat,4115,5,Rich,38477,27,111697840
+India,West Bengal,3620,3,Rich,27572,25,60373407
+India,Maharashtra,3591,5,Poor,7697,6,162262295
+India,Rajasthan,1381,2,Poor,11776,8,9687540
+India,Maharashtra,3797,4,Poor,38528,2,202890740
+India,Kerala,864,2,Medium,26401,17,11744785
+India,Haryana,1104,4,Medium,32846,23,20468688
+India,Maharashtra,3580,3,Rich,39784,29,238643094
+India,Karnataka,1654,4,Medium,41857,12,53064792
+India,Kerala,1859,4,Poor,35275,15,22277706
+India,Punjab,1594,1,Rich,37833,10,22389729
+India,Kerala,1903,3,Poor,23340,34,13736292
+India,Punjab,1805,1,Medium,45009,22,16005103
+India,Gujarat,4087,1,Poor,12801,32,18718539
+India,Delhi,2802,4,Rich,11737,35,136178155
+India,Maharashtra,2383,1,Poor,2752,15,44299265
+India,Maharashtra,4702,3,Rich,2132,36,198709716
+India,Tamil Nadu,1787,1,Rich,38777,21,28373915
+India,Tamil Nadu,1882,5,Poor,22301,25,25754404
+India,Haryana,400,2,Poor,23259,13,4595787
+India,Karnataka,3218,2,Medium,36310,19,75403566
+India,Rajasthan,3965,4,Poor,21619,28,30374743
+India,Gujarat,3760,1,Poor,9697,31,19792926
+India,Maharashtra,661,1,Rich,5067,35,23520262
+India,Rajasthan,2809,1,Rich,49270,5,42718161
+India,Tamil Nadu,4316,4,Medium,1719,10,69487114
+India,Karnataka,4457,2,Medium,35917,17,118038926
+India,Tamil Nadu,4507,1,Medium,24525,12,47924829
+India,Maharashtra,4915,4,Rich,8265,4,399619098
+India,Rajasthan,1355,1,Medium,22058,29,8299444
+India,Karnataka,3044,5,Medium,13061,8,102655729
+India,Karnataka,4975,1,Medium,45722,12,109738846
+India,Karnataka,770,1,Poor,31337,40,8179014
+India,Haryana,4525,2,Poor,9012,4,49799227
+India,Haryana,1067,3,Medium,43968,33,17045873
+India,Gujarat,1777,3,Poor,38260,2,23099264
+India,Uttar Pradesh,1110,4,Rich,7841,11,15237255
+India,Delhi,2194,2,Poor,40897,17,58248692
+India,Uttar Pradesh,4951,5,Medium,41634,29,59945046
+India,Haryana,1587,2,Medium,22304,8,24344822
+India,Uttar Pradesh,1598,5,Rich,40754,14,30737686
+India,Karnataka,4947,2,Poor,23554,18,77291412
+India,Kerala,4562,4,Rich,21648,32,88477830
+India,Karnataka,666,2,Rich,38387,7,25931863
+India,Haryana,3312,1,Rich,39169,4,74613773
+India,Haryana,2070,2,Rich,10969,29,40780073
+India,Gujarat,4037,1,Rich,44429,1,89537608
+India,Delhi,405,2,Medium,35714,40,12723439
+India,Kerala,2082,5,Rich,20641,5,69295233
+India,Telangana,1861,4,Medium,4981,21,36907314
+India,Gujarat,900,5,Medium,46780,40,15585012
+India,Gujarat,1844,4,Poor,26473,24,21527306
+India,Karnataka,2478,2,Medium,11871,5,53338288
+India,Maharashtra,2670,2,Poor,5710,8,68577788
+India,West Bengal,420,4,Poor,21608,26,3409348
+India,Delhi,3668,2,Rich,33463,23,187286733
+India,Tamil Nadu,1826,2,Poor,1028,34,12222945
+India,Haryana,2324,3,Poor,39607,9,31052663
+India,Karnataka,4035,2,Medium,2906,39,55566467
+India,Karnataka,1657,1,Medium,16663,0,30018416
+India,Telangana,4285,1,Medium,44813,22,58695161
+India,Maharashtra,4678,2,Rich,21858,5,318732071
+India,Haryana,1340,3,Rich,36321,2,47278867
+India,Haryana,3619,5,Medium,18492,10,75907318
+India,Punjab,3075,1,Rich,37445,36,35426798
+India,Haryana,1700,2,Poor,37839,40,14395036
+India,Delhi,4496,5,Poor,26988,20,160837327
+India,Telangana,1860,2,Medium,43616,31,29351607
+India,Rajasthan,3084,1,Rich,34586,4,47483137
+India,Haryana,2718,3,Rich,40243,29,63535980
+India,Telangana,1528,1,Poor,14237,2,17034043
+India,Tamil Nadu,4464,1,Poor,40111,23,35636989
+India,Haryana,631,5,Medium,9169,38,11380180
+India,Uttar Pradesh,3543,1,Poor,38863,22,14375621
+India,Haryana,1309,4,Poor,29656,4,21874550
+India,Rajasthan,4541,4,Medium,36929,4,70017404
+India,Karnataka,4034,5,Medium,32501,14,149846310
+India,Rajasthan,700,1,Rich,28626,16,7762923
+India,Tamil Nadu,2813,1,Medium,8910,39,21536416
+India,Maharashtra,2273,1,Rich,10746,26,96490625
+India,Uttar Pradesh,2893,4,Rich,30592,3,64376817
+India,Uttar Pradesh,1158,2,Rich,26020,29,12273512
+India,Gujarat,2363,4,Poor,3850,20,22814232
+India,Tamil Nadu,1611,1,Rich,16493,23,21683371
+India,Rajasthan,1972,4,Medium,5532,37,16608098
+India,Telangana,1424,5,Poor,27849,14,28687227
+India,Rajasthan,3553,2,Medium,25094,23,28528721
+India,Kerala,3791,2,Rich,14335,26,57523336
+India,Tamil Nadu,4249,2,Medium,28684,25,56616773
+India,Karnataka,3838,5,Medium,47314,10,167880077
+India,Gujarat,4994,3,Medium,17779,14,63321521
+India,West Bengal,2810,5,Rich,19033,25,59641767
+India,Tamil Nadu,2591,4,Poor,48921,37,34101712
+India,Kerala,3271,2,Poor,9314,7,29839492
+India,West Bengal,2786,2,Medium,21365,9,33625400
+India,Karnataka,2026,4,Poor,45491,2,54080202
+India,Uttar Pradesh,594,1,Poor,25596,9,3024551
+India,Karnataka,4071,4,Medium,18558,12,124842069
+India,Haryana,2291,1,Medium,33376,34,21048990
+India,Kerala,542,1,Medium,21991,16,5532542
+India,Delhi,3065,3,Medium,38259,35,110726479
+India,Delhi,1722,5,Medium,19256,31,68377667
+India,Haryana,1481,1,Medium,43399,5,21180917
+India,Telangana,3197,5,Poor,21343,23,52092769
+India,Uttar Pradesh,1274,3,Poor,4285,23,5717260
+India,Haryana,1686,4,Rich,45007,6,64076005
+India,Delhi,2463,5,Poor,11618,17,83551990
+India,Haryana,2465,5,Medium,40220,7,68173072
+India,Tamil Nadu,1292,1,Rich,5381,7,19591517
+India,Kerala,3378,4,Rich,32933,38,66712698
+India,West Bengal,4881,4,Medium,6609,17,59418690
+India,Rajasthan,2065,4,Poor,34988,2,23748350
+India,Kerala,1918,4,Medium,10063,2,33302045
+India,Gujarat,2713,2,Rich,38266,8,65887965
+India,Delhi,2520,2,Rich,34560,13,135201983
+India,Karnataka,2466,3,Poor,22577,3,51288751
+India,Haryana,1958,1,Rich,46807,9,44578231
+India,Telangana,404,2,Poor,39346,1,6275314
+India,Telangana,3592,3,Poor,4293,1,55345896
+India,Delhi,524,2,Rich,1737,7,24245653
+India,Haryana,1559,5,Rich,13178,31,42116036
+India,Punjab,809,5,Rich,14072,7,21209357
+India,Delhi,2434,3,Rich,2777,6,138701010
+India,Telangana,1604,3,Medium,42661,23,32507239
+India,Telangana,2011,3,Poor,36490,37,25227669
+India,West Bengal,647,2,Poor,29511,14,5492927
+India,Maharashtra,4058,4,Rich,11972,8,326730318
+India,Maharashtra,704,2,Rich,22700,9,49883188
+India,Karnataka,364,4,Rich,14112,7,15439734
+India,Maharashtra,2542,3,Rich,36851,9,195992158
+India,Maharashtra,1769,4,Rich,37390,25,135671241
+India,Uttar Pradesh,4451,4,Rich,42757,11,78190068
+India,Tamil Nadu,2193,3,Poor,36670,3,34321872
+India,Gujarat,1800,3,Medium,16799,32,18044430
+India,Punjab,695,3,Poor,5662,38,4057178
+India,Kerala,2580,2,Rich,42964,12,57706117
+India,Tamil Nadu,3011,4,Rich,46712,1,121397403
+India,Delhi,1978,1,Poor,12539,11,35933146
+India,Gujarat,964,5,Medium,34782,20,18717592
+India,West Bengal,4758,5,Medium,49780,27,91345372
+India,Karnataka,4370,3,Poor,46117,38,68365488
+India,Delhi,691,1,Medium,18459,26,17049340
+India,Maharashtra,3609,3,Medium,7895,7,158716514
+India,Kerala,2982,5,Rich,39931,15,89501660
+India,Karnataka,1873,5,Medium,36676,40,60188098
+India,Haryana,4980,2,Poor,38259,31,50739816
+India,Delhi,523,2,Poor,25811,34,10328899
+India,Uttar Pradesh,1641,5,Medium,42169,15,24771646
+India,Kerala,2326,2,Medium,49760,11,32132002
+India,Telangana,2239,5,Poor,48752,28,47869425
+India,Telangana,3135,3,Poor,43317,38,37858273
+India,Delhi,2209,1,Poor,13062,33,28685135
+India,Kerala,3361,1,Rich,11940,2,50230764
+India,Tamil Nadu,1367,4,Medium,10018,9,25343339
+India,Delhi,3479,3,Rich,38306,35,194337758
+India,Kerala,1137,3,Poor,21968,33,9139308
+India,Maharashtra,4947,3,Medium,21802,17,219621596
+India,Karnataka,4657,2,Poor,3739,38,45422095
+India,Maharashtra,3509,1,Rich,13336,35,123863695
+India,Tamil Nadu,836,2,Poor,28228,29,7947606
+India,Gujarat,4163,3,Medium,4400,11,50443406
+India,Tamil Nadu,3000,3,Rich,39889,36,58689450
+India,Maharashtra,1778,3,Medium,45702,28,82761535
+India,Delhi,2874,1,Poor,31794,33,45187387
+India,Punjab,1005,5,Rich,11255,38,15612229
+India,Maharashtra,3287,4,Rich,37370,6,326237324
+India,West Bengal,3668,3,Medium,45997,25,43221721
+India,Gujarat,625,3,Poor,16210,38,4772126
+India,Tamil Nadu,1649,1,Medium,37664,36,15739490
+India,Gujarat,4108,1,Rich,28250,5,63589489
+India,Haryana,780,1,Poor,47412,36,6189051
+India,Tamil Nadu,2813,1,Poor,7861,30,14816917
+India,Gujarat,904,4,Medium,24524,25,12966417
+India,Telangana,813,5,Rich,29419,35,30461563
+India,West Bengal,4386,1,Rich,1665,38,33079093
+India,Uttar Pradesh,448,4,Rich,38276,27,7840589
+India,Karnataka,2622,1,Rich,8233,14,64050532
+India,Kerala,2905,1,Medium,44148,32,25145080
+India,Punjab,1707,3,Rich,5846,29,21709554
+India,Haryana,3286,1,Rich,20239,20,51377320
+India,Tamil Nadu,4068,1,Poor,22217,9,32643864
+India,Haryana,4611,4,Medium,11794,22,68945524
+India,Rajasthan,1104,1,Rich,44397,21,13144069
+India,Rajasthan,4339,3,Rich,33471,37,57624144
+India,Telangana,1429,1,Poor,6435,35,9244982
+India,Telangana,3541,2,Poor,17934,6,46057793
+India,Tamil Nadu,3517,1,Poor,5409,23,20744173
+India,Gujarat,4372,2,Rich,24227,1,104058715
+India,Karnataka,2762,3,Poor,6322,14,39164512
+India,Haryana,1885,2,Medium,22390,17,27683217
+India,Rajasthan,1366,2,Medium,48013,29,12828326
+India,Punjab,4685,1,Rich,36282,1,71569242
+India,Gujarat,4483,4,Rich,32115,21,105665027
+India,Maharashtra,1164,4,Medium,45484,10,69548106
+India,Gujarat,1531,5,Rich,40349,25,41515760
+India,Telangana,3868,3,Medium,34714,34,64956445
+India,West Bengal,2247,5,Rich,4258,13,47395209
+India,Kerala,3147,2,Medium,35207,25,39850631
+India,Uttar Pradesh,405,2,Rich,16184,29,3725162
+India,Gujarat,3764,2,Poor,17493,0,40846936
+India,West Bengal,2215,5,Poor,25003,8,27683496
+India,Telangana,3063,2,Medium,17682,38,41330202
+India,Karnataka,3378,5,Medium,34551,0,164531856
+India,Gujarat,2337,5,Poor,4196,16,27249618
+India,Telangana,1256,5,Medium,48776,1,53981793
+India,Tamil Nadu,1686,1,Medium,44209,23,18253701
+India,West Bengal,3972,5,Rich,2425,23,81961149
+India,Maharashtra,1790,1,Medium,48078,9,84106355
+India,West Bengal,1946,3,Rich,6956,40,22588125
+India,Rajasthan,4963,4,Poor,45648,5,57255038
+India,Rajasthan,2140,1,Rich,23322,5,23513447
+India,Delhi,3433,5,Rich,21493,35,213546042
+India,Uttar Pradesh,1871,5,Medium,46771,15,29378897
+India,Telangana,1424,5,Medium,30521,9,42239637
+India,Delhi,4178,5,Rich,24616,14,339100238
+India,Tamil Nadu,2452,2,Medium,40291,32,32022925
+India,Kerala,2175,1,Medium,14824,4,23342494
+India,Maharashtra,2968,3,Poor,17016,33,66473249
+India,Punjab,2446,5,Medium,35938,30,36044879
+India,Rajasthan,1216,5,Medium,7458,4,17064902
+India,Maharashtra,3391,1,Poor,8297,36,49175940
+India,Tamil Nadu,1189,1,Medium,12650,8,14018173
+India,Haryana,1101,3,Medium,47665,29,20731952
+India,Delhi,649,2,Medium,27143,15,24755266
+India,West Bengal,3701,5,Medium,20569,18,59589242
+India,Punjab,598,4,Poor,11131,20,4655460
+India,Delhi,1677,2,Medium,11141,8,57406984
+India,Kerala,3439,5,Poor,33069,13,53795877
+India,Gujarat,2622,5,Rich,39066,5,91479978
+India,Punjab,3475,3,Medium,39015,6,44215842
+India,Telangana,4926,2,Rich,24977,40,101262706
+India,Rajasthan,2029,1,Medium,9859,12,13192868
+India,West Bengal,2829,3,Medium,5392,1,32823345
+India,Telangana,3527,5,Medium,27728,0,115395105
+India,Gujarat,4777,2,Poor,8086,10,39790558
+India,Haryana,2811,3,Rich,26025,10,71171358
+India,Karnataka,1593,2,Rich,17304,30,42838821
+India,Kerala,3499,2,Medium,27013,24,38138204
+India,Karnataka,302,3,Poor,41958,21,5111147
+India,Maharashtra,4894,1,Medium,16037,29,131910810
+India,West Bengal,1599,3,Poor,10268,10,12712465
+India,Tamil Nadu,3031,4,Poor,46615,26,40510954
+India,Tamil Nadu,4600,5,Poor,36912,3,97629825
+India,Kerala,405,5,Medium,40462,27,7480284
+India,Uttar Pradesh,3448,5,Poor,34012,1,39108624
+India,Telangana,4108,5,Rich,8310,31,116017146
+India,Uttar Pradesh,1769,5,Medium,12197,15,21017664
+India,Punjab,1960,4,Poor,32759,13,20052439
+India,West Bengal,2410,3,Rich,1560,32,31483457
+India,Haryana,2951,1,Poor,49940,14,29098746
+India,Tamil Nadu,857,1,Medium,18323,10,8481439
+India,Rajasthan,1636,3,Medium,28713,21,16131436
+India,Uttar Pradesh,3714,5,Rich,20510,24,64619111
+India,Telangana,3688,1,Rich,20093,2,82872404
+India,Tamil Nadu,3732,2,Medium,7722,9,49370846
+India,Maharashtra,1948,5,Poor,35898,28,84864293
+India,West Bengal,4471,4,Poor,31628,2,52501925
+India,Rajasthan,3269,2,Poor,24574,22,17642176
+India,Rajasthan,3270,3,Rich,8999,16,45635098
+India,Maharashtra,3422,1,Medium,1652,39,71614671
+India,Punjab,2543,1,Medium,29067,40,16004360
+India,Tamil Nadu,3348,5,Medium,23891,10,79326571
+India,Delhi,4624,4,Medium,25843,20,198103481
+India,Rajasthan,2025,1,Medium,8522,31,9401318
+India,Maharashtra,4676,3,Rich,11055,4,352433607
+India,Karnataka,4916,2,Poor,23671,32,60733012
+India,Maharashtra,2021,1,Medium,30902,25,59797424
+India,Uttar Pradesh,3770,3,Poor,29743,33,18705280
+India,Kerala,796,4,Poor,29182,3,12707087
+India,West Bengal,1644,4,Medium,3431,31,17195357
+India,Kerala,1515,4,Rich,34787,1,50863889
+India,Uttar Pradesh,2947,3,Rich,40098,21,38604648
+India,Rajasthan,3303,1,Poor,26651,27,15440119
+India,Haryana,2089,5,Medium,24761,37,37636700
+India,Telangana,1273,4,Rich,39262,9,53352669
+India,Gujarat,404,2,Medium,8689,38,3716073
+India,West Bengal,3438,2,Poor,5394,14,20842991
+India,West Bengal,4114,2,Poor,32100,27,27862179
+India,Uttar Pradesh,4837,2,Medium,2245,32,23435441
+India,Maharashtra,3222,2,Rich,3801,25,154031907
+India,Gujarat,1557,3,Poor,15648,8,17108299
+India,Rajasthan,2478,3,Rich,25544,20,37438054
+India,Tamil Nadu,4260,3,Medium,49223,5,89606403
+India,West Bengal,4807,5,Rich,33885,33,101093099
+India,Karnataka,4777,4,Poor,24396,19,104422338
+India,Kerala,903,5,Medium,12254,8,17871713
+India,West Bengal,1913,4,Poor,16545,23,17855792
+India,Punjab,1086,5,Poor,2754,18,9157423
+India,Haryana,2723,2,Medium,13779,35,30123206
+India,Maharashtra,4518,5,Rich,38571,9,539941456
+India,Karnataka,3117,1,Poor,20544,5,41355470
+India,Karnataka,2948,2,Poor,19101,0,49652078
+India,Gujarat,3874,4,Poor,30480,36,40248450
+India,Uttar Pradesh,4963,2,Medium,13646,9,36848615
+India,Maharashtra,1662,5,Rich,18270,30,121523438
+India,Tamil Nadu,3843,2,Medium,31712,22,50036276
+India,Uttar Pradesh,2897,1,Medium,31563,26,17515753
+India,Rajasthan,2591,3,Rich,20502,14,37553447
+India,Punjab,3713,4,Rich,33535,28,78345950
+India,Tamil Nadu,1369,2,Rich,11447,32,20848407
+India,Haryana,3558,4,Medium,3107,2,74110474
+India,Kerala,1859,4,Rich,29439,26,46501243
+India,Punjab,3306,2,Poor,23391,3,30047536
+India,Maharashtra,2201,3,Poor,9378,16,57513414
+India,Kerala,4536,1,Rich,25714,10,62907892
+India,Telangana,4600,5,Medium,31382,26,120554584
+India,Kerala,4837,4,Rich,36103,33,98689117
+India,Kerala,4893,1,Medium,16261,20,36884289
+India,Maharashtra,337,1,Rich,13697,12,14002131
+India,Maharashtra,4778,1,Rich,49285,7,336735153
+India,Uttar Pradesh,2051,1,Rich,1256,31,12780516
+India,Karnataka,1982,4,Rich,33746,28,93895984
+India,Rajasthan,1689,4,Rich,23076,16,32692659
+India,Haryana,1276,2,Medium,33813,14,21868696
+India,Punjab,3519,5,Poor,4775,15,33899652
+India,Maharashtra,4996,4,Rich,4644,14,322401904
+India,Punjab,2408,2,Medium,37382,26,22423230
+India,Rajasthan,4632,3,Poor,21284,20,28316063
+India,Gujarat,4868,3,Poor,46167,19,54871453
+India,Telangana,682,1,Poor,13780,10,5873636
+India,Rajasthan,4512,3,Medium,18263,26,39195237
+India,Maharashtra,1659,5,Poor,21344,35,61301368
+India,Maharashtra,3009,2,Rich,31782,27,179002202
+India,Tamil Nadu,1744,2,Poor,9080,39,11961262
+India,Rajasthan,758,5,Rich,13751,15,15894190
+India,Kerala,2985,2,Poor,19232,16,22996815
+India,Karnataka,1598,1,Medium,36794,39,25843817
+India,Gujarat,2589,3,Medium,14854,32,28875638
+India,Punjab,1065,5,Rich,13975,13,22167452
+India,Punjab,4518,2,Poor,19565,8,31106621
+India,Haryana,865,5,Poor,44242,35,13240369
+India,Karnataka,4611,1,Medium,42616,38,72534689
+India,Gujarat,3319,1,Rich,3580,18,40489499
+India,Delhi,4319,3,Poor,27224,31,103325399
+India,Uttar Pradesh,2160,4,Poor,47585,27,17059733
+India,Karnataka,1583,1,Rich,24147,2,45117654
+India,Kerala,2476,3,Poor,43815,30,23752192
+India,Maharashtra,2632,1,Poor,14411,28,51186372
+India,Tamil Nadu,2054,1,Rich,44183,2,51033937
+India,Rajasthan,751,5,Poor,8396,30,5432216
+India,Rajasthan,4995,3,Medium,48080,28,61863901
+India,Haryana,3820,4,Poor,12324,18,53487112
+India,Telangana,4539,1,Medium,21812,37,53536452
+India,Gujarat,3217,1,Poor,12936,28,17434329
+India,Rajasthan,1164,5,Medium,49777,23,16753213
+India,Karnataka,2205,4,Poor,5001,27,32073751
+India,Maharashtra,366,5,Medium,45358,23,26941062
+India,Gujarat,4285,5,Medium,18158,32,68264367
+India,Haryana,2803,4,Rich,13419,33,67630542
+India,Rajasthan,1805,2,Rich,12136,3,26341957
+India,Kerala,588,4,Rich,17911,20,12564062
+India,Uttar Pradesh,1541,2,Poor,20517,30,6449827
+India,Haryana,3188,3,Rich,37859,25,80190932
+India,Karnataka,3193,5,Medium,26825,32,86609992
+India,Rajasthan,1197,5,Rich,39546,24,25207134
+India,Punjab,715,5,Rich,38030,19,20092404
+India,West Bengal,1292,2,Rich,38138,19,25922440
+India,Kerala,2673,1,Rich,26467,24,34008383
+India,Tamil Nadu,2434,3,Poor,23353,25,24214263
+India,Uttar Pradesh,1034,5,Rich,1632,32,12819621
+India,Tamil Nadu,1963,2,Medium,11207,23,20499278
+India,West Bengal,4172,5,Poor,47347,10,63996568
+India,Rajasthan,3047,2,Medium,47707,19,35064622
+India,Maharashtra,3963,4,Medium,7618,27,180134672
+India,Punjab,4158,5,Rich,39165,8,125919071
+India,Punjab,3287,1,Rich,13076,7,36894111
+India,Punjab,4599,1,Rich,9118,4,60128557
+India,Delhi,1132,3,Rich,45476,7,78950610
+India,Rajasthan,2018,3,Medium,4409,30,15394087
+India,Delhi,1252,1,Rich,49774,13,61030680
+India,Rajasthan,4283,4,Medium,40452,15,55515251
+India,West Bengal,3640,5,Poor,40080,2,61004289
+India,Rajasthan,1885,4,Medium,21968,17,25183359
+India,Gujarat,3544,1,Poor,28703,33,21669407
+India,West Bengal,3394,2,Medium,36052,22,37072459
+India,Kerala,4155,1,Rich,23113,36,44898064
+India,Maharashtra,3983,1,Poor,41136,1,130869609
+India,Delhi,4518,3,Rich,2868,7,259390992
+India,Maharashtra,2442,5,Rich,39952,6,309444781
+India,West Bengal,4937,1,Rich,12525,24,46626931
+India,West Bengal,565,5,Medium,14518,12,9356171
+India,Uttar Pradesh,509,4,Poor,20977,30,2992900
+India,West Bengal,1068,3,Rich,30250,6,22851846
+India,Uttar Pradesh,4232,2,Poor,8498,37,17391896
+India,Kerala,4654,4,Rich,21622,32,94541252
+India,Karnataka,4485,4,Rich,5576,19,177665611
+India,West Bengal,3970,4,Rich,45518,18,103011713
+India,Tamil Nadu,4094,1,Medium,43036,12,51070536
+India,Haryana,923,5,Medium,12542,26,18359370
+India,Delhi,4072,5,Rich,14435,18,294765869
+India,Telangana,2797,3,Rich,3768,7,72610228
+India,Punjab,2683,5,Rich,20924,25,52548818
+India,Haryana,323,4,Medium,29132,25,6453265
+India,Karnataka,2260,2,Medium,38656,1,73391177
+India,Tamil Nadu,3959,1,Rich,6283,40,48764348
+India,Telangana,1640,1,Rich,15780,17,34829489
+India,Tamil Nadu,2803,5,Poor,30482,6,51725051
+India,Telangana,3812,5,Poor,21566,28,70953627
+India,West Bengal,3874,2,Medium,22604,6,48381762
+India,Kerala,527,1,Medium,42787,39,4524806
+India,Gujarat,601,5,Poor,32996,20,8060271
+India,Karnataka,743,1,Rich,38123,2,28106133
+India,Rajasthan,369,1,Poor,40894,32,1562927
+India,Uttar Pradesh,3796,2,Rich,3892,11,37422589
+India,Haryana,317,4,Medium,22346,25,5341494
+India,Maharashtra,1725,1,Poor,29702,36,33459130
+India,Delhi,4840,3,Rich,14418,31,233378698
+India,Delhi,1173,5,Poor,19402,29,43194708
+India,Punjab,4183,1,Rich,11051,24,39189668
+India,Tamil Nadu,1489,5,Medium,30374,0,39302705
+India,Telangana,2667,1,Medium,19125,40,29216145
+India,Kerala,4046,3,Rich,5023,12,73022423
+India,Karnataka,3515,2,Medium,34158,35,62722359
+India,Kerala,2226,4,Rich,30991,18,58732634
+India,Delhi,1691,5,Medium,43215,40,94009532
+India,Gujarat,4987,2,Medium,43679,5,77802534
+India,Haryana,1135,1,Medium,15961,7,14438004
+India,Gujarat,3667,3,Rich,22392,1,97632749
+India,Delhi,2340,4,Medium,20333,37,91335903
+India,Kerala,1415,3,Rich,3590,12,26214482
+India,Punjab,4558,4,Medium,22676,34,52255291
+India,Telangana,2295,5,Rich,37659,34,87307288
+India,Karnataka,2402,5,Poor,31846,0,81817290
+India,Uttar Pradesh,2850,4,Rich,49591,37,46257236
+India,Maharashtra,4956,1,Poor,46468,25,110951905
+India,Punjab,1804,4,Rich,2909,19,29290088
+India,Maharashtra,2988,2,Poor,18140,39,62298523
+India,Tamil Nadu,1794,5,Rich,26595,14,58147898
+India,Gujarat,4522,5,Poor,44036,5,85133086
+India,Uttar Pradesh,2587,2,Poor,45725,40,12885507
+India,Maharashtra,1763,4,Rich,24212,29,146121526
+India,Kerala,1726,5,Poor,3723,18,17933515
+India,Uttar Pradesh,942,2,Medium,5190,27,6356457
+India,Punjab,489,4,Medium,31428,23,5847592
+India,Tamil Nadu,2135,5,Rich,21534,28,65136601
+India,Kerala,1989,5,Poor,8130,29,21827860
+India,Karnataka,1445,3,Poor,8942,8,25491220
+India,Kerala,1761,5,Rich,36036,34,46772976
+India,Uttar Pradesh,2616,5,Medium,23588,7,38275988
+India,Rajasthan,960,4,Medium,7922,1,12757586
+India,Delhi,4270,3,Medium,28843,22,172460205
+India,Tamil Nadu,3837,2,Rich,31346,28,86075748
+India,Uttar Pradesh,4674,4,Rich,34583,19,77567612
+India,Uttar Pradesh,1222,2,Poor,30176,13,7140849
+India,Tamil Nadu,4523,2,Poor,44909,30,40354606
+India,Haryana,3138,3,Rich,21895,19,78838735
+India,Rajasthan,3199,5,Poor,31844,7,40890868
+India,Punjab,2590,2,Medium,49888,28,30757724
+India,West Bengal,381,2,Medium,3970,11,3181310
+India,Maharashtra,3485,2,Medium,2806,32,89011046
+India,Karnataka,3959,3,Rich,2525,18,113870334
+India,Haryana,4216,4,Poor,27624,5,62865334
+India,West Bengal,4481,4,Rich,37163,3,141778696
+India,Punjab,3344,1,Rich,22057,6,41469822
+India,Maharashtra,4226,2,Medium,4146,33,123952840
+India,Delhi,4714,1,Rich,21437,33,161972772
+India,Kerala,1416,1,Poor,2750,16,8428150
+India,Delhi,1787,4,Rich,29207,32,105256976
+India,Telangana,1659,4,Medium,38621,21,39210772
+India,Tamil Nadu,1544,2,Medium,7474,23,18599327
+India,Tamil Nadu,1960,4,Medium,21733,0,41757811
+India,Kerala,631,1,Medium,29231,3,8301799
+India,Kerala,4708,2,Poor,42187,1,58116648
+India,Delhi,2875,3,Medium,39953,16,129113942
+India,Tamil Nadu,365,1,Poor,49123,18,3189696
+India,Rajasthan,3778,5,Medium,22076,10,59852139
+India,Tamil Nadu,3339,5,Rich,28258,25,110625043
+India,Tamil Nadu,692,4,Poor,23785,37,8061994
+India,West Bengal,432,3,Medium,31531,8,6359274
+India,Punjab,1960,2,Medium,23076,9,21184396
+India,Maharashtra,4849,3,Rich,14751,24,267133795
+India,Delhi,2479,3,Rich,33543,34,133342882
+India,Tamil Nadu,2518,3,Medium,5276,18,31397297
+India,Maharashtra,1545,3,Rich,49994,28,110157462
+India,Tamil Nadu,4677,3,Medium,18206,5,85351176
+India,Maharashtra,2838,5,Poor,21951,24,122903469
+India,Rajasthan,1416,5,Poor,10609,11,12060104
+India,Gujarat,3624,5,Rich,15457,9,98291290
+India,Telangana,1629,5,Rich,31653,25,64059326
+India,Uttar Pradesh,3787,3,Rich,22381,34,43493534
+India,West Bengal,4597,5,Rich,26965,16,111156928
+India,Rajasthan,2194,2,Medium,29287,19,23647182
+India,West Bengal,1575,4,Rich,25976,19,32242796
+India,Karnataka,567,5,Medium,15633,33,13504416
+India,Karnataka,1038,1,Poor,2257,14,10587836
+India,Telangana,4544,1,Poor,7908,28,32305314
+India,West Bengal,1409,2,Poor,18634,16,9965298
+India,Uttar Pradesh,3256,5,Medium,22378,36,33210428
+India,Karnataka,1102,4,Poor,9150,27,19927336
+India,Delhi,3307,2,Medium,27246,7,142018650
+India,Uttar Pradesh,2523,4,Medium,42170,9,35161611
+India,Tamil Nadu,3675,1,Rich,8494,13,53531135
+India,Kerala,3188,4,Rich,9521,18,63824026
+India,Maharashtra,4120,1,Rich,24457,23,199009887
+India,Karnataka,2993,2,Poor,16858,10,40786696
+India,Kerala,4279,5,Medium,12721,19,78552320
+India,Haryana,336,5,Rich,19171,11,12101405
+India,Uttar Pradesh,4180,5,Medium,27470,8,59241515
+India,Telangana,3376,4,Poor,49384,21,57795220
+India,Karnataka,642,2,Poor,29026,17,10729320
+India,Kerala,4718,2,Medium,14563,22,47871949
+India,Rajasthan,2917,4,Poor,17958,26,20246007
+India,Rajasthan,371,1,Medium,29013,36,2067868
+India,Karnataka,1659,4,Rich,15179,39,54641791
+India,Telangana,2200,2,Rich,49817,3,94128209
+India,Punjab,2565,3,Rich,18199,26,33719863
+India,Kerala,716,4,Rich,28207,6,18720282
+India,West Bengal,4212,2,Medium,1255,16,35338898
+India,Telangana,2582,1,Poor,25756,28,21117418
+India,Rajasthan,2027,1,Rich,1591,5,20604924
+India,Tamil Nadu,647,1,Medium,38211,16,8201901
+India,Telangana,4703,1,Poor,23993,34,36800726
+India,Delhi,3267,3,Medium,19854,7,134272501
+India,Uttar Pradesh,3036,4,Poor,20477,27,19245478
+India,Rajasthan,2585,5,Poor,8045,23,22727534
+India,Tamil Nadu,3483,3,Poor,41611,37,34349409
+India,Uttar Pradesh,1648,5,Poor,6289,25,10804086
+India,Tamil Nadu,1714,5,Medium,24092,17,38188828
+India,Telangana,3756,4,Poor,3347,34,41853754
+India,Haryana,2346,4,Medium,49135,15,59466443
+India,West Bengal,907,2,Medium,25174,5,10200598
+India,Tamil Nadu,2214,5,Poor,34356,31,32069107
+India,Telangana,2355,1,Poor,32655,31,21669930
+India,Karnataka,4095,3,Poor,19164,40,55122591
+India,Kerala,3084,1,Rich,30263,17,48883087
+India,Uttar Pradesh,1706,3,Rich,16926,12,23460677
+India,Uttar Pradesh,4814,1,Poor,44663,7,28339115
+India,Uttar Pradesh,2850,3,Rich,35269,38,32035231
+India,Karnataka,4706,1,Medium,2041,15,66470348
+India,Uttar Pradesh,3976,2,Poor,22781,32,18713933
+India,Gujarat,840,5,Poor,33844,8,13415338
+India,Tamil Nadu,2694,4,Rich,6988,6,76905382
+India,Rajasthan,3959,4,Medium,3419,39,35861318
+India,West Bengal,4550,1,Rich,13961,3,63086550
+India,Maharashtra,1772,1,Poor,37843,14,45858318
+India,Kerala,3080,3,Medium,25762,5,42952946
+India,West Bengal,3496,1,Medium,42300,10,35578280
+India,Kerala,368,4,Poor,23063,20,4159189
+India,Tamil Nadu,2672,5,Poor,31898,11,43540464
+India,West Bengal,1778,2,Rich,10705,7,28324999
+India,Tamil Nadu,2496,1,Rich,41934,14,43023881
+India,Maharashtra,4820,5,Poor,32323,13,252558554
+India,Tamil Nadu,2423,1,Medium,27519,19,28648960
+India,Uttar Pradesh,3378,4,Poor,32269,15,28660571
+India,Gujarat,1751,5,Rich,11220,20,38650608
+India,Kerala,4629,4,Poor,14782,28,46465419
+India,Tamil Nadu,2292,5,Poor,23072,6,35646830
+India,Tamil Nadu,2992,3,Rich,48358,40,74353388
+India,Rajasthan,1578,2,Medium,39893,2,22157570
+India,Telangana,4221,4,Poor,36268,8,78548517
+India,Kerala,2959,1,Medium,11302,22,24521068
+India,Rajasthan,4654,3,Rich,10474,37,51121849
+India,Punjab,2086,3,Rich,26792,8,38654985
+India,Maharashtra,3637,4,Poor,10432,21,118134421
+India,Rajasthan,629,4,Rich,45078,22,13518631
+India,Maharashtra,3518,4,Medium,44417,26,206236374
+India,West Bengal,4780,4,Rich,30802,27,99312656
+India,Karnataka,2911,4,Medium,17479,28,71584881
+India,Kerala,545,2,Poor,25028,32,3879112
+India,Karnataka,3499,3,Poor,16186,9,62667400
+India,Punjab,389,3,Poor,47359,12,3591664
+India,Tamil Nadu,2804,1,Rich,25673,36,41125916
+India,Maharashtra,2496,3,Medium,31763,13,113762176
+India,Rajasthan,4527,4,Rich,44481,15,108503004
+India,Delhi,3838,3,Poor,25563,7,130501976
+India,Karnataka,4930,2,Medium,3093,18,99666584
+India,Kerala,1634,2,Poor,23082,6,14580717
+India,Kerala,3527,1,Poor,16003,18,20854294
+India,Tamil Nadu,632,3,Rich,6002,14,12591715
+India,Delhi,3631,5,Poor,5646,33,97299361
+India,Kerala,3255,2,Rich,2018,27,45359041
+India,Maharashtra,3950,4,Medium,30410,16,251641571
+India,Kerala,4876,4,Medium,49292,12,102611556
+India,Telangana,1174,5,Medium,4809,33,23058259
+India,West Bengal,3346,1,Poor,17427,27,18282734
+India,Rajasthan,1216,2,Rich,18182,32,14275850
+India,Haryana,2468,1,Poor,33499,23,19050280
+India,Haryana,4408,3,Poor,5295,9,45854994
+India,Tamil Nadu,3442,4,Rich,48992,7,128051167
+India,Haryana,2882,2,Poor,16932,11,28688850
+India,Tamil Nadu,4720,3,Poor,3808,18,44864923
+India,West Bengal,2631,3,Medium,14769,2,33596136
+India,Uttar Pradesh,2756,5,Poor,46403,30,24591896
+India,Kerala,704,1,Poor,30348,12,4795367
+India,Rajasthan,3418,5,Rich,7630,21,57711209
+India,Gujarat,3168,2,Medium,43244,8,48303332
+India,Haryana,1545,4,Poor,11355,25,16377245
+India,Karnataka,1715,5,Poor,44625,34,36440664
+India,Karnataka,4656,1,Medium,27783,37,68335202
+India,Tamil Nadu,3994,2,Medium,18920,28,51847826
+India,Haryana,3735,2,Medium,27997,7,68256017
+India,Telangana,2480,1,Medium,38921,15,36748881
+India,Gujarat,1913,4,Poor,17672,32,17730478
+India,West Bengal,4402,3,Poor,27325,5,39140569
+India,Uttar Pradesh,1377,2,Poor,34615,10,8215470
+India,Telangana,1632,3,Rich,44339,26,46450681
+India,Delhi,2712,5,Poor,41551,29,115203418
+India,Rajasthan,3727,5,Rich,46592,1,105148582
+India,Delhi,830,2,Rich,7929,31,28317074
+India,West Bengal,1336,1,Rich,8432,23,13367227
+India,Uttar Pradesh,2055,1,Poor,19013,6,8995446
+India,Kerala,4257,4,Medium,1557,10,60373663
+India,Uttar Pradesh,1351,5,Poor,7998,17,11153890
+India,Haryana,1437,5,Poor,28897,10,22519772
+India,Kerala,2954,5,Poor,35928,24,35969496
+India,Haryana,675,4,Medium,26816,14,13588114
+India,Tamil Nadu,717,3,Medium,9798,31,7736088
+India,Tamil Nadu,1523,1,Rich,23102,20,24689007
+India,Rajasthan,4009,3,Medium,17259,19,38638749
+India,Punjab,3913,5,Medium,44147,40,53437641
+India,Delhi,2146,2,Medium,29287,39,68578239
+India,Maharashtra,1896,4,Rich,28794,24,134646212
+India,West Bengal,1595,1,Rich,34706,22,20265694
+India,Rajasthan,2985,4,Poor,41076,35,24998539
+India,Telangana,1503,5,Poor,9711,39,20383704
+India,Haryana,782,5,Poor,10394,21,10948005
+India,Haryana,3835,5,Medium,44350,23,99096429
+India,Telangana,3880,4,Rich,28873,21,140452009
+India,Delhi,3202,4,Medium,8694,30,110562279
+India,Punjab,4996,5,Medium,3160,20,59467799
+India,Telangana,3222,1,Medium,37572,14,48003192
+India,Tamil Nadu,1400,4,Rich,11412,8,40706365
+India,Kerala,4139,4,Poor,20323,30,36553484
+India,Haryana,1596,3,Medium,4996,3,27019704
+India,Haryana,1084,5,Rich,32923,31,35382365
+India,Haryana,2716,1,Rich,24246,33,38720046
+India,Maharashtra,3686,5,Rich,33470,32,296716822
+India,Maharashtra,3966,1,Rich,38132,26,204639926
+India,Telangana,2697,3,Rich,32126,9,90917896
+India,Karnataka,895,3,Poor,1730,33,10328556
+India,Telangana,1586,5,Medium,46766,25,45082736
+India,Karnataka,3688,4,Rich,8273,15,145969191
+India,Telangana,4917,1,Rich,31431,29,95298854
+India,Telangana,471,1,Medium,27562,25,6153317
+India,Haryana,4429,2,Medium,1815,13,60236940
+India,Maharashtra,1169,3,Rich,2934,23,64265998
+India,Haryana,4209,2,Poor,47581,12,57377661
+India,Punjab,746,2,Rich,6594,28,8656403
+India,Telangana,3011,2,Poor,33175,11,43080022
+India,Maharashtra,2955,5,Rich,8394,0,299122854
+India,West Bengal,1272,5,Rich,1443,31,19295758
+India,Uttar Pradesh,3765,5,Medium,23488,22,42344573
+India,Delhi,4181,2,Medium,11903,16,143714236
+India,Telangana,1956,5,Rich,1246,28,64306663
+India,Karnataka,4294,4,Rich,16290,7,199743985
+India,Delhi,1692,5,Rich,28584,37,128562778
+India,Kerala,1059,4,Poor,12280,3,14084649
+India,Gujarat,2655,2,Medium,47253,27,35998024
+India,Kerala,1565,5,Poor,18434,17,22129150
+India,Kerala,3221,5,Medium,21425,20,57775606
+India,Karnataka,1769,1,Poor,8292,1,22727523
+India,Maharashtra,2509,2,Medium,7931,32,75175427
+India,Haryana,1960,2,Poor,1260,24,15676445
+India,West Bengal,2749,3,Medium,5301,39,21419065
+India,Karnataka,3478,1,Rich,9556,35,61081005
+India,West Bengal,2838,1,Medium,19660,19,21897857
+India,Kerala,606,5,Poor,13207,2,8908170
+India,Rajasthan,965,1,Medium,34719,33,6101931
+India,Uttar Pradesh,4920,5,Poor,37776,12,52461868
+India,Tamil Nadu,821,4,Poor,35168,5,12057370
+India,Haryana,3547,3,Medium,5781,32,39818725
+India,Gujarat,3995,3,Medium,29016,2,72183242
+India,Karnataka,1249,5,Poor,24016,32,22171354
+India,Karnataka,2635,3,Poor,43607,37,42693802
+India,Karnataka,2515,5,Medium,15690,3,98390665
+India,Uttar Pradesh,958,3,Medium,36595,10,10157245
+India,Haryana,2132,1,Poor,23889,2,19384105
+India,Haryana,3547,3,Poor,23441,23,36249480
+India,Telangana,966,5,Poor,28883,12,21113978
+India,Telangana,458,4,Rich,49764,36,15039072
+India,Rajasthan,4115,4,Poor,25187,22,31253400
+India,Haryana,841,3,Rich,8257,19,17908924
+India,Punjab,4755,4,Rich,14526,28,80391946
+India,Karnataka,1275,1,Medium,26298,10,22844319
+India,West Bengal,2245,5,Medium,5486,15,31718528
+India,West Bengal,2479,4,Rich,16919,16,46257862
+India,Telangana,2831,5,Rich,41253,9,159849368
+India,Tamil Nadu,3087,2,Medium,10470,17,39864308
+India,Telangana,625,3,Rich,34071,11,18726940
+India,Tamil Nadu,448,3,Rich,12226,7,9692796
+India,Kerala,3767,1,Medium,44270,3,48724755
+India,Telangana,992,3,Poor,42911,16,17515410
+India,Punjab,3462,2,Medium,18412,17,33321542
+India,Telangana,1905,3,Rich,7406,13,53743230
+India,Maharashtra,2182,5,Poor,29287,36,78149152
+India,Haryana,1393,2,Rich,32813,3,42030296
+India,Punjab,1460,3,Rich,38081,26,26016563
+India,Maharashtra,1504,3,Rich,9559,10,89864371
+India,Gujarat,3527,5,Rich,11681,8,109232845
+India,Haryana,3123,2,Medium,1944,26,32122584
+India,Rajasthan,1859,4,Medium,29114,1,30990947
+India,Kerala,4563,2,Poor,2902,39,28485307
+India,Uttar Pradesh,3414,3,Poor,38997,26,23144969
+India,Tamil Nadu,348,3,Poor,48606,38,3614945
+India,Kerala,366,5,Poor,19161,6,4813336
+India,West Bengal,1922,1,Poor,24130,21,9870308
+India,Punjab,2204,4,Medium,34879,22,26426298
+India,Kerala,3974,3,Poor,11139,16,33325571
+India,Maharashtra,2697,1,Medium,47996,35,78771626
+India,Telangana,609,1,Rich,4952,6,11882267
+India,Karnataka,315,5,Medium,32876,6,13190953
+India,Maharashtra,713,1,Rich,43964,20,38879438
+India,Kerala,688,2,Medium,46499,38,7890879
+India,Rajasthan,2715,5,Poor,3389,36,19326475
+India,Haryana,2273,2,Medium,22423,22,33302017
+India,Haryana,4555,2,Rich,48857,13,119092611
+India,Tamil Nadu,2363,3,Medium,29924,9,42191302
+India,West Bengal,3964,1,Poor,29190,25,20006227
+India,Maharashtra,820,3,Medium,16660,3,41174086
+India,Gujarat,1907,1,Medium,4574,37,12799503
+India,West Bengal,3934,1,Poor,35129,2,29353691
+India,Kerala,4344,3,Rich,20798,16,79389299
+India,Tamil Nadu,2858,4,Rich,6079,4,78278068
+India,Haryana,2089,5,Poor,9998,37,23968816
+India,Gujarat,704,5,Medium,42553,11,15949976
+India,Telangana,1842,2,Poor,49704,37,22908890
+India,Haryana,4477,1,Poor,36024,10,38213139
+India,Delhi,1825,4,Rich,5876,38,95547268
+India,Telangana,2053,4,Rich,18996,11,78061079
+India,Delhi,1124,1,Rich,44809,22,54123485
+India,Tamil Nadu,374,1,Rich,22066,8,6979717
+India,Rajasthan,4974,5,Poor,49082,35,47611585
+India,Gujarat,487,5,Medium,45406,21,9939147
+India,Haryana,1370,1,Poor,26538,26,10802508
+India,Delhi,3464,1,Rich,7569,19,126102281
+India,West Bengal,4709,4,Medium,27119,30,53487442
+India,Punjab,1100,2,Medium,18881,35,8561438
+India,Punjab,1196,3,Poor,39976,30,8850984
+India,Telangana,1685,2,Medium,18326,16,27629220
+India,Karnataka,3945,5,Medium,37303,5,161400017
+India,Punjab,1853,2,Rich,16861,23,23993549
+India,Tamil Nadu,707,5,Medium,21553,1,17104626
+India,Delhi,536,2,Rich,28453,9,31222975
+India,Haryana,3154,5,Rich,22793,38,90537264
+India,West Bengal,2223,3,Poor,32283,38,16903983
+India,Maharashtra,3746,3,Rich,4098,0,281656264
+India,West Bengal,2769,2,Medium,26208,23,26023522
+India,West Bengal,1754,3,Medium,39575,12,23449933
+India,Karnataka,4059,1,Poor,28002,3,59700712
+India,Karnataka,1645,2,Rich,29204,22,49328979
+India,West Bengal,2040,2,Poor,12218,39,10225252
+India,Uttar Pradesh,1261,4,Rich,31614,5,22061704
+India,Gujarat,1692,5,Poor,26350,28,19942587
+India,Gujarat,2423,2,Rich,41910,23,47588984
+India,Kerala,3111,2,Rich,47152,9,81779971
+India,Karnataka,4099,1,Rich,23733,26,97370261
+India,Telangana,4849,5,Rich,34362,12,228276258
+India,Telangana,1699,2,Rich,41622,29,48186171
+India,Tamil Nadu,3978,5,Medium,17720,3,96935404
+India,Tamil Nadu,4357,2,Rich,49351,13,106967493
+India,Maharashtra,2243,1,Medium,42506,13,86587729
+India,Delhi,3072,2,Medium,5098,39,75196150
+India,Karnataka,3116,1,Poor,39278,10,46032354
+India,Telangana,3356,2,Medium,34431,17,62066612
+India,Maharashtra,939,2,Medium,6004,36,24281364
+India,Karnataka,3727,1,Poor,1394,13,34312837
+India,Kerala,1072,5,Medium,30049,23,19889125
+India,Kerala,2103,3,Medium,35818,36,26852454
+India,Delhi,4054,5,Poor,44262,2,227566301
+India,Uttar Pradesh,3695,4,Medium,22675,30,32484135
+India,Kerala,4729,5,Medium,19280,6,103935072
+India,Delhi,3927,3,Medium,43853,11,172715464
+India,Maharashtra,3643,1,Rich,20192,8,170756365
+India,Rajasthan,2746,2,Poor,12530,7,18580154
+India,Telangana,654,2,Rich,20056,33,12846067
+India,Punjab,4722,2,Poor,8463,13,32270064
+India,West Bengal,1532,5,Poor,40339,8,23602124
+India,Rajasthan,2092,1,Medium,28640,8,18430979
+India,Delhi,3636,4,Rich,40227,0,385405303
+India,West Bengal,2830,4,Poor,12584,13,27676895
+India,Uttar Pradesh,516,4,Medium,29440,9,6100018
+India,Gujarat,3512,4,Medium,18905,35,46555863
+India,Delhi,939,2,Poor,13502,6,24239306
+India,Karnataka,3221,4,Medium,43062,31,92394475
+India,West Bengal,545,3,Medium,25220,17,6788145
+India,Rajasthan,4123,2,Rich,42476,21,55712433
+India,Maharashtra,2324,3,Poor,16438,11,75152557
+India,West Bengal,2196,3,Rich,46752,27,43880533
+India,Telangana,4128,4,Medium,10286,14,88173126
+India,Delhi,3224,5,Poor,22348,32,100764571
+India,Telangana,1426,1,Medium,47116,13,23005266
+India,Gujarat,4792,3,Rich,16195,17,97948573
+India,Telangana,514,1,Medium,40643,10,8559533
+India,Delhi,764,2,Medium,8269,21,23456300
+India,Uttar Pradesh,891,5,Poor,7617,30,5741577
+India,Gujarat,4791,2,Rich,21890,27,83785675
+India,Tamil Nadu,2277,5,Rich,37744,25,80898386
+India,Tamil Nadu,1498,3,Rich,19676,31,26938930
+India,Kerala,2657,4,Rich,14117,19,59538699
+India,Gujarat,2811,3,Rich,16608,33,42161993
+India,Haryana,3111,3,Rich,25945,31,64022683
+India,Maharashtra,3624,1,Rich,20641,26,142286571
+India,Haryana,1324,1,Medium,25111,30,12050394
+India,Maharashtra,1170,2,Rich,39038,22,68316660
+India,Rajasthan,379,5,Rich,34357,16,8491869
+India,Uttar Pradesh,4730,5,Rich,8235,33,62067300
+India,Delhi,1434,2,Rich,22682,25,65404149
+India,Haryana,2213,2,Poor,28068,22,22418129
+India,Tamil Nadu,4888,2,Poor,48024,26,52346492
+India,Delhi,3911,4,Medium,37468,38,155477307
+India,West Bengal,2422,2,Medium,24466,1,34666003
+India,Rajasthan,4430,2,Rich,33500,21,66190128
+India,Gujarat,4335,4,Poor,10638,27,40292919
+India,Maharashtra,2011,3,Poor,2439,38,42831719
+India,Maharashtra,3738,5,Medium,47971,16,311157325
+India,Uttar Pradesh,3172,5,Rich,10404,39,43944127
+India,Tamil Nadu,3408,3,Medium,3682,18,48536603
+India,Rajasthan,2172,3,Medium,41491,3,32779319
+India,Punjab,4860,3,Medium,22770,30,39215623
+India,Telangana,544,5,Medium,30805,29,14827185
+India,Punjab,2355,4,Poor,35678,33,17719459
+India,Rajasthan,1922,4,Rich,5314,21,26435178
+India,Maharashtra,1131,2,Poor,45652,32,33994931
+India,Karnataka,880,1,Poor,15035,29,9583491
+India,Telangana,4476,4,Rich,26920,2,190819732
+India,Uttar Pradesh,4070,5,Poor,47118,27,39109870
+India,Rajasthan,2992,5,Rich,34043,23,59399628
+India,Kerala,2075,2,Rich,21434,16,38380048
+India,Delhi,2144,2,Poor,8386,14,46695215
+India,Telangana,1343,2,Rich,4042,18,33555633
+India,Kerala,2361,4,Medium,19261,38,28474557
+India,Punjab,4314,1,Poor,46313,15,28465535
+India,Uttar Pradesh,4537,1,Poor,5369,19,17733832
+India,Maharashtra,587,4,Poor,26451,8,28181329
+India,Tamil Nadu,746,1,Rich,45528,35,10898045
+India,Tamil Nadu,1651,5,Poor,21886,19,23842315
+India,Tamil Nadu,1428,3,Poor,33322,33,12739537
+India,Maharashtra,4030,3,Rich,19040,13,256494984
+India,Maharashtra,753,3,Medium,12167,20,29955547
+India,Punjab,2811,3,Medium,4454,12,24824983
+India,Delhi,2403,1,Medium,40963,6,78959465
+India,Uttar Pradesh,1807,4,Rich,23787,29,27798714
+India,Uttar Pradesh,4227,2,Poor,16797,7,26725707
+India,Haryana,3208,4,Rich,13877,31,75050450
+India,Punjab,1631,4,Rich,27129,38,25759155
+India,Telangana,4283,4,Rich,40823,34,151997170
+India,Rajasthan,4360,2,Poor,27251,18,28895604
+India,Punjab,378,1,Poor,2031,21,1535946
+India,Karnataka,1784,3,Rich,35318,6,78508353
+India,Uttar Pradesh,4051,2,Medium,46682,38,31041486
+India,Maharashtra,4769,4,Poor,8970,35,118214524
+India,Rajasthan,1848,2,Rich,47996,0,33834109
+India,Uttar Pradesh,2528,5,Rich,17980,26,38163011
+India,Karnataka,3806,3,Medium,49226,39,87336476
+India,Kerala,3103,1,Rich,3631,10,38909646
+India,Uttar Pradesh,2304,4,Rich,2942,37,25480483
+India,Gujarat,361,5,Medium,14093,36,4843290
+India,Delhi,405,3,Poor,29004,28,10090851
+India,Telangana,2349,1,Rich,46424,0,66861742
+India,Tamil Nadu,592,3,Rich,44182,34,13896175
+India,Haryana,4029,1,Poor,25346,6,37086515
+India,Haryana,3919,3,Poor,45293,24,52950754
+India,Tamil Nadu,4304,3,Medium,16372,40,46363870
+India,Delhi,4163,5,Rich,39187,33,340735345
+India,Delhi,3683,3,Poor,9950,16,94588544
+India,Gujarat,1368,1,Rich,48458,36,18800358
+India,Kerala,2953,4,Medium,19394,18,51927482
+India,West Bengal,1351,2,Rich,40386,20,21952760
+India,Haryana,4965,1,Medium,11265,19,53950567
+India,Maharashtra,1651,5,Rich,40958,29,170476159
+India,Gujarat,1738,3,Poor,31028,11,17409887
+India,West Bengal,1359,1,Poor,5123,27,5612963
+India,Gujarat,2059,3,Poor,42751,2,27042481
+India,Kerala,4712,1,Medium,10522,30,35330314
+India,Kerala,2356,1,Medium,25276,39,18630711
+India,Delhi,3626,1,Rich,3613,13,138599427
+India,Maharashtra,1445,4,Medium,5454,25,60653668
+India,Rajasthan,1055,5,Poor,32889,29,10685882
+India,Uttar Pradesh,410,4,Medium,25430,24,3799009
+India,Telangana,1609,2,Poor,7749,40,13141826
+India,Kerala,4411,2,Rich,25647,13,83666702
+India,Tamil Nadu,3327,3,Rich,6069,39,53882683
+India,Rajasthan,3184,2,Poor,8975,37,13762467
+India,Gujarat,1225,3,Medium,29390,34,15314329
+India,Maharashtra,3765,1,Medium,6413,15,107405553
+India,Haryana,305,1,Poor,8038,14,2018976
+India,Punjab,398,2,Poor,34948,3,3927042
+India,Haryana,3371,2,Medium,28503,21,50798913
+India,West Bengal,2715,5,Poor,17212,20,29532844
+India,Gujarat,3520,4,Rich,20017,40,67069205
+India,Uttar Pradesh,2391,1,Rich,38367,33,19590364
+India,Delhi,1959,3,Poor,44473,39,47502775
+India,Gujarat,1516,4,Rich,14123,23,29598571
+India,Delhi,1231,3,Medium,13194,38,35522775
+India,Tamil Nadu,4192,1,Medium,47117,28,47977408
+India,Punjab,2864,4,Poor,43723,15,32356613
+India,Punjab,1485,3,Rich,11662,25,20191268
+India,Gujarat,2235,2,Rich,43213,31,37673741
+India,Uttar Pradesh,2118,3,Medium,11712,40,12397230
+India,Telangana,1847,3,Medium,37972,38,35687807
+India,Kerala,1817,5,Medium,5917,28,27601564
+India,Rajasthan,1232,5,Poor,8240,7,13146735
+India,Telangana,1434,1,Poor,12103,6,12779409
+India,Delhi,601,1,Medium,41274,25,16516573
+India,Haryana,1094,4,Poor,11386,32,11485213
+India,Gujarat,368,1,Poor,4959,7,2546871
+India,Kerala,3013,2,Rich,12561,19,52305938
+India,Karnataka,3846,2,Medium,19687,33,67480216
+India,Uttar Pradesh,1382,1,Poor,46891,40,5521021
+India,Haryana,3075,5,Rich,45776,15,116081766
+India,Gujarat,1861,1,Rich,41364,8,36099813
+India,Maharashtra,2356,4,Rich,18093,27,159689729
+India,Haryana,326,4,Poor,22706,20,4011388
+India,Delhi,311,3,Poor,30684,29,7471064
+India,West Bengal,479,5,Medium,41047,37,7308531
+India,Maharashtra,3517,1,Rich,26462,36,149054550
+India,Haryana,1819,4,Poor,33368,19,26471200
+India,Kerala,1216,1,Poor,35549,18,8429330
+India,Tamil Nadu,3590,3,Poor,10638,35,28526923
+India,Punjab,1100,4,Medium,26822,31,11783745
+India,Uttar Pradesh,3557,5,Poor,19472,8,33147553
+India,Telangana,2821,3,Medium,7437,33,38134275
+India,West Bengal,4950,4,Medium,26835,5,86474860
+India,Maharashtra,2867,1,Poor,16233,16,63411132
+India,West Bengal,1788,5,Medium,27149,34,26463643
+India,Gujarat,2609,4,Medium,32922,36,36773117
+India,Rajasthan,4273,5,Rich,36258,21,93872931
+India,Tamil Nadu,4965,4,Medium,28463,8,111242475
+India,Delhi,4427,2,Poor,21522,30,93788828
+India,Gujarat,3390,3,Rich,35404,36,60598765
+India,Tamil Nadu,1871,4,Rich,18215,17,47625009
+India,Tamil Nadu,4562,2,Medium,42223,23,72688727
+India,Gujarat,2108,4,Medium,46823,14,39442069
+India,West Bengal,2219,4,Medium,25680,26,30799670
+India,Tamil Nadu,3692,2,Poor,3268,0,36711283
+India,Kerala,1089,1,Medium,42618,24,12038377
+India,West Bengal,2253,3,Poor,4657,6,17781222
+India,Tamil Nadu,4629,2,Poor,2404,25,36691063
+India,Kerala,2364,5,Medium,36533,1,63307716
+India,Punjab,2011,2,Rich,22751,8,32781101
+India,Gujarat,3331,5,Rich,14392,19,85028966
+India,Uttar Pradesh,391,3,Poor,31654,19,2629443
+India,Uttar Pradesh,1777,1,Poor,30672,12,7778214
+India,Telangana,3836,2,Rich,42735,17,115160484
+India,Haryana,2151,2,Medium,49897,1,44421117
+India,Gujarat,1056,4,Rich,21191,27,24464740
+India,Rajasthan,4431,2,Medium,14698,0,44188597
+India,West Bengal,4242,2,Poor,23242,15,29799489
+India,Gujarat,3860,2,Poor,9369,24,29473658
+India,Rajasthan,4171,2,Poor,18229,0,28949828
+India,Tamil Nadu,2563,2,Medium,9155,26,28749173
+India,Maharashtra,1467,5,Poor,49993,22,74386729
+India,Rajasthan,1195,3,Rich,15322,16,16402490
+India,Punjab,2197,5,Rich,34895,18,51180764
+India,Haryana,1472,1,Poor,14055,21,10440352
+India,Kerala,4859,1,Medium,6008,29,32932928
+India,Karnataka,1920,1,Rich,34716,40,45235906
+India,Maharashtra,1703,1,Poor,30376,36,31682470
+India,Kerala,870,1,Medium,27863,4,10326755
+India,Haryana,2106,5,Poor,5367,19,31084945
+India,Kerala,2442,2,Medium,31783,28,31629710
+India,Punjab,1732,2,Poor,42465,8,14032113
+India,West Bengal,2504,1,Medium,35364,4,29059141
+India,Maharashtra,1429,1,Rich,45153,38,59047115
+India,West Bengal,4801,2,Rich,24621,31,57838161
+India,Kerala,978,2,Poor,33286,11,8583337
+India,Telangana,2541,4,Poor,10860,10,40307320
+India,Karnataka,3062,3,Poor,10438,7,54389248
+India,Kerala,2863,2,Medium,9498,3,34937719
+India,Rajasthan,358,5,Medium,10765,18,4436743
+India,West Bengal,2862,5,Poor,7641,15,32346824
+India,Gujarat,735,2,Medium,13647,0,10756018
+India,Maharashtra,1545,4,Poor,28215,6,71068751
+India,Delhi,1626,2,Medium,14500,40,46247963
+India,Punjab,1003,5,Rich,23218,4,29524241
+India,Tamil Nadu,1598,2,Poor,44319,16,17169127
+India,Uttar Pradesh,4871,1,Rich,17882,17,45610672
+India,Uttar Pradesh,2405,2,Medium,22711,16,20998918
+India,Delhi,2928,5,Medium,14394,34,111136811
+India,Tamil Nadu,4366,4,Rich,21773,15,115404173
+India,Karnataka,4926,4,Poor,7209,12,81268141
+India,Delhi,2270,4,Medium,40968,40,90334875
+India,Delhi,4286,1,Poor,7953,22,69541660
+India,Tamil Nadu,3376,1,Medium,34387,22,35960141
+India,West Bengal,4214,3,Rich,37807,24,82823521
+India,Delhi,2263,4,Poor,18745,9,79874496
+India,Delhi,3899,2,Medium,28293,29,125895024
+India,Haryana,959,1,Rich,40281,34,16546907
+India,Maharashtra,2574,3,Medium,27044,19,119478130
+India,Uttar Pradesh,1451,5,Poor,44526,1,19192552
+India,Haryana,4811,5,Medium,4881,8,100938252
+India,Delhi,2358,2,Poor,39394,34,57672715
+India,Punjab,1866,4,Poor,5507,31,11373377
+India,Haryana,630,3,Rich,9027,0,16369043
+India,Kerala,3277,4,Medium,21673,17,52460661
+India,West Bengal,1897,2,Medium,23525,37,17054913
+India,Kerala,4130,1,Medium,1533,18,30631867
+India,Tamil Nadu,4387,2,Medium,47061,35,58957291
+India,Kerala,1972,5,Medium,22311,11,36737248
+India,Uttar Pradesh,2533,1,Poor,27008,4,14440904
+India,Karnataka,2355,1,Poor,18166,35,22237797
+India,Gujarat,4154,5,Poor,24634,38,46249025
+India,Karnataka,1660,2,Rich,9382,30,39571316
+India,Kerala,1410,3,Poor,17445,2,17117517
+India,Punjab,786,2,Medium,45692,28,9168869
+India,Kerala,4546,2,Rich,7787,2,88200115
+India,Delhi,1380,1,Rich,8814,18,50661470
+India,Maharashtra,3992,2,Poor,21373,12,124660094
+India,Telangana,2071,3,Medium,8333,40,28311302
+India,Rajasthan,3223,5,Rich,9512,14,58478295
+India,Maharashtra,1800,1,Medium,10711,9,56959061
+India,Maharashtra,304,2,Poor,41727,16,10697910
+India,Maharashtra,4520,5,Medium,36342,24,266834426
+India,Gujarat,3821,3,Medium,2300,3,57688011
+India,Delhi,4153,4,Medium,38153,35,179053365
+India,Gujarat,1286,4,Medium,20874,12,20740872
+India,Uttar Pradesh,4376,4,Rich,21852,39,58263845
+India,Karnataka,540,5,Poor,32622,40,11755956
+India,Karnataka,4355,4,Poor,41557,7,102784786
+India,Karnataka,3439,4,Poor,41343,5,87186833
+India,Telangana,3016,3,Poor,13699,9,46178261
+India,Punjab,1264,4,Medium,35744,12,19919643
+India,Rajasthan,3856,4,Rich,48252,11,84707272
+India,Haryana,320,3,Poor,15717,5,3959724
+India,Haryana,2937,1,Medium,20797,33,25685001
+India,Karnataka,305,4,Medium,46460,1,12237193
+India,Kerala,1410,2,Medium,16510,27,14057448
+India,West Bengal,3851,1,Poor,22608,21,21557221
+India,Rajasthan,3643,4,Rich,32018,18,78009050
+India,West Bengal,1053,5,Poor,40619,35,10812815
+India,Haryana,3211,2,Poor,42127,37,31262280
+India,Maharashtra,1786,2,Rich,42230,0,161047331
+India,Gujarat,1557,2,Medium,36059,30,16404523
+India,Rajasthan,1214,1,Poor,48587,38,6075241
+India,Uttar Pradesh,666,2,Poor,16414,8,4057627
+India,Haryana,431,5,Poor,1903,0,6538606
+India,Tamil Nadu,1526,5,Rich,34457,23,54016898
+India,Tamil Nadu,4681,1,Rich,29702,5,94725026
+India,Rajasthan,2218,4,Rich,1527,11,35692119
+India,Delhi,1003,5,Poor,42882,16,41175568
+India,Delhi,605,2,Medium,5697,22,18063484
+India,Uttar Pradesh,1765,5,Poor,45231,18,16315642
+India,Gujarat,2101,3,Poor,5544,38,14905192
+India,Karnataka,1050,5,Poor,21446,10,25212523
+India,Karnataka,1897,5,Medium,23152,27,57027652
+India,Haryana,552,3,Poor,9820,20,4999122
+India,Telangana,604,3,Medium,13270,40,9570670
+India,Uttar Pradesh,3186,5,Poor,18408,24,23366625
+India,Rajasthan,1353,3,Rich,43864,18,25225823
+India,Gujarat,3194,4,Medium,49171,26,55849522
+India,West Bengal,1755,5,Medium,7265,15,26155324
+India,Gujarat,3416,5,Poor,27998,34,39368663
+India,Karnataka,4329,2,Poor,12885,19,66408341
+India,Uttar Pradesh,1893,4,Medium,30521,14,21828652
+India,Karnataka,2912,5,Medium,45097,39,89419460
+India,Delhi,2090,1,Poor,16496,6,43646268
+India,Maharashtra,2681,4,Medium,28521,39,114518126
+India,Tamil Nadu,2325,1,Rich,1987,20,30416992
+India,Uttar Pradesh,1168,2,Poor,38146,39,6251391
+India,Karnataka,2234,5,Rich,33602,16,132179274
+India,Maharashtra,330,5,Medium,26444,40,19085536
+India,Delhi,1250,3,Poor,3818,16,31221777
+India,Telangana,3244,5,Poor,25892,32,48390599
+India,Delhi,4198,2,Medium,24902,26,148160185
+India,Kerala,827,4,Medium,10290,19,12242637
+India,Punjab,1332,5,Poor,33188,36,12385420
+India,Maharashtra,2438,4,Poor,29750,26,97250324
+India,Uttar Pradesh,3685,2,Medium,27193,3,38330560
+India,Telangana,1934,1,Poor,39349,0,24898793
+India,Kerala,2299,2,Medium,15633,36,21150417
+India,Haryana,1977,3,Rich,12548,11,42604810
+India,Haryana,4141,3,Medium,7416,9,67442317
+India,Karnataka,2912,1,Medium,23743,35,41150193
+India,Delhi,2144,4,Poor,25009,30,63685507
+India,Telangana,3103,2,Poor,48234,22,40752872
+India,Uttar Pradesh,594,2,Rich,42128,5,8220267
+India,West Bengal,553,1,Medium,9070,40,3243024
+India,Kerala,3907,1,Medium,44200,16,40528962
+India,Punjab,2676,3,Poor,29514,11,22210667
+India,West Bengal,2124,3,Medium,46317,1,33474623
+India,Uttar Pradesh,2671,5,Rich,23205,19,52823684
+India,Delhi,4612,1,Rich,10461,14,169702503
+India,Tamil Nadu,3078,3,Medium,22537,38,38188883
+India,Uttar Pradesh,2948,3,Poor,14788,28,14635212
+India,Gujarat,2740,5,Poor,24795,39,31052361
+India,Tamil Nadu,4364,4,Medium,8334,27,62993146
+India,Rajasthan,2442,1,Medium,9308,22,13534936
+India,Kerala,4389,4,Medium,49347,40,69534310
+India,Kerala,455,5,Rich,40419,16,15337892
+India,Haryana,2073,5,Poor,40242,30,33165028
+India,Delhi,4277,5,Poor,42756,28,166248137
+India,Delhi,411,3,Rich,18545,40,19003250
+India,Karnataka,1725,5,Rich,24424,14,87277063
+India,Telangana,4581,1,Medium,30945,40,54449510
+India,Gujarat,2018,2,Poor,41129,37,15700605
+India,Tamil Nadu,3182,4,Medium,17668,36,49271292
+India,Tamil Nadu,4184,2,Poor,11033,0,43767064
+India,Uttar Pradesh,4067,1,Poor,38584,9,20051778
+India,Uttar Pradesh,1357,5,Rich,7834,3,27321962
+India,Gujarat,3397,1,Poor,24331,6,27198593
+India,Haryana,4255,2,Rich,33664,15,94179091
+India,Tamil Nadu,1605,1,Medium,33375,38,16393779
+India,Tamil Nadu,866,1,Medium,38390,36,9210660
+India,West Bengal,1472,1,Poor,25680,18,8213627
+India,Telangana,598,5,Medium,13329,2,18790768
+India,Gujarat,3418,5,Poor,10901,30,33056238
+India,Uttar Pradesh,338,4,Poor,49770,29,2563462
+India,Rajasthan,3293,4,Rich,25949,13,63027019
+India,Kerala,1413,5,Medium,41430,13,28480740
+India,Tamil Nadu,1987,5,Poor,48924,21,32312587
+India,Maharashtra,815,3,Rich,47993,29,57581383
+India,Gujarat,4411,1,Rich,17490,33,50965826
+India,Tamil Nadu,3444,5,Poor,39130,21,50076402
+India,West Bengal,2737,4,Poor,15751,36,22111384
+India,Karnataka,1539,2,Medium,20423,30,25584694
+India,Maharashtra,2884,4,Poor,48198,38,109277928
+India,Kerala,4683,1,Poor,5507,15,27569829
+India,Uttar Pradesh,3835,3,Medium,20141,0,36006274
+India,Haryana,4871,5,Rich,6049,16,135395570
+India,Uttar Pradesh,4586,3,Medium,23253,23,33141811
+India,Gujarat,4981,4,Poor,1472,9,51292007
+India,Delhi,4957,5,Rich,11832,9,408702724
+India,Rajasthan,1127,4,Poor,22307,40,7382174
+India,Haryana,913,3,Medium,7563,16,13756468
+India,Maharashtra,4652,1,Rich,11384,33,154073066
+India,Gujarat,1165,1,Poor,41572,1,11754632
+India,Rajasthan,2431,5,Medium,6084,24,25361990
+India,Haryana,4788,4,Rich,47489,36,139223225
+India,Haryana,3903,1,Medium,13134,28,37286454
+India,Tamil Nadu,2838,3,Poor,18245,20,25069037
+India,Maharashtra,1985,2,Poor,2622,14,46515637
+India,Haryana,3778,1,Medium,17673,35,30355280
+India,Haryana,2509,3,Medium,22196,32,34118686
+India,Delhi,2287,4,Medium,13057,27,89799403
+India,Kerala,2016,5,Medium,47874,30,37858004
+India,Maharashtra,4557,4,Medium,27558,20,234252745
+India,West Bengal,4655,5,Poor,15801,28,49700424
+India,Punjab,2140,1,Poor,8077,18,11332800
+India,Uttar Pradesh,4928,2,Rich,4046,38,36794875
+India,Tamil Nadu,3147,4,Rich,3804,0,91819141
+India,Rajasthan,3195,2,Rich,26909,5,55400676
+India,Tamil Nadu,2072,3,Rich,18458,7,51130047
+India,Karnataka,4282,4,Rich,17208,4,229757740
+India,Kerala,845,3,Medium,46959,9,14366615
+India,Tamil Nadu,3394,5,Rich,6000,19,100657952
+India,Haryana,3600,4,Rich,16136,19,103199696
+India,Haryana,3004,4,Rich,34805,18,92162979
+India,Karnataka,405,2,Rich,48299,16,15169349
+India,Uttar Pradesh,4611,5,Poor,5355,37,25309316
+India,Karnataka,4680,4,Poor,11611,5,105514847
+India,Gujarat,554,4,Medium,24471,7,10888208
+India,Uttar Pradesh,4042,4,Rich,35735,35,52246236
+India,Tamil Nadu,411,5,Medium,1164,25,6360063
+India,Gujarat,841,2,Medium,3665,17,9567860
+India,Gujarat,3186,5,Medium,39957,17,66874523
+India,Uttar Pradesh,1937,1,Medium,38438,39,11084576
+India,Karnataka,777,1,Medium,3366,7,11843987
+India,Kerala,312,4,Poor,21426,5,3742646
+India,Rajasthan,556,1,Rich,26469,31,5428764
+India,Uttar Pradesh,1608,2,Poor,15877,25,8347510
+India,Karnataka,4240,2,Rich,21455,24,118657027
+India,Punjab,4236,1,Rich,29368,40,39515775
+India,Tamil Nadu,4902,1,Poor,1160,32,27164501
+India,Maharashtra,3477,2,Medium,14786,20,117593987
+India,Karnataka,4020,1,Rich,20604,12,92997385
+India,Tamil Nadu,1799,2,Poor,8626,23,14645203
+India,West Bengal,4008,4,Rich,2769,38,63443564
+India,Karnataka,3290,5,Medium,34143,29,109319377
+India,West Bengal,1703,5,Poor,9495,17,19660695
+India,Punjab,3419,4,Rich,44809,37,61386943
+India,Rajasthan,3759,5,Medium,7654,13,43286665
+India,Uttar Pradesh,2307,2,Poor,29706,24,12376021
+India,Uttar Pradesh,568,3,Poor,6475,25,2697224
+India,Kerala,4165,4,Medium,3335,26,49348824
+India,West Bengal,2399,4,Medium,42062,40,30999098
+India,Haryana,3837,5,Rich,11666,15,112178009
+India,West Bengal,2862,4,Medium,20701,4,44731969
+India,Delhi,4304,3,Poor,23102,32,89734469
+India,West Bengal,3611,1,Poor,47644,9,26731598
+India,Delhi,2954,1,Medium,21099,10,79520148
+India,Delhi,1268,5,Medium,22148,20,60012133
+India,Gujarat,1569,5,Poor,24100,27,21128003
+India,Karnataka,3316,4,Rich,33486,4,198287940
+India,Delhi,929,2,Rich,24581,21,43621579
+India,Telangana,2286,5,Poor,15016,14,38277366
+India,Uttar Pradesh,3860,2,Rich,2505,4,48842155
+India,Punjab,3777,2,Rich,4857,8,50987439
+India,Rajasthan,3478,5,Poor,3553,1,32717484
+India,Uttar Pradesh,3197,5,Poor,4051,10,23519451
+India,Haryana,4875,3,Medium,49469,2,112202252
+India,Maharashtra,2307,1,Medium,14227,14,65255903
+India,Telangana,1303,4,Poor,11306,29,17965593
+India,Delhi,2386,3,Poor,30610,13,73423800
+India,Punjab,1070,1,Rich,14385,39,9037204
+India,Gujarat,2485,4,Medium,32533,10,43611179
+India,Tamil Nadu,977,2,Medium,42412,34,13024654
+India,Rajasthan,4446,1,Poor,29330,11,23338417
+India,Uttar Pradesh,2226,1,Medium,22329,21,11484870
+India,Karnataka,1550,4,Rich,3163,23,53486530
+India,Uttar Pradesh,2168,2,Rich,49336,6,34988778
+India,Delhi,2856,4,Medium,6280,20,104301892
+India,West Bengal,2321,3,Medium,23516,34,22999354
+India,Karnataka,2742,2,Rich,15096,35,62030146
+India,West Bengal,1725,1,Medium,1653,7,13050067
+India,Haryana,4969,1,Medium,38874,20,64186083
+India,Tamil Nadu,4058,4,Medium,44046,29,85979208
+India,Rajasthan,1907,3,Medium,3953,13,17881266
+India,Tamil Nadu,4982,5,Medium,12154,38,77339794
+India,Karnataka,1686,5,Medium,24634,23,52567057
+India,Delhi,484,2,Medium,31273,7,21788292
+India,Telangana,3527,2,Poor,12330,8,45380166
+India,Kerala,3941,5,Medium,39292,0,102322697
+India,Rajasthan,619,1,Medium,26159,16,4837858
+India,Telangana,2067,5,Rich,16494,6,82412738
+India,Telangana,430,4,Poor,40725,35,6737788
+India,Telangana,337,1,Rich,34241,12,7579215
+India,Kerala,2914,1,Poor,22383,3,25114130
+India,Telangana,3173,5,Poor,20504,2,75963508
+India,Gujarat,3490,4,Rich,33406,4,115248120
+India,Kerala,2881,1,Medium,31284,11,31740817
+India,Uttar Pradesh,3274,5,Rich,19047,25,58018553
+India,Uttar Pradesh,1928,5,Rich,27267,39,31889116
+India,Gujarat,1709,3,Rich,22107,30,26846524
+India,Kerala,2142,3,Poor,25119,8,23074433
+India,Delhi,2860,1,Medium,3749,14,61174344
+India,Delhi,4073,3,Rich,3064,7,221540032
+India,Uttar Pradesh,3716,1,Rich,22387,28,33897129
+India,Tamil Nadu,1668,5,Rich,42098,3,80609132
+India,Telangana,1615,2,Rich,42443,15,53889079
+India,Rajasthan,4524,1,Rich,2906,39,34868711
+India,Karnataka,3648,5,Rich,41605,31,180292722
+India,Telangana,2017,4,Medium,2238,24,39555276
+India,West Bengal,4981,3,Poor,5470,28,31600751
+India,Maharashtra,2140,2,Medium,23233,8,106325545
+India,Tamil Nadu,1430,1,Poor,3118,23,8520082
+India,Uttar Pradesh,4269,3,Poor,43531,27,26636410
+India,Tamil Nadu,4145,1,Medium,40069,34,44845020
+India,Kerala,4885,3,Medium,21343,25,62163619
+India,Punjab,4254,3,Medium,16691,23,38262670
+India,Punjab,1850,3,Medium,8141,33,15696921
+India,Rajasthan,1632,2,Rich,42095,21,24664053
+India,Telangana,1865,5,Medium,40311,14,53561171
+India,Gujarat,2421,5,Rich,31614,14,81209837
+India,Uttar Pradesh,4673,4,Poor,49447,29,38608797
+India,Gujarat,2444,4,Medium,5270,17,31894520
+India,Maharashtra,647,1,Poor,33830,38,13219198
+India,Karnataka,1144,1,Poor,29695,4,18655406
+India,Maharashtra,1578,3,Rich,23641,32,81755576
+India,Haryana,3895,1,Rich,29022,10,76291778
+India,Telangana,842,4,Rich,34793,18,32984469
+India,Kerala,3251,2,Rich,8389,10,51545367
+India,Haryana,2035,4,Poor,18422,33,23307976
+India,Rajasthan,2840,3,Rich,16636,4,49340730
+India,West Bengal,3845,4,Rich,29357,32,71943508
+India,Gujarat,2325,1,Medium,33635,14,24416649
+India,Uttar Pradesh,2951,1,Rich,45864,27,31506278
+India,Uttar Pradesh,3589,3,Rich,30488,24,47686816
+India,Rajasthan,3560,4,Poor,48342,39,27925917
+India,Delhi,2556,3,Rich,32862,0,189107942
+India,Delhi,3102,2,Poor,12844,18,77699665
+India,West Bengal,3290,4,Poor,13835,11,28627645
+India,Karnataka,2381,1,Poor,9849,28,22766182
+India,Rajasthan,2283,3,Rich,15629,32,26458905
+India,Haryana,2614,2,Rich,45179,9,68709389
+India,Tamil Nadu,2067,2,Poor,30373,5,22781639
+India,Haryana,2556,1,Medium,17128,11,25702813
+India,Uttar Pradesh,3903,2,Medium,47115,14,36968746
+India,Haryana,319,4,Rich,10457,2,11240713
+India,Punjab,1742,2,Rich,26600,18,26154001
+India,Haryana,1085,1,Poor,49274,3,12601849
+India,Punjab,4075,2,Poor,6350,21,21840268
+India,Delhi,3273,2,Poor,11978,25,63250815
+India,West Bengal,3614,4,Medium,30473,33,41116342
+India,Gujarat,3780,4,Medium,33920,13,71968176
+India,Haryana,3858,4,Poor,43095,4,77451827
+India,Telangana,1673,3,Poor,26532,37,18057634
+India,Karnataka,1603,3,Medium,8837,36,26003422
+India,West Bengal,2425,5,Poor,23863,20,25574750
+India,Tamil Nadu,4321,5,Rich,6230,13,127040859
+India,West Bengal,1304,2,Poor,37523,30,9708772
+India,West Bengal,4937,1,Poor,36523,4,40029980
+India,Kerala,1993,5,Poor,45771,20,26938947
+India,Uttar Pradesh,4056,4,Poor,5691,4,31838468
+India,Haryana,4745,2,Medium,18676,28,59192420
+India,Uttar Pradesh,2367,4,Poor,30810,19,19149927
+India,Telangana,694,5,Medium,4048,10,15701802
+India,Karnataka,849,5,Medium,25500,0,38680392
+India,Haryana,585,2,Medium,12957,4,10406385
+India,Telangana,1766,1,Medium,31215,7,26718775
+India,Rajasthan,2104,3,Poor,36319,18,15593548
+India,Karnataka,2075,1,Rich,38630,27,58085486
+India,Telangana,1419,5,Poor,4975,13,24902501
+India,Uttar Pradesh,1494,5,Rich,22170,30,21581812
+India,Kerala,1317,2,Medium,38944,6,21083081
+India,Gujarat,2389,1,Rich,32719,16,38193718
+India,Tamil Nadu,3414,3,Medium,41151,29,52860860
+India,Rajasthan,2204,5,Medium,22415,0,35508099
+India,Gujarat,3361,2,Rich,37499,34,55247021
+India,Tamil Nadu,2346,1,Medium,20605,0,31025759
+India,West Bengal,1022,2,Medium,16210,31,7649749
+India,Tamil Nadu,4119,5,Poor,5318,24,52017792
+India,Gujarat,628,2,Rich,14865,1,12549319
+India,Maharashtra,1600,2,Rich,9657,39,72236625
+India,Haryana,2339,5,Rich,18568,30,67299851
+India,Haryana,3082,2,Poor,20763,33,24139911
+India,Gujarat,2289,5,Rich,43026,28,67122052
+India,Maharashtra,1997,1,Poor,48972,3,63458649
+India,Haryana,2033,5,Poor,10460,34,24945808
+India,Gujarat,1969,1,Poor,47659,21,14827143
+India,Telangana,2457,4,Poor,29274,21,40721351
+India,Telangana,2868,2,Rich,38091,8,90525215
+India,Tamil Nadu,519,3,Medium,25312,15,7923289
+India,Uttar Pradesh,4649,2,Rich,15242,2,66206259
+India,Punjab,4971,2,Medium,1414,28,34350736
+India,Maharashtra,4958,5,Poor,36184,14,227460286
+India,Haryana,368,4,Rich,20947,40,8995491
+India,Karnataka,1006,2,Rich,7833,16,29697942
+India,Delhi,835,3,Poor,6023,22,16783280
+India,Karnataka,3309,5,Medium,18314,4,138071295
+India,Uttar Pradesh,2841,5,Poor,4360,16,21109387
+India,Uttar Pradesh,1265,4,Medium,38760,14,13735115
+India,Maharashtra,2672,5,Poor,37067,16,139196961
+India,Kerala,691,2,Rich,22248,28,12024361
+India,West Bengal,880,5,Rich,26823,23,22633832
+India,Tamil Nadu,3498,2,Rich,27694,16,78903427
+India,Telangana,797,2,Medium,28381,4,18310421
+India,Gujarat,675,2,Rich,24797,20,10676439
+India,Tamil Nadu,556,1,Rich,1050,13,7445565
+India,Delhi,3736,1,Medium,39516,4,140735734
+India,Karnataka,1964,5,Medium,11922,26,57321309
+India,Karnataka,4924,5,Medium,21429,36,141033573
+India,Telangana,3622,5,Poor,37965,26,72780808
+India,Uttar Pradesh,4509,4,Rich,42936,36,73448235
+India,Gujarat,2396,3,Rich,4465,31,34135121
+India,Maharashtra,3071,4,Medium,3600,14,134456650
+India,Kerala,605,4,Medium,39469,3,12549170
+India,Gujarat,3838,5,Rich,10983,2,113831292
+India,Delhi,2014,5,Poor,6691,9,70705462
+India,Karnataka,1007,3,Rich,22551,7,38920743
+India,Maharashtra,3168,2,Poor,35571,29,86298544
+India,Gujarat,4654,3,Rich,9766,5,89286712
+India,Gujarat,1801,3,Poor,49976,17,20565762
+India,Uttar Pradesh,1861,3,Rich,36290,39,23461750
+India,Uttar Pradesh,4182,5,Rich,25450,30,65556227
+India,Punjab,1420,1,Rich,31041,27,17468676
+India,West Bengal,4607,4,Rich,22134,33,74723422
+India,Tamil Nadu,2713,1,Medium,26038,27,30126063
+India,Maharashtra,1450,2,Medium,33264,30,54792759
+India,Karnataka,3478,1,Rich,39345,27,100362390
+India,Haryana,2924,4,Poor,34282,14,43041827
+India,West Bengal,3898,2,Rich,47728,38,62120306
+India,Uttar Pradesh,1956,2,Medium,39207,7,20923044
+India,Rajasthan,3572,2,Rich,24010,26,44455326
+India,Karnataka,849,5,Poor,45846,4,28694476
+India,Delhi,343,4,Medium,14869,18,13737864
+India,Punjab,3947,4,Rich,44185,27,87549681
+India,Punjab,4833,4,Rich,30097,7,108425046
+India,Haryana,3930,4,Rich,33632,24,120728793
+India,Haryana,350,5,Rich,38921,12,12927824
+India,Tamil Nadu,4928,4,Medium,8019,6,93658421
+India,Uttar Pradesh,706,4,Rich,21581,40,8814833
+India,West Bengal,4799,2,Rich,49246,22,84021230
+India,Karnataka,2524,1,Medium,3920,21,35482445
+India,Haryana,4568,1,Rich,20192,3,87197647
+India,Delhi,3391,3,Poor,13775,24,71639224
+India,Gujarat,1764,1,Medium,37942,34,16582803
+India,Punjab,2345,3,Medium,29704,0,36138194
+India,Uttar Pradesh,1583,4,Medium,7732,31,11957628
+India,Delhi,3487,4,Poor,43185,21,133223399
+India,Punjab,3093,1,Rich,11382,31,27057080
+India,Tamil Nadu,4664,4,Medium,33020,40,78350769
+India,Karnataka,385,4,Poor,44199,36,7583981
+India,Kerala,2969,4,Medium,17081,10,42080132
+India,Haryana,4981,5,Medium,17512,37,84951030
+India,Rajasthan,2702,5,Poor,29467,17,29747487
+India,Maharashtra,1142,4,Poor,29936,29,44925133
+India,West Bengal,1452,1,Poor,26041,37,7707373
+India,West Bengal,787,3,Medium,20010,21,7567694
+India,Haryana,1383,3,Poor,29963,20,14601112
+India,Kerala,760,4,Poor,15999,40,6451614
+India,Delhi,1457,3,Poor,33795,7,50019514
+India,Maharashtra,1564,2,Rich,7587,35,65038119
+India,Delhi,661,3,Medium,1605,7,25903122
+India,Haryana,2494,2,Medium,18661,14,34496300
+India,Punjab,2952,4,Medium,26397,5,43935136
+India,Haryana,4729,4,Medium,40116,26,89001501
+India,Uttar Pradesh,2196,5,Medium,13455,23,20577839
+India,Tamil Nadu,4077,4,Medium,18333,14,72250643
+India,Kerala,2382,3,Rich,19630,12,43392754
+India,Kerala,4633,1,Poor,18839,9,33384213
+India,Rajasthan,3982,2,Medium,44585,14,44238692
+India,Maharashtra,1554,4,Medium,19065,14,84342050
+India,Gujarat,4416,2,Poor,4143,29,26561458
+India,West Bengal,4620,4,Poor,28606,18,52681684
+India,Uttar Pradesh,1464,1,Poor,3246,26,4427212
+India,Delhi,1188,1,Medium,42559,14,40589889
+India,Haryana,2364,2,Rich,4569,26,37948319
+India,Uttar Pradesh,2362,4,Medium,22615,39,20192418
+India,Kerala,1568,5,Rich,29014,25,46315505
+India,Delhi,1336,2,Medium,1477,10,41908987
+India,Uttar Pradesh,681,5,Rich,49055,4,18884309
+India,Gujarat,2160,4,Rich,26293,37,42877972
+India,Rajasthan,2584,5,Rich,32236,28,49846199
+India,Maharashtra,3001,3,Poor,42800,37,82302812
+India,Haryana,1388,1,Rich,40695,14,27726762
+India,Karnataka,592,1,Poor,37790,37,6147611
+India,Gujarat,3218,3,Medium,6171,29,35631383
+India,Tamil Nadu,1862,1,Medium,8048,40,14800393
+India,Kerala,4637,2,Medium,49122,40,57601814
+India,Delhi,3131,4,Poor,29756,7,111654494
+India,Delhi,2755,3,Medium,41160,3,152384414
+India,Kerala,2889,1,Medium,4034,33,20481336
+India,Maharashtra,3784,4,Rich,19225,11,332679493
+India,Rajasthan,3326,1,Rich,22863,4,45024291
+India,Telangana,411,1,Rich,8413,26,6831778
+India,Uttar Pradesh,3094,2,Poor,44829,11,21691784
+India,Gujarat,2269,4,Medium,45296,7,48118537
+India,Karnataka,3311,3,Medium,6458,28,63993982
+India,Haryana,3828,2,Medium,14698,22,52162783
+India,Delhi,1096,3,Rich,14300,12,59000240
+India,Tamil Nadu,4031,5,Rich,42997,7,183357306
+India,Uttar Pradesh,2078,1,Poor,1981,33,6020026
+India,Uttar Pradesh,2731,2,Poor,7349,40,10042658
+India,Maharashtra,3746,2,Poor,46588,9,143181705
+India,Uttar Pradesh,4993,1,Medium,21156,3,36886510
+India,Delhi,3542,4,Rich,15548,20,200108648
+India,Tamil Nadu,3689,2,Rich,10458,1,78176700
+India,Rajasthan,3005,1,Rich,17937,40,26029572
+India,Kerala,2133,3,Rich,14562,40,33837717
+India,Uttar Pradesh,1779,5,Medium,21967,16,20486679
+India,Kerala,1435,5,Rich,19089,5,42944936
+India,Punjab,4625,1,Rich,49904,7,79926293
+India,Uttar Pradesh,3390,2,Poor,22552,15,18332526
+India,Delhi,3206,3,Rich,13084,16,158311691
+India,Rajasthan,3775,5,Medium,25198,17,60078151
+India,Delhi,839,2,Poor,35817,19,22275847
+India,Uttar Pradesh,3739,2,Rich,40911,28,46433220
+India,Delhi,4756,2,Poor,48280,7,148951957
+India,Rajasthan,4674,2,Rich,32941,28,69413914
+India,Maharashtra,2365,2,Medium,17713,37,75076650
+India,Maharashtra,440,4,Poor,5539,26,13574955
+India,Delhi,4746,1,Medium,41075,11,141154002
+India,Kerala,3091,1,Rich,20337,11,48012573
+India,Haryana,1132,2,Poor,43987,33,11420645
+India,Gujarat,1623,3,Medium,1891,20,17203332
+India,Tamil Nadu,4492,1,Rich,23836,5,75190242
+India,Rajasthan,2470,5,Rich,42945,40,52675466
+India,Haryana,3437,3,Rich,18219,26,72332996
+India,Kerala,4631,2,Rich,38081,14,100280294
+India,Kerala,3972,5,Medium,19055,20,65680297
+India,Maharashtra,2438,2,Rich,21373,29,142078789
+India,Karnataka,1621,5,Medium,37122,5,61724899
+India,Uttar Pradesh,3712,2,Poor,42908,31,17338782
+India,Haryana,2838,5,Poor,37881,38,43114568
+India,Punjab,2771,3,Rich,26412,34,40040583
+India,West Bengal,4412,2,Poor,31945,11,38410152
+India,Rajasthan,1927,3,Medium,42164,30,17595087
+India,Gujarat,1091,1,Medium,29668,24,10781134
+India,Delhi,1390,3,Medium,28973,13,58645184
+India,Maharashtra,1578,3,Medium,41693,18,91301828
+India,West Bengal,1386,1,Medium,34539,24,11292438
+India,Telangana,1856,3,Medium,18601,40,26612156
+India,Tamil Nadu,2969,5,Medium,36745,26,67931557
+India,Gujarat,4093,4,Medium,4372,19,60330407
+India,Rajasthan,397,3,Poor,27408,25,2947837
+India,Tamil Nadu,379,3,Poor,39345,37,4120513
+India,Rajasthan,1423,3,Poor,17249,35,7550960
+India,Haryana,631,5,Poor,45568,35,9004602
+India,Kerala,4178,5,Rich,21881,20,114997415
+India,Delhi,2141,2,Medium,43354,0,110187062
+India,Kerala,1371,1,Poor,3066,2,9022931
+India,West Bengal,381,1,Rich,39549,40,3985216
+India,West Bengal,2302,4,Rich,43139,9,58360415
+India,West Bengal,3201,5,Medium,39553,10,65138085
+India,Maharashtra,2098,4,Medium,19506,15,102215060
+India,Punjab,4982,4,Poor,9826,11,40274281
+India,Karnataka,3111,4,Medium,19268,33,75143103
+India,Delhi,2637,1,Medium,23184,10,66315004
+India,Telangana,2665,4,Poor,44805,30,45197199
+India,Rajasthan,431,5,Medium,20977,28,5203605
+India,Uttar Pradesh,3985,1,Rich,25146,32,28038124
+India,West Bengal,749,3,Poor,45200,15,7159555
+India,Karnataka,4871,5,Poor,10611,32,77889733
+India,Maharashtra,4711,4,Rich,22941,38,311688244
+India,Punjab,3983,2,Medium,48750,7,55230484
+India,Uttar Pradesh,4577,1,Poor,28394,20,20286729
+India,Uttar Pradesh,4842,2,Rich,3922,25,41570885
+India,Punjab,3864,3,Rich,20667,33,47710363
+India,Delhi,860,4,Poor,11847,36,18738175
+India,Rajasthan,2279,5,Rich,22305,22,40691529
+India,Punjab,4504,4,Poor,28881,9,52482962
+India,Delhi,1730,1,Medium,18916,36,39778811
+India,Gujarat,3118,1,Poor,6617,21,16685791
+India,Kerala,1453,3,Rich,38968,33,29003418
+India,Delhi,944,2,Rich,7678,23,43616053
+India,Uttar Pradesh,1786,1,Medium,38632,27,10924509
+India,Kerala,1994,1,Medium,38124,30,16891360
+India,Tamil Nadu,1206,3,Poor,41389,22,14458417
+India,Delhi,762,1,Poor,48719,29,15812187
+India,Tamil Nadu,2968,1,Medium,12584,37,23075252
+India,Punjab,2783,2,Poor,28482,17,18868352
+India,Maharashtra,2648,4,Rich,31819,20,231312789
+India,West Bengal,3673,1,Medium,1087,24,22089790
+India,Karnataka,462,1,Medium,42965,3,10287536
+India,Uttar Pradesh,2774,2,Medium,41726,30,21020020
+India,Maharashtra,4658,2,Poor,31885,12,151811485
+India,Punjab,397,2,Medium,45261,0,5461602
+India,Kerala,4583,1,Poor,46874,15,36903654
+India,Maharashtra,4192,1,Poor,5321,16,79110293
+India,Kerala,4115,5,Medium,11187,6,77158861
+India,Maharashtra,1045,3,Medium,23298,12,47404409
+India,Tamil Nadu,589,3,Poor,28106,37,4882511
+India,Telangana,4957,1,Medium,10174,24,51109325
+India,Maharashtra,3612,2,Rich,5318,24,177790593
+India,Delhi,4807,5,Poor,38489,13,230142607
+India,Delhi,2192,1,Poor,14679,14,40429422
+India,Rajasthan,3146,5,Medium,30236,37,35854395
+India,Uttar Pradesh,3437,3,Poor,12101,40,15811581
+India,Telangana,1839,2,Medium,16026,17,28753397
+India,Tamil Nadu,719,5,Rich,33399,27,21866310
+India,Uttar Pradesh,679,3,Medium,32085,34,4685202
+India,Gujarat,1026,4,Medium,8216,0,18434879
+India,Punjab,715,3,Rich,8288,2,11739140
+India,Karnataka,1867,3,Poor,2094,4,33296791
+India,West Bengal,1508,5,Poor,47806,10,23482966
+India,West Bengal,4902,1,Poor,3963,32,18727693
+India,Delhi,3334,3,Medium,15762,4,143080040
+India,Uttar Pradesh,1570,5,Medium,49348,4,25606986
+India,Punjab,1016,5,Poor,24168,37,9049918
+India,West Bengal,2149,3,Rich,9103,21,30479339
+India,Karnataka,1738,5,Medium,16029,16,50969739
+India,Kerala,1081,2,Medium,2244,26,10476585
+India,Tamil Nadu,716,3,Medium,45938,17,12366123
+India,Haryana,3046,2,Rich,25260,23,66814858
+India,Haryana,531,3,Medium,5353,24,6166587
+India,Uttar Pradesh,364,3,Medium,26525,34,2665873
+India,Telangana,937,5,Rich,27836,30,30468739
+India,Punjab,442,2,Medium,40420,9,5497327
+India,West Bengal,592,4,Poor,49411,30,5931589
+India,Kerala,571,1,Poor,27534,1,5256461
+India,Gujarat,1182,3,Medium,26407,24,14480373
+India,Rajasthan,1894,5,Medium,23369,10,26852390
+India,West Bengal,889,5,Medium,6063,6,13347343
+India,Punjab,3166,3,Poor,42504,28,23665758
+India,Rajasthan,4692,5,Poor,37440,22,46725001
+India,Tamil Nadu,459,1,Rich,48561,3,11335082
+India,Telangana,2032,5,Poor,33209,27,41763223
+India,Telangana,1770,4,Medium,47225,40,41746983
+India,Kerala,4762,1,Medium,31268,13,46069403
+India,Kerala,4611,5,Poor,31511,7,70061351
+India,Delhi,690,1,Poor,44388,12,14390944
+India,Haryana,4794,4,Medium,4572,2,95981507
+India,West Bengal,3716,2,Medium,3311,11,36640043
+India,Kerala,2909,2,Poor,40008,13,25984277
+India,Gujarat,2212,4,Poor,28793,20,26321568
+India,Kerala,1064,1,Rich,4497,8,14594935
+India,Punjab,4933,2,Poor,46485,37,31656541
+India,Karnataka,2920,2,Poor,8597,29,32826534
+India,Maharashtra,3246,5,Medium,32608,18,243528316
+India,Kerala,1563,1,Rich,38221,8,26766548
+India,Punjab,3477,2,Medium,11340,32,22960040
+India,Kerala,1761,3,Rich,33840,2,45974663
+India,Telangana,4816,1,Rich,41868,32,94624012
+India,Telangana,3898,5,Rich,48229,24,173584315
+India,Delhi,2977,2,Poor,34585,18,80850129
+India,Uttar Pradesh,1510,2,Rich,17983,10,16708967
+India,Maharashtra,2187,5,Medium,35603,1,190845571
+India,Uttar Pradesh,2044,4,Medium,10864,34,15296690
+India,Delhi,4371,1,Medium,45055,23,140766216
+India,Kerala,3272,5,Medium,19429,32,44521532
+India,Uttar Pradesh,4445,4,Rich,29205,10,75364782
+India,Uttar Pradesh,3611,2,Rich,25259,11,42236561
+India,Karnataka,3758,2,Medium,37498,13,89339202
+India,Punjab,3791,1,Rich,10260,9,40096456
+India,Telangana,1622,3,Medium,6614,35,23190257
+India,Uttar Pradesh,4101,1,Poor,41144,14,21061965
+India,Tamil Nadu,2044,1,Medium,19637,13,20808050
+India,Delhi,1161,4,Medium,35274,5,69849955
+India,Telangana,3984,3,Medium,15760,10,75023729
+India,Karnataka,1248,2,Poor,1567,40,13866922
+India,Karnataka,3444,4,Rich,47857,8,216999885
+India,Karnataka,3690,3,Medium,44632,20,100149330
+India,Maharashtra,2669,3,Medium,17192,9,125129602
+India,Uttar Pradesh,2403,4,Rich,13190,37,29985015
+India,Haryana,2424,1,Medium,34207,6,32179170
+India,Tamil Nadu,3923,1,Poor,4209,29,24241344
+India,Tamil Nadu,3843,4,Poor,29947,31,42268468
+India,Maharashtra,2629,4,Medium,18578,34,103017873
+India,Haryana,3215,1,Rich,22676,23,49996262
+India,Maharashtra,577,2,Medium,21301,11,22471815
+India,Punjab,990,5,Medium,11040,17,15289973
+India,Telangana,1239,3,Rich,6037,37,23397125
+India,Karnataka,2856,1,Rich,17444,34,57985900
+India,Gujarat,2030,2,Rich,5089,40,26981278
+India,Uttar Pradesh,3264,1,Poor,18694,26,11846300
+India,Telangana,1662,2,Poor,42471,35,18451144
+India,Uttar Pradesh,2002,4,Medium,18038,11,21851841
+India,Haryana,3567,2,Rich,24116,18,75447720
+India,Kerala,2263,2,Rich,11466,24,34557728
+India,Haryana,4215,4,Poor,18221,9,57827784
+India,Rajasthan,539,3,Poor,45153,35,3864215
+India,Karnataka,2326,3,Poor,49716,16,46846704
+India,Rajasthan,2744,5,Medium,6899,6,39688483
+India,Tamil Nadu,1721,3,Poor,16935,40,13650664
+India,Tamil Nadu,4178,1,Poor,1552,23,23707907
+India,Uttar Pradesh,1464,1,Poor,26579,34,4749312
+India,Gujarat,2059,3,Poor,40791,9,25280534
+India,Karnataka,1637,5,Rich,25154,21,76377925
+India,Delhi,3640,5,Poor,36919,7,183553612
+India,Telangana,3874,1,Medium,8838,11,50862929
+India,Rajasthan,4363,3,Medium,39333,19,55832484
+India,Tamil Nadu,4469,5,Medium,37476,33,85790413
+India,Gujarat,1545,1,Poor,2199,12,8480551
+India,Telangana,1290,2,Poor,30530,20,16210556
+India,Rajasthan,2798,1,Rich,25691,37,24923829
+India,Tamil Nadu,4699,3,Poor,47546,32,51457947
+India,Kerala,463,5,Medium,18379,15,7956607
+India,Gujarat,2177,3,Poor,32058,39,19202171
+India,Karnataka,2103,4,Rich,44860,18,119586113
+India,Punjab,4117,1,Rich,25690,31,41586147
+India,Haryana,1257,5,Rich,9287,36,31300797
+India,Kerala,848,1,Rich,7192,18,10873820
+India,Gujarat,643,1,Rich,29038,10,10625022
+India,Rajasthan,3585,3,Poor,3003,31,17720950
+India,Haryana,3972,5,Poor,8458,23,52378381
+India,Tamil Nadu,3951,5,Poor,29491,16,63276655
+India,Maharashtra,1654,5,Medium,4754,17,84087115
+India,Gujarat,635,4,Medium,9691,28,7997067
+India,West Bengal,1435,1,Poor,44308,25,9536265
+India,Karnataka,3506,1,Medium,2624,14,52104317
+India,Kerala,2408,4,Rich,8899,37,42686374
+India,Uttar Pradesh,722,4,Medium,31066,13,8861853
+India,Delhi,987,3,Poor,47622,24,31352961
+India,Karnataka,783,2,Rich,18404,36,21969725
+India,Kerala,3646,1,Poor,12156,0,26785623
+India,Gujarat,1802,4,Poor,28220,1,26736135
+India,Tamil Nadu,884,5,Medium,31929,26,19999415
+India,West Bengal,2504,5,Poor,8018,21,24626101
+India,Karnataka,4629,4,Poor,35245,2,126819143
+India,Delhi,570,5,Medium,12406,31,24868779
+India,Maharashtra,3039,3,Medium,22540,40,101439988
+India,Maharashtra,4944,5,Rich,31509,37,386596564
+India,Karnataka,1716,5,Poor,6380,24,33915115
+India,Tamil Nadu,4413,5,Poor,36614,0,91187580
+India,Rajasthan,4403,1,Rich,12782,7,52656615
+India,Punjab,3860,1,Poor,45042,37,18387410
+India,Delhi,2543,2,Medium,35528,10,99306961
+India,West Bengal,3536,4,Rich,23282,21,68779816
+India,Telangana,2414,5,Rich,18499,10,96384919
+India,Tamil Nadu,3250,1,Rich,33191,32,47827848
+India,Maharashtra,4472,5,Medium,9989,40,223920714
+India,Gujarat,3626,2,Medium,1719,36,30949025
+India,Punjab,4974,4,Medium,31720,33,60221634
+India,Haryana,3805,4,Medium,16221,22,66532459
+India,Rajasthan,3363,2,Rich,7073,40,31857754
+India,Uttar Pradesh,509,4,Medium,42890,6,6584761
+India,Rajasthan,1177,4,Medium,11691,28,12842514
+India,Haryana,691,1,Medium,41332,26,7840340
+India,Telangana,4281,3,Medium,9294,21,73391487
+India,Karnataka,4373,1,Medium,4205,3,77975013
+India,Uttar Pradesh,910,4,Medium,35234,20,9407447
+India,Uttar Pradesh,2446,1,Medium,42811,15,15905340
+India,Maharashtra,4170,2,Poor,22601,11,125560153
+India,Tamil Nadu,3354,3,Rich,7028,7,81853084
+India,Karnataka,3402,5,Rich,13363,1,194999943
+India,Rajasthan,595,5,Rich,25552,31,9951912
+India,Gujarat,896,4,Rich,46183,12,25320358
+India,Delhi,441,1,Medium,36607,33,10592421
+India,Telangana,2209,5,Medium,38284,6,77959919
+India,West Bengal,3521,4,Poor,41743,36,29771796
+India,Punjab,826,4,Poor,2753,8,7549042
+India,Haryana,1954,2,Rich,37809,32,39677309
+India,Telangana,842,2,Poor,42745,27,10397930
+India,Maharashtra,4885,2,Poor,46519,1,214265262
+India,Maharashtra,1538,2,Poor,17074,0,49081134
+India,Kerala,3065,3,Medium,45859,35,43695354
+India,Delhi,1177,3,Poor,19493,6,37271200
+India,West Bengal,2703,2,Medium,40469,31,25038281
+India,Haryana,3882,1,Medium,43589,4,65341891
+India,Rajasthan,2757,4,Medium,9645,10,30853565
+India,Kerala,2649,5,Medium,5432,31,38236219
+India,Uttar Pradesh,3120,5,Poor,3031,33,17242346
+India,West Bengal,3161,1,Rich,28369,22,40815996
+India,Delhi,672,5,Rich,41385,38,49458741
+India,West Bengal,4669,2,Poor,6868,15,32690961
+India,Kerala,1690,5,Poor,43109,18,24451884
+India,Uttar Pradesh,3508,1,Poor,34511,14,15512902
+India,Kerala,4240,5,Rich,49302,16,160331749
+India,Telangana,1247,5,Poor,1594,38,16114683
+India,Delhi,2960,1,Medium,7089,6,81416573
+India,Rajasthan,2852,4,Medium,31209,16,37790643
+India,Tamil Nadu,3325,3,Rich,16730,36,64141980
+India,Uttar Pradesh,1837,1,Poor,35635,21,8528142
+India,Maharashtra,4182,5,Medium,27488,8,299481085
+India,Tamil Nadu,1494,4,Poor,45564,8,24109165
+India,Gujarat,2378,1,Medium,1068,5,21306189
+India,Punjab,1283,5,Medium,30152,9,23954902
+India,Telangana,3766,3,Medium,24382,33,66730722
+India,Gujarat,2503,4,Medium,2144,11,33189204
+India,Telangana,1487,4,Rich,35457,25,56990398
+India,Rajasthan,1276,1,Rich,23881,1,17401443
+India,Gujarat,3343,5,Poor,34683,29,44789484
+India,Kerala,4891,3,Poor,24223,14,46291628
+India,Tamil Nadu,3739,5,Poor,32029,15,67977488
+India,Punjab,2070,1,Poor,2522,20,7999049
+India,Telangana,1505,5,Poor,42616,36,28260833
+India,Rajasthan,4051,5,Poor,21143,28,35036909
+India,Karnataka,882,3,Medium,13342,22,16893770
+India,West Bengal,3108,4,Medium,16354,38,35887855
+India,Karnataka,3903,4,Rich,32230,9,211985315
+India,Uttar Pradesh,2467,1,Rich,43136,3,29303392
+India,Uttar Pradesh,2170,2,Medium,41011,34,14922388
+India,Rajasthan,3896,4,Medium,28563,32,43847433
+India,Haryana,2877,5,Medium,41028,23,67954678
+India,Haryana,4097,4,Rich,29672,39,93554758
+India,Delhi,1007,5,Rich,47579,19,109391105
+India,Gujarat,2461,5,Poor,33161,19,33371955
+India,West Bengal,4607,5,Rich,17568,12,115343608
+India,Telangana,819,4,Poor,34044,9,16294750
+India,Haryana,4353,5,Poor,7073,13,60257998
+India,Telangana,3727,5,Rich,27420,18,156909575
+India,Tamil Nadu,1634,1,Poor,7255,15,10195169
+India,Maharashtra,2729,5,Rich,27297,38,210131257
+India,Tamil Nadu,1572,4,Medium,32574,20,27844651
+India,West Bengal,835,5,Medium,30534,18,15886060
+India,Haryana,733,4,Medium,8506,27,11845116
+India,West Bengal,3633,3,Rich,14472,20,52273866
+India,Gujarat,1544,2,Poor,37635,33,12381737
+India,Haryana,312,1,Rich,13526,22,4478291
+India,Telangana,1481,3,Poor,16299,32,16693370
+India,Rajasthan,4146,1,Poor,3520,0,21231366
+India,Haryana,3417,1,Poor,22157,26,25178795
+India,Kerala,4961,2,Medium,47871,27,71376324
+India,Tamil Nadu,4310,3,Medium,20290,18,68632350
+India,Maharashtra,3804,1,Rich,28122,5,209766853
+India,Tamil Nadu,1347,3,Rich,8088,10,28709475
+India,Maharashtra,4121,5,Rich,46665,17,438234911
+India,Tamil Nadu,4079,2,Rich,3794,4,90344892
+India,Punjab,4591,2,Poor,16584,37,23977986
+India,Uttar Pradesh,460,1,Poor,32210,18,2160482
+India,Punjab,572,2,Poor,38180,2,5673529
+India,West Bengal,1901,1,Rich,4718,19,21573779
+India,Telangana,3215,3,Poor,42211,20,42484562
+India,Karnataka,2415,3,Medium,49527,2,93003507
+India,Delhi,741,1,Rich,40269,6,35502362
+India,West Bengal,1155,2,Medium,6279,32,8865357
+India,Maharashtra,4850,4,Rich,16131,22,313239810
+India,Haryana,4834,2,Medium,33525,38,57007180
+India,Uttar Pradesh,2363,1,Medium,1420,40,9991304
+India,Uttar Pradesh,809,2,Medium,19243,35,4636055
+India,Delhi,2365,3,Poor,49005,25,70059555
+India,Uttar Pradesh,4742,4,Poor,42983,4,50876520
+India,Telangana,2298,5,Poor,18400,34,34974940
+India,Kerala,3656,2,Poor,44327,27,33338572
+India,Maharashtra,1185,2,Medium,24362,33,37535016
+India,Haryana,904,5,Medium,49073,9,25535717
+India,West Bengal,4079,2,Rich,35285,30,55757667
+India,Delhi,4942,1,Medium,22703,31,104242774
+India,Uttar Pradesh,4793,2,Medium,5487,6,33230472
+India,West Bengal,2571,3,Poor,16105,33,15118837
+India,Maharashtra,3332,3,Medium,25967,16,164010855
+India,Telangana,4541,2,Poor,17350,36,45291100
+India,Kerala,1064,2,Rich,17882,11,18926711
+India,Maharashtra,4104,5,Rich,29789,30,323169973
+India,Delhi,4413,3,Rich,7546,12,223623186
+India,Karnataka,3614,1,Medium,19595,3,76232654
+India,Gujarat,3106,2,Medium,19639,4,45363239
+India,Tamil Nadu,1752,4,Rich,19706,6,53299992
+India,Rajasthan,3963,5,Rich,34937,38,79235541
+India,Karnataka,3648,4,Poor,49394,21,87729691
+India,Rajasthan,1481,5,Rich,25099,22,29842971
+India,Telangana,658,3,Medium,21126,28,11593013
+India,Rajasthan,3490,5,Rich,16346,2,87266517
+India,Haryana,540,5,Rich,46721,13,22638633
+India,Uttar Pradesh,4618,4,Medium,36081,25,52138815
+India,Haryana,2949,4,Medium,41251,19,62725003
+India,Telangana,2722,3,Rich,11282,31,59515053
+India,Tamil Nadu,1555,4,Poor,25583,34,16380076
+India,Rajasthan,4250,5,Medium,48156,33,62985354
+India,Maharashtra,362,5,Poor,4571,25,13654150
+India,Punjab,4575,3,Poor,6029,22,26791556
+India,West Bengal,653,3,Medium,17014,8,8345141
+India,Tamil Nadu,3945,4,Poor,9787,4,55501592
+India,Rajasthan,4297,3,Rich,32899,29,59671226
+India,Kerala,513,3,Poor,30621,33,4097856
+India,Telangana,1373,4,Rich,32241,20,51806932
+India,Punjab,4790,1,Poor,33953,0,33657685
+India,Gujarat,3811,1,Rich,45308,21,57606835
+India,Maharashtra,1525,4,Poor,17163,28,46248806
+India,West Bengal,2970,3,Rich,2688,15,44642758
+India,Rajasthan,3308,5,Rich,49531,4,106330857
+India,Delhi,347,2,Medium,4457,15,11540797
+India,Karnataka,2197,1,Poor,46680,3,34271585
+India,Maharashtra,2243,3,Medium,23296,27,98614531
+India,Tamil Nadu,2127,3,Medium,23768,5,33507988
+India,Telangana,4023,1,Rich,45001,24,97113165
+India,Maharashtra,2353,2,Poor,26317,8,70028807
+India,Rajasthan,3720,4,Poor,20623,25,28055348
+India,Gujarat,3513,5,Poor,35551,38,39203434
+India,Kerala,3518,2,Poor,29864,37,26663996
+India,Kerala,625,1,Medium,17491,22,5076044
+India,Haryana,2339,4,Poor,11040,0,37768356
+India,Maharashtra,3866,5,Medium,15312,39,175506069
+India,Delhi,4512,1,Medium,2504,9,112915377
+India,Delhi,1999,4,Poor,14898,40,51759791
+India,Rajasthan,1275,1,Poor,14002,5,6826118
+India,Punjab,4033,5,Rich,35196,32,83728075
+India,West Bengal,4157,4,Medium,16628,26,49928675
+India,Rajasthan,3777,3,Rich,49310,2,79821110
+India,Punjab,4725,4,Medium,29832,6,78923627
+India,Punjab,2374,1,Medium,33969,20,18437115
+India,Uttar Pradesh,2402,4,Poor,38893,17,21352366
+India,Maharashtra,3913,5,Medium,26382,11,263015144
+India,Haryana,4625,5,Medium,37744,20,107179839
+India,Maharashtra,4167,3,Poor,21407,15,120128371
+India,Tamil Nadu,1049,4,Medium,46733,19,25199788
+India,Rajasthan,3745,3,Medium,47146,9,46214021
+India,Punjab,2515,1,Medium,23713,32,14885753
+India,Delhi,644,2,Rich,22500,3,42821696
+India,Uttar Pradesh,1252,5,Rich,25719,25,23125081
+India,Delhi,2107,5,Rich,28315,9,184054358
+India,Haryana,2785,1,Poor,23322,5,25223695
+India,Punjab,2871,2,Rich,9167,1,41650031
+India,Rajasthan,371,3,Medium,23984,12,3646378
+India,Rajasthan,3490,5,Medium,2287,30,32457277
+India,West Bengal,4202,1,Rich,33238,18,58639697
+India,Kerala,2579,2,Rich,18968,22,41574013
+India,Rajasthan,4323,1,Medium,24606,24,29477084
+India,Haryana,2460,4,Poor,10223,9,32972934
+India,Tamil Nadu,406,1,Rich,42704,7,8332440
+India,Delhi,4540,4,Medium,26396,27,195257303
+India,Karnataka,4442,4,Medium,8087,8,125645735
+India,Punjab,2305,4,Medium,15724,6,32264391
+India,Telangana,1369,5,Medium,28245,19,41764076
+India,Karnataka,4040,1,Rich,13040,21,81888722
+India,Delhi,625,5,Medium,43464,18,43968294
+India,Kerala,1255,4,Rich,42514,28,31122435
+India,Gujarat,4439,5,Poor,14188,5,61407721
+India,Gujarat,4961,4,Medium,37397,9,101524846
+India,Rajasthan,1670,5,Poor,26247,22,15934855
+India,West Bengal,3854,5,Poor,13631,0,46433447
+India,Karnataka,3271,4,Rich,45250,17,186169512
+India,Telangana,1040,2,Rich,41024,12,29578495
+India,Tamil Nadu,2048,2,Rich,14111,35,29794541
+India,Gujarat,1709,3,Poor,34677,40,13381702
+India,Punjab,2860,2,Rich,6103,26,31548614
+India,Karnataka,1598,2,Medium,35956,7,45459674
+India,Rajasthan,3264,1,Poor,3216,28,13487426
+India,Maharashtra,1670,5,Poor,11694,9,74323681
+India,Rajasthan,2229,2,Medium,48074,34,19932989
+India,Tamil Nadu,1014,2,Rich,12116,18,21152727
+India,Uttar Pradesh,3311,1,Rich,45085,36,28977181
+India,West Bengal,4241,3,Medium,34577,0,70508915
+India,Haryana,3047,2,Rich,35750,38,61543726
+India,Telangana,864,4,Poor,2304,34,8732124
+India,Maharashtra,2458,3,Poor,34617,8,93543242
+India,Tamil Nadu,3244,5,Rich,23720,2,131976523
+India,Uttar Pradesh,383,2,Medium,32952,9,3602204
+India,Kerala,2591,3,Poor,14704,16,23426085
+India,West Bengal,1014,1,Poor,9301,1,6852024
+India,Uttar Pradesh,1254,3,Poor,31341,5,9608516
+India,Punjab,4131,1,Poor,4255,34,15515383
+India,Maharashtra,3447,2,Poor,3570,26,77502901
+India,Delhi,1187,1,Poor,23804,33,16964561
+India,Kerala,475,2,Poor,16106,23,3445254
+India,Karnataka,1694,3,Medium,8034,7,36864828
+India,Rajasthan,1920,4,Poor,27925,3,18829825
+India,Uttar Pradesh,2876,2,Rich,34299,15,40780584
+India,Punjab,3465,3,Medium,21888,40,29337979
+India,Tamil Nadu,4654,4,Rich,36233,13,158429607
+India,Punjab,925,5,Medium,8509,30,11148806
+India,Kerala,2191,5,Medium,32258,20,43648150
+India,Karnataka,2938,1,Medium,7799,35,36308853
+India,Uttar Pradesh,3646,1,Poor,20906,35,12852495
+India,Tamil Nadu,3934,1,Poor,40357,23,32207211
+India,Tamil Nadu,4081,3,Medium,27221,4,80557102
+India,Tamil Nadu,2426,2,Medium,22088,29,33654635
+India,Rajasthan,4005,4,Poor,49047,6,42256057
+India,Delhi,4730,4,Medium,39536,6,296748257
+India,Kerala,380,2,Poor,30662,31,2646170
+India,Uttar Pradesh,1694,1,Poor,49484,19,8923044
+India,Kerala,2241,3,Rich,32457,30,36798726
+India,Haryana,4995,4,Poor,16860,17,64133044
+India,Tamil Nadu,716,2,Rich,39767,32,12630197
+India,Karnataka,2244,2,Medium,42815,37,49486859
+India,Gujarat,3494,4,Rich,25117,23,80640099
+India,Gujarat,1653,4,Medium,49596,39,27714540
+India,Karnataka,1738,3,Poor,40632,22,33515613
+India,Punjab,1312,5,Poor,36115,23,13872357
+India,Rajasthan,2222,3,Poor,24177,0,18213231
+India,Kerala,2425,1,Rich,12649,1,35913036
+India,Uttar Pradesh,1805,3,Poor,42209,36,9935527
+India,Haryana,757,3,Medium,37137,13,14847366
+India,Maharashtra,3687,2,Medium,20622,4,193605751
+India,Telangana,2873,4,Poor,35074,25,45860154
+India,Kerala,4531,1,Medium,34580,28,46341667
+India,Karnataka,1170,4,Rich,14760,28,42185866
+India,Delhi,3690,1,Poor,16396,38,54886305
+India,Uttar Pradesh,4634,5,Medium,28268,23,53142900
+India,Haryana,3334,4,Rich,25425,25,89070856
+India,Uttar Pradesh,1576,5,Medium,41496,17,21340870
+India,Haryana,1373,4,Rich,32571,35,32587583
+India,Telangana,1585,5,Poor,26110,6,32155677
+India,Tamil Nadu,945,5,Rich,5652,35,21099210
+India,West Bengal,2955,1,Rich,41201,34,33175895
+India,Punjab,1839,2,Rich,14145,2,28685364
+India,Maharashtra,3711,1,Medium,26192,33,105769495
+India,Karnataka,632,3,Rich,8977,31,15571888
+India,Telangana,3089,4,Medium,5973,38,47580940
+India,Haryana,3492,3,Rich,2745,25,68787288
+India,Delhi,2567,4,Medium,10688,25,103092292
+India,Delhi,1229,5,Medium,30076,36,60745913
+India,Maharashtra,4230,3,Medium,47177,15,210356947
+India,Telangana,3991,2,Rich,14860,7,109553240
+India,Tamil Nadu,3153,1,Medium,46348,22,40130584
+India,Maharashtra,715,5,Rich,2935,2,63620858
+India,West Bengal,1801,4,Medium,36241,31,23689987
+India,Maharashtra,1572,5,Poor,35630,2,102775089
+India,Karnataka,842,2,Poor,24652,30,9991572
+India,Delhi,3871,1,Poor,37434,24,73905743
+India,Telangana,1580,1,Medium,47652,40,22400147
+India,Telangana,2925,2,Poor,9503,5,38180742
+India,Delhi,4177,3,Medium,24170,4,190283829
+India,Delhi,2075,4,Poor,32195,33,57952828
+India,Gujarat,4977,2,Medium,20686,33,45247470
+India,Tamil Nadu,4484,3,Medium,15162,10,66982511
+India,Tamil Nadu,1209,2,Medium,35648,15,20406265
+India,Uttar Pradesh,3372,3,Rich,30652,24,46998198
+India,Delhi,844,2,Rich,4097,40,31705391
+India,Karnataka,2545,4,Medium,25475,14,77742199
+India,Delhi,912,3,Medium,45927,37,33697598
+India,West Bengal,1743,1,Medium,47475,9,18015930
+India,West Bengal,4987,5,Rich,10700,28,101888951
+India,Telangana,4349,4,Rich,30367,10,159616084
+India,Punjab,2276,5,Poor,18178,19,24120747
+India,Gujarat,1747,1,Rich,13224,28,21717404
+India,Uttar Pradesh,3147,2,Medium,5570,7,24632009
+India,Kerala,1230,4,Poor,11991,35,11042284
+India,Tamil Nadu,2812,1,Rich,35031,30,38671900
+India,Tamil Nadu,4335,4,Poor,34000,0,81072424
+India,Delhi,2229,3,Poor,27224,23,62980539
+India,Kerala,2060,3,Medium,1620,33,17602747
+India,Karnataka,1274,2,Medium,5671,29,22669126
+India,Punjab,461,1,Medium,47993,18,4073263
+India,West Bengal,4919,4,Medium,19926,26,59966600
+India,Telangana,3733,1,Rich,18261,3,91944860
+India,Haryana,1974,1,Poor,26793,26,14657895
+India,Kerala,2112,5,Rich,14383,0,64331897
+India,Rajasthan,527,4,Medium,23457,16,6145295
+India,Telangana,991,2,Poor,2739,5,12307587
+India,Tamil Nadu,3630,2,Rich,35055,9,96373869
+India,Kerala,2472,1,Poor,16629,36,13898154
+India,Tamil Nadu,4510,1,Medium,10216,10,45711293
+India,Punjab,1067,2,Poor,44150,7,10621831
+India,Rajasthan,389,5,Poor,10257,34,2948940
+India,Rajasthan,4519,1,Rich,22959,31,36362895
+India,Kerala,4447,1,Poor,37694,4,43228845
+India,Telangana,1532,1,Rich,19431,23,25465720
+India,Maharashtra,3397,4,Medium,36841,27,175159224
+India,Gujarat,3921,4,Rich,15405,8,101905508
+India,Kerala,3271,5,Medium,46938,9,88822107
+India,Rajasthan,3724,5,Rich,15628,39,67019634
+India,Telangana,4958,5,Poor,33812,27,92707462
+India,West Bengal,3068,5,Medium,42553,16,62321863
+India,Gujarat,851,3,Rich,44848,18,20029595
+India,Gujarat,971,4,Poor,38790,16,12998396
+India,Kerala,2894,5,Medium,26191,36,44321214
+India,Telangana,4707,1,Medium,32090,12,67285977
+India,Telangana,2725,5,Medium,28850,10,74481762
+India,Uttar Pradesh,727,3,Poor,21948,4,5454563
+India,Uttar Pradesh,1185,1,Rich,2273,33,7762717
+India,Punjab,4849,2,Rich,9302,36,54906235
+India,Haryana,4015,2,Rich,48136,8,122959144
+India,Karnataka,1693,5,Medium,28411,38,47136106
+India,Haryana,1825,2,Rich,46871,38,38052961
+India,West Bengal,2258,4,Rich,48679,18,56184405
+India,West Bengal,4394,3,Rich,34531,35,73641694
+India,Punjab,4019,2,Rich,15102,5,58731756
+India,Tamil Nadu,409,5,Medium,29424,33,7276616
+India,Kerala,407,5,Rich,42384,21,11781580
+India,Delhi,3875,3,Rich,27944,14,251518582
+India,Tamil Nadu,1897,2,Poor,6958,9,16643672
